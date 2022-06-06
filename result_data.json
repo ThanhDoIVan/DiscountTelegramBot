@@ -1,0 +1,589 @@
+[
+    {
+        "model_name": "CLUB C 85",
+        "link": "https://www.lamoda.by/p/RE005AUFKFB9",
+        "brand_name": "Reebok Classic",
+        "available_sizes": [
+            "35",
+            "35,5",
+            "36",
+            "36,5",
+            "37",
+            "37,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 409,
+        "price": 224,
+        "discount": 45
+    },
+    {
+        "model_name": "GALAXY 5",
+        "link": "https://www.lamoda.by/p/AD002AMLVQS6",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "42",
+            "44",
+            "44,5",
+            "45",
+            "46,5"
+        ],
+        "old_price": 189,
+        "price": 139,
+        "discount": 26
+    },
+    {
+        "model_name": "No_Name",
+        "link": "https://www.lamoda.by/p/RTLABK472901",
+        "brand_name": "Patrol",
+        "available_sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+        ],
+        "old_price": 193,
+        "price": 164,
+        "discount": 15
+    },
+    {
+        "model_name": "ST Runner v3 L",
+        "link": "https://www.lamoda.by/p/RTLABC174101",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "35",
+            "36",
+            "36,5",
+            "37",
+            "37,5",
+            "38",
+            "39",
+            "39,5",
+            "41,5",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45"
+        ],
+        "old_price": 299,
+        "price": 179,
+        "discount": 40
+    },
+    {
+        "model_name": "REEBOK ROYAL COMPLETE CLN2",
+        "link": "https://www.lamoda.by/p/RE005AUJMFB0",
+        "brand_name": "Reebok Classic",
+        "available_sizes": [
+            "36,5",
+            "37,5",
+            "38",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45",
+            "46"
+        ],
+        "old_price": 189,
+        "price": 104,
+        "discount": 44
+    },
+    {
+        "model_name": "ULTIMASHOW",
+        "link": "https://www.lamoda.by/p/AD002AMLVPV0",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "38",
+            "38,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "44",
+            "44,5"
+        ],
+        "old_price": 189,
+        "price": 154,
+        "discount": 18
+    },
+    {
+        "model_name": "LITE RACER CLN 2.0",
+        "link": "https://www.lamoda.by/p/RTLAAK438901",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "38",
+            "38,5",
+            "39",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45",
+            "46"
+        ],
+        "old_price": 274,
+        "price": 169,
+        "discount": 38
+    },
+    {
+        "model_name": "CL NYLON",
+        "link": "https://www.lamoda.by/p/RTLABH111801",
+        "brand_name": "Reebok Classic",
+        "available_sizes": [
+            "36",
+            "37",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 314,
+        "price": 251,
+        "discount": 20
+    },
+    {
+        "model_name": "VL COURT 2.0",
+        "link": "https://www.lamoda.by/p/AD002AMFKBK4",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "38,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 274,
+        "price": 164,
+        "discount": 40
+    },
+    {
+        "model_name": "ENDLESS ROAD 3.0",
+        "link": "https://www.lamoda.by/p/RTLABB655801",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 274,
+        "price": 209,
+        "discount": 23
+    },
+    {
+        "model_name": "VL COURT 2.0",
+        "link": "https://www.lamoda.by/p/AD002AMEEGE6",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "35,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 239,
+        "price": 169,
+        "discount": 29
+    },
+    {
+        "model_name": "Chuck Taylor All Star",
+        "link": "https://www.lamoda.by/p/RTLAAK098201",
+        "brand_name": "Converse",
+        "available_sizes": [
+            "35",
+            "36",
+            "36,5",
+            "40",
+            "41",
+            "41,5",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 424,
+        "price": 254,
+        "discount": 40
+    },
+    {
+        "model_name": "ROGUERA",
+        "link": "https://www.lamoda.by/p/RTLABL102601",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5"
+        ],
+        "old_price": 214,
+        "price": 156.5,
+        "discount": 26
+    },
+    {
+        "model_name": "ENTRAP",
+        "link": "https://www.lamoda.by/p/RTLABL102401",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "38,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45",
+            "46"
+        ],
+        "old_price": 239,
+        "price": 173.5,
+        "discount": 27
+    },
+    {
+        "model_name": "ST Runner v3 L",
+        "link": "https://www.lamoda.by/p/RTLABC795901",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "36",
+            "36,5",
+            "37",
+            "37,5",
+            "38",
+            "39",
+            "39,5",
+            "40",
+            "41,5",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45"
+        ],
+        "old_price": 299,
+        "price": 234,
+        "discount": 21
+    },
+    {
+        "model_name": "REEBOK RESONATOR LOW",
+        "link": "https://www.lamoda.by/p/RTLABH112201",
+        "brand_name": "Reebok Classic",
+        "available_sizes": [
+            "37,5",
+            "38",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45",
+            "46,5"
+        ],
+        "old_price": 274,
+        "price": 179,
+        "discount": 34
+    },
+    {
+        "model_name": "ENTRAP",
+        "link": "https://www.lamoda.by/p/RTLABB294601",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "39",
+            "40",
+            "41",
+            "42,5",
+            "43",
+            "44",
+            "45",
+            "46",
+            "46,5"
+        ],
+        "old_price": 274,
+        "price": 224,
+        "discount": 18
+    },
+    {
+        "model_name": "No_Name",
+        "link": "https://www.lamoda.by/p/RTLABB476202",
+        "brand_name": "Polo Ralph Lauren",
+        "available_sizes": [
+            "40",
+            "41,5",
+            "43",
+            "45",
+            "46,5"
+        ],
+        "old_price": 349,
+        "price": 209,
+        "discount": 40
+    },
+    {
+        "model_name": "No_Name",
+        "link": "https://www.lamoda.by/p/RTLABK473101",
+        "brand_name": "Patrol",
+        "available_sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+        ],
+        "old_price": 193,
+        "price": 164,
+        "discount": 15
+    },
+    {
+        "model_name": "No_Name",
+        "link": "https://www.lamoda.by/p/RTLABG956001",
+        "brand_name": "Patrol",
+        "available_sizes": [
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+        ],
+        "old_price": 86,
+        "price": 77.4,
+        "discount": 10
+    },
+    {
+        "model_name": "FORUM LOW",
+        "link": "https://www.lamoda.by/p/RTLABL103801",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "35,5",
+            "36",
+            "36,5",
+            "37",
+            "37,5",
+            "38",
+            "38,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45",
+            "46"
+        ],
+        "old_price": 444,
+        "price": 325.5,
+        "discount": 26
+    },
+    {
+        "model_name": "No_Name",
+        "link": "https://www.lamoda.by/p/RTLABA221801",
+        "brand_name": "Trussardi",
+        "available_sizes": [
+            "44"
+        ],
+        "old_price": 444,
+        "price": 334,
+        "discount": 24
+    },
+    {
+        "model_name": "CA Pro LS",
+        "link": "https://www.lamoda.by/p/RTLABG704301",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "41",
+            "41,5",
+            "43",
+            "43,5",
+            "44",
+            "46"
+        ],
+        "old_price": 429,
+        "price": 364,
+        "discount": 15
+    },
+    {
+        "model_name": "Authentic",
+        "link": "https://www.lamoda.by/p/RTLABE011401",
+        "brand_name": "Vans",
+        "available_sizes": [
+            "34,5",
+            "35",
+            "36",
+            "36,5",
+            "37",
+            "38",
+            "38,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "43",
+            "44",
+            "44,5",
+            "45"
+        ],
+        "old_price": 289,
+        "price": 174,
+        "discount": 39
+    },
+    {
+        "model_name": "REEBOK LITE 3.0",
+        "link": "https://www.lamoda.by/p/RTLABE975401",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "40",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "46"
+        ],
+        "old_price": 164,
+        "price": 119,
+        "discount": 27
+    },
+    {
+        "model_name": "UA Charged Vantage 2",
+        "link": "https://www.lamoda.by/p/RTLABD028202",
+        "brand_name": "Under Armour",
+        "available_sizes": [
+            "43",
+            "43,5",
+            "46"
+        ],
+        "old_price": 319,
+        "price": 239,
+        "discount": 25
+    },
+    {
+        "model_name": "TONIK M SHOE XKWK",
+        "link": "https://www.lamoda.by/p/RTLAAJ193601",
+        "brand_name": "DC Shoes",
+        "available_sizes": [
+            "42",
+            "43",
+            "43,5",
+            "44"
+        ],
+        "old_price": 299,
+        "price": 209,
+        "discount": 30
+    },
+    {
+        "model_name": "CLASSIC LEATHER",
+        "link": "https://www.lamoda.by/p/RTLABJ064501",
+        "brand_name": "Reebok Classic",
+        "available_sizes": [
+            "35,5",
+            "36",
+            "36,5",
+            "37",
+            "37,5",
+            "38",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "43",
+            "43,5",
+            "44",
+            "45",
+            "46",
+            "46,5",
+            "47"
+        ],
+        "old_price": 409,
+        "price": 369,
+        "discount": 9
+    },
+    {
+        "model_name": "CORERACER",
+        "link": "https://www.lamoda.by/p/AD002AMLVQR6",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "38",
+            "38,5",
+            "39",
+            "40",
+            "40,5",
+            "41",
+            "42",
+            "42,5",
+            "44",
+            "44,5",
+            "45",
+            "46"
+        ],
+        "old_price": 189,
+        "price": 139,
+        "discount": 26
+    }
+]
