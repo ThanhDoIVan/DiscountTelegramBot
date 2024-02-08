@@ -5,7 +5,8 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
 from aiogram.utils.markdown import hbold, hlink
 
-bot = Bot(token='5494308929:AAHKJXLe2ieU3WAFCjBDX6xlNZ9fPNzoO_k', parse_mode=types.ParseMode.HTML)
+bot = Bot(token=YOUR_TOKEN, parse_mode=types.ParseMode.HTML) 
+# you can get your own token via BotFather at Telegram
 dp = Dispatcher(bot)
 
 async def bot_output(data, used_list, message: types.Message):
