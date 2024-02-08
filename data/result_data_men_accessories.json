@@ -1,517 +1,849 @@
 [
     {
-        "model_name": "Decades",
-        "link": "https://www.lamoda.by/p/RTLABD606101",
-        "brand_name": "Quiksilver",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 74,
-        "price": 66.6,
-        "discount": 10
-    },
-    {
-        "model_name": "Ремень",
-        "link": "https://www.lamoda.by/p/LE306DMHPTO8",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "90",
-            "95",
-            "105",
-            "110"
-        ],
-        "old_price": 119,
-        "price": 88,
-        "discount": 26
-    },
-    {
-        "model_name": "PLD 6114/S 35J",
-        "link": "https://www.lamoda.by/p/RTLABI744501",
-        "brand_name": "Polaroid",
-        "available_sizes": [
-            "51"
-        ],
-        "old_price": 299,
-        "price": 209,
-        "discount": 30
-    },
-    {
-        "model_name": "Ess Running Cap",
-        "link": "https://www.lamoda.by/p/RTLAAM864101",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 56,
-        "price": 42,
-        "discount": 25
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABF755601",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 119,
-        "price": 72,
-        "discount": 39
-    },
-    {
-        "model_name": "Сумка поясная",
-        "link": "https://www.lamoda.by/p/RTLABJ958301",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 374,
-        "price": 280,
-        "discount": 25
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABE068601",
-        "brand_name": "Vans",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 90,
-        "price": 80,
-        "discount": 11
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/TO263CMKLR09",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 210,
-        "price": 147,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка поясная",
-        "link": "https://www.lamoda.by/p/RTLABB170801",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 319,
-        "price": 239,
-        "discount": 25
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABD658001",
-        "brand_name": "adidas Originals",
-        "available_sizes": [
-            "OSFW",
-            "OSFM",
-            "OSFL"
-        ],
-        "old_price": 114,
-        "price": 82,
-        "discount": 28
-    },
-    {
-        "model_name": "Cabin size",
-        "link": "https://www.lamoda.by/p/RTLAAK545802",
-        "brand_name": "Polar",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 389,
-        "price": 291,
-        "discount": 25
-    },
-    {
-        "model_name": "Performance Headband",
-        "link": "https://www.lamoda.by/p/RTLAAA016701",
-        "brand_name": "Under Armour",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 42,
-        "price": 32,
-        "discount": 23
-    },
-    {
-        "model_name": "PRNCPL SCHWACK",
-        "link": "https://www.lamoda.by/p/RTLABD606801",
-        "brand_name": "Quiksilver",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 68,
-        "price": 46,
-        "discount": 32
-    },
-    {
-        "model_name": "PLD 2092/S 003",
-        "link": "https://www.lamoda.by/p/RTLABI735801",
-        "brand_name": "Polaroid",
+        "model_name": "BOSS 1413/S AOZ",
+        "link": "https://www.lamoda.by/p/RTLABK341301",
+        "brand_name": "Boss",
         "available_sizes": [
             "56"
         ],
-        "old_price": 249,
-        "price": 186,
-        "discount": 25
+        "old_price": 888,
+        "price": 444,
+        "discount": 50
     },
     {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABF754501",
-        "brand_name": "Levi's®",
+        "model_name": "Ремень",
+        "link": "https://www.lamoda.by/p/RTLACG568301",
+        "brand_name": "Navigare",
         "available_sizes": [
-            "S",
-            "M",
-            "L"
+            "95",
+            "105"
         ],
-        "old_price": 149,
-        "price": 74,
+        "old_price": 143,
+        "price": 71.5,
         "discount": 50
     },
     {
         "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABE722901",
-        "brand_name": "Tommy Hilfiger",
+        "link": "https://www.lamoda.by/p/RTLACG595601",
+        "brand_name": "Ungaro",
         "available_sizes": [
             "00"
         ],
-        "old_price": 559,
-        "price": 419,
-        "discount": 25
+        "old_price": 529,
+        "price": 264,
+        "discount": 50
     },
     {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABF753401",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 119,
-        "price": 72,
-        "discount": 39
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABE063401",
-        "brand_name": "Vans",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 68,
-        "price": 51,
-        "discount": 25
-    },
-    {
-        "model_name": "Кошелек",
-        "link": "https://www.lamoda.by/p/RTLAAM503401",
-        "brand_name": "La Martina",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 459,
-        "price": 160,
-        "discount": 65
-    },
-    {
-        "model_name": "Несессер",
-        "link": "https://www.lamoda.by/p/RTLABB508901",
-        "brand_name": "Bugatti",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 167,
-        "price": 125,
-        "discount": 25
-    },
-    {
-        "model_name": "45CM Backpack",
-        "link": "https://www.lamoda.by/p/RTLABF049101",
-        "brand_name": "Calvin Klein Performance",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 637,
-        "price": 477,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABA994001",
-        "brand_name": "David Jones",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 104,
-        "price": 78,
-        "discount": 25
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABF753901",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 119,
-        "price": 71.4,
-        "discount": 39
-    },
-    {
-        "model_name": "Performance Headband",
-        "link": "https://www.lamoda.by/p/RTLAAA016601",
-        "brand_name": "Under Armour",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 42,
-        "price": 32,
-        "discount": 23
-    },
-    {
-        "model_name": "CL Premium FO Backpack",
-        "link": "https://www.lamoda.by/p/RTLABE758601",
-        "brand_name": "Reebok Classic",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 114,
-        "price": 66,
-        "discount": 42
-    },
-    {
-        "model_name": "AF TRUCKER TREF",
-        "link": "https://www.lamoda.by/p/RTLABL188301",
-        "brand_name": "adidas Originals",
-        "available_sizes": [
-            "OSFM"
-        ],
-        "old_price": 64,
-        "price": 46.5,
-        "discount": 27
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABM376801",
-        "brand_name": "Diora.rim",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 94,
-        "price": 64,
-        "discount": 31
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABF755001",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 184,
-        "price": 90,
-        "discount": 51
-    },
-    {
-        "model_name": "M's Webbing Belt",
-        "link": "https://www.lamoda.by/p/RTLABC137101",
-        "brand_name": "Under Armour",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 82,
-        "price": 62,
-        "discount": 24
-    },
-    {
-        "model_name": "PUMA Phase Backpack No. 2",
-        "link": "https://www.lamoda.by/p/RTLABK032201",
+        "model_name": "Reversible Fleece Neck Warmer",
+        "link": "https://www.lamoda.by/p/RTLAAO587102",
         "brand_name": "PUMA",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 94,
-        "price": 84,
-        "discount": 10
-    },
-    {
-        "model_name": "Сумка поясная",
-        "link": "https://www.lamoda.by/p/LE306BULWRU6",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 98,
-        "price": 78,
-        "discount": 20
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABB774301",
-        "brand_name": "Polo Ralph Lauren",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 274,
-        "price": 144,
-        "discount": 47
-    },
-    {
-        "model_name": "PLD 6062/S 003",
-        "link": "https://www.lamoda.by/p/RTLABI743001",
-        "brand_name": "Polaroid",
-        "available_sizes": [
-            "57"
-        ],
-        "old_price": 249,
-        "price": 186,
-        "discount": 25
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABM374501",
-        "brand_name": "Diora.rim",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 94,
-        "price": 64,
-        "discount": 31
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABB473001",
-        "brand_name": "Polo Ralph Lauren",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 219,
-        "price": 174,
-        "discount": 20
-    },
-    {
-        "model_name": "NK BRSLA L BKPK WNTRZD - HO21",
-        "link": "https://www.lamoda.by/p/RTLAAX650701",
-        "brand_name": "Nike",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 179,
-        "price": 134,
-        "discount": 25
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABE062501",
-        "brand_name": "Vans",
         "available_sizes": [
             "00"
         ],
         "old_price": 90,
-        "price": 67.5,
-        "discount": 25
+        "price": 54,
+        "discount": 40
     },
     {
-        "model_name": "Ремень",
-        "link": "https://www.lamoda.by/p/RTLABB257401",
-        "brand_name": "Trussardi",
-        "available_sizes": [
-            "100",
-            "105",
-            "110",
-            "115"
-        ],
-        "old_price": 329,
-        "price": 164,
-        "discount": 50
-    },
-    {
-        "model_name": "Ess Running Cap",
-        "link": "https://www.lamoda.by/p/RTLAAM864102",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 56,
-        "price": 42,
-        "discount": 25
-    },
-    {
-        "model_name": "PLD 2053/S L7Q",
-        "link": "https://www.lamoda.by/p/RTLABI733801",
+        "model_name": "PLD 6158/CS 6LB",
+        "link": "https://www.lamoda.by/p/RTLABD787901",
         "brand_name": "Polaroid",
         "available_sizes": [
             "51"
         ],
-        "old_price": 249,
-        "price": 186,
-        "discount": 25
+        "old_price": 393,
+        "price": 216,
+        "discount": 45
     },
     {
-        "model_name": "BASEBALL ATP",
-        "link": "https://www.lamoda.by/p/RTLABB235302",
-        "brand_name": "EA7",
-        "available_sizes": [],
-        "old_price": 222,
-        "price": 155,
-        "discount": 30
-    },
-    {
-        "model_name": "NK ELMNTL BKPK - FA21",
-        "link": "https://www.lamoda.by/p/RTLAAL323501",
-        "brand_name": "Nike",
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/MP002XM1HO8Y",
+        "brand_name": "Mumi",
         "available_sizes": [
             "00"
         ],
-        "old_price": 134,
-        "price": 120,
+        "old_price": 139,
+        "price": 125,
         "discount": 10
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABE374602",
-        "brand_name": "Cerruti 1881",
+        "link": "https://www.lamoda.by/p/RTLACI654301",
+        "brand_name": "Champion",
         "available_sizes": [
             "00"
         ],
-        "old_price": 511,
-        "price": 204,
-        "discount": 60
+        "old_price": 81,
+        "price": 64.8,
+        "discount": 20
     },
     {
         "model_name": "Ремень",
-        "link": "https://www.lamoda.by/p/RTLAAS255201",
-        "brand_name": "Levi's®",
+        "link": "https://www.lamoda.by/p/RTLACH045801",
+        "brand_name": "Harmont & Blaine Jeans",
         "available_sizes": [
-            "90",
-            "95",
-            "100",
-            "105",
-            "110"
+            "46",
+            "50",
+            "52",
+            "54"
         ],
-        "old_price": 239,
-        "price": 155,
+        "old_price": 308,
+        "price": 154,
+        "discount": 50
+    },
+    {
+        "model_name": "KZ 40118F",
+        "link": "https://www.lamoda.by/p/RTLABM765301",
+        "brand_name": "Kenzo",
+        "available_sizes": [
+            "52"
+        ],
+        "old_price": 959,
+        "price": 654,
+        "discount": 31
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLACC237701",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "S"
+        ],
+        "old_price": 94,
+        "price": 65.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/FE913CMMEN41",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 48,
+        "price": 31.2,
         "discount": 35
     },
     {
+        "model_name": "DAILY CAP",
+        "link": "https://www.lamoda.by/p/AD002CUHLBG8",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "OSFY",
+            "OSFW",
+            "OSFM"
+        ],
+        "old_price": 80,
+        "price": 40,
+        "discount": 50
+    },
+    {
+        "model_name": "BOSS 1325/S J5G",
+        "link": "https://www.lamoda.by/p/RTLABK338301",
+        "brand_name": "Boss",
+        "available_sizes": [
+            "62"
+        ],
+        "old_price": 928,
+        "price": 510,
+        "discount": 45
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLABQ363501",
+        "brand_name": "Moschino",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 357,
+        "price": 249,
+        "discount": 30
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACE332101",
+        "brand_name": "Bikkembergs",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 542,
+        "price": 271,
+        "discount": 50
+    },
+    {
+        "model_name": "Бейсболка",
+        "link": "https://www.lamoda.by/p/RTLABZ538701",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 201,
+        "price": 120,
+        "discount": 40
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLACC749601",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "S",
+            "L"
+        ],
+        "old_price": 94,
+        "price": 56.4,
+        "discount": 40
+    },
+    {
+        "model_name": "AN4283 41/87",
+        "link": "https://www.lamoda.by/p/RTLABH300501",
+        "brand_name": "Arnette",
+        "available_sizes": [
+            "56"
+        ],
+        "old_price": 238,
+        "price": 119,
+        "discount": 50
+    },
+    {
+        "model_name": "AX2036S 609955",
+        "link": "https://www.lamoda.by/p/RTLABY726501",
+        "brand_name": "Armani Exchange",
+        "available_sizes": [
+            "56"
+        ],
+        "old_price": 429,
+        "price": 278,
+        "discount": 35
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/FE913CUYAA78",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 58,
+        "price": 37.7,
+        "discount": 35
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABM377001",
+        "brand_name": "Diora.rim",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 90,
+        "price": 49.8,
+        "discount": 44
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/FE913CUCLMT6",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 48,
+        "price": 31.2,
+        "discount": 35
+    },
+    {
+        "model_name": "HYPERFIT 21/S 807",
+        "link": "https://www.lamoda.by/p/RTLABD781301",
+        "brand_name": "Carrera",
+        "available_sizes": [
+            "62"
+        ],
+        "old_price": 641,
+        "price": 416,
+        "discount": 35
+    },
+    {
+        "model_name": "Iso-chill Driver Mesh",
+        "link": "https://www.lamoda.by/p/RTLABC137002",
+        "brand_name": "Under Armour",
+        "available_sizes": [
+            "M/L"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACI654701",
+        "brand_name": "Champion",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 140,
+        "price": 112,
+        "discount": 20
+    },
+    {
+        "model_name": "PLD 6151/G/S 09Q",
+        "link": "https://www.lamoda.by/p/RTLABD787401",
+        "brand_name": "Polaroid",
+        "available_sizes": [
+            "59"
+        ],
+        "old_price": 359,
+        "price": 163,
+        "discount": 54
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACI654501",
+        "brand_name": "Champion",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 143,
+        "price": 114,
+        "discount": 20
+    },
+    {
+        "model_name": "Ribbed Classic Cuff Beanie",
+        "link": "https://www.lamoda.by/p/RTLACE638801",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 71,
+        "price": 53.2,
+        "discount": 25
+    },
+    {
+        "model_name": "BIG LOG BE A.R.",
+        "link": "https://www.lamoda.by/p/RTLABY927001",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "OSFC",
+            "OSFY",
+            "OSFW",
+            "OSFM"
+        ],
+        "old_price": 54,
+        "price": 32.5,
+        "discount": 39
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/FE913CUKKID4",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 48,
+        "price": 31.2,
+        "discount": 35
+    },
+    {
+        "model_name": "с поляризационными линзами,PLD 2058/S N9P",
+        "link": "https://www.lamoda.by/p/RTLABN483801",
+        "brand_name": "Polaroid",
+        "available_sizes": [
+            "55"
+        ],
+        "old_price": 174,
+        "price": 147,
+        "discount": 15
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABL364601",
+        "brand_name": "Invu",
+        "available_sizes": [
+            "57"
+        ],
+        "old_price": 198,
+        "price": 118,
+        "discount": 40
+    },
+    {
+        "model_name": "Снуд",
+        "link": "https://www.lamoda.by/p/FE913GUYAA33",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 54,
+        "price": 35.1,
+        "discount": 35
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACI706101",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 194,
+        "price": 133,
+        "discount": 31
+    },
+    {
+        "model_name": "GG1157S 001",
+        "link": "https://www.lamoda.by/p/RTLACD487601",
+        "brand_name": "Gucci",
+        "available_sizes": [
+            "50"
+        ],
+        "old_price": 1159,
+        "price": 1043,
+        "discount": 10
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLAAO171002",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 211,
+        "price": 126,
+        "discount": 40
+    },
+    {
         "model_name": "LEGACY Baseball Cap",
-        "link": "https://www.lamoda.by/p/RTLABK832901",
+        "link": "https://www.lamoda.by/p/RTLABK834601",
         "brand_name": "Champion",
         "available_sizes": [
             "OneSize"
         ],
-        "old_price": 74,
-        "price": 54,
+        "old_price": 98,
+        "price": 53.9,
+        "discount": 45
+    },
+    {
+        "model_name": "PLD 6076/S 807",
+        "link": "https://www.lamoda.by/p/RTLABI743301",
+        "brand_name": "Polaroid",
+        "available_sizes": [
+            "60"
+        ],
+        "old_price": 214,
+        "price": 156,
         "discount": 27
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACI709001",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 194,
+        "price": 133,
+        "discount": 31
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLABZ537301",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 153,
+        "price": 91.8,
+        "discount": 40
+    },
+    {
+        "model_name": "PLD 6012/N/NEW 6LB",
+        "link": "https://www.lamoda.by/p/RTLABI741901",
+        "brand_name": "Polaroid",
+        "available_sizes": [
+            "62"
+        ],
+        "old_price": 239,
+        "price": 167,
+        "discount": 30
+    },
+    {
+        "model_name": "TYPE Z AN4294 121987 ",
+        "link": "https://www.lamoda.by/p/RTLABD953201",
+        "brand_name": "Arnette",
+        "available_sizes": [
+            "54"
+        ],
+        "old_price": 317,
+        "price": 190,
+        "discount": 40
+    },
+    {
+        "model_name": "RUKKA TEKKALA",
+        "link": "https://www.lamoda.by/p/RTLACD338801",
+        "brand_name": "Rukka",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 54,
+        "price": 35.1,
+        "discount": 35
+    },
+    {
+        "model_name": "TE LOGO CAP",
+        "link": "https://www.lamoda.by/p/RE160CUJNCR6",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "OSFM"
+        ],
+        "old_price": 72,
+        "price": 46.8,
+        "discount": 35
+    },
+    {
+        "model_name": "CASP GRID COL M NKWR BSN0",
+        "link": "https://www.lamoda.by/p/RTLAAZ010901",
+        "brand_name": "Quiksilver",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 104,
+        "price": 57.2,
+        "discount": 44
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACI707501",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 239,
+        "price": 166,
+        "discount": 30
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABK896801",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "63"
+        ],
+        "old_price": 162,
+        "price": 48.6,
+        "discount": 70
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLACC749201",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "S",
+            "L"
+        ],
+        "old_price": 94,
+        "price": 51.7,
+        "discount": 44
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLACI705101",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 154,
+        "price": 105,
+        "discount": 31
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABK228301",
+        "brand_name": "Invu",
+        "available_sizes": [
+            "56"
+        ],
+        "old_price": 165,
+        "price": 90.7,
+        "discount": 45
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLACF215901",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 139,
+        "price": 90.3,
+        "discount": 35
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACE162501",
+        "brand_name": "Polar",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 119,
+        "price": 65.4,
+        "discount": 45
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACF885801",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 204,
+        "price": 122,
+        "discount": 40
+    },
+    {
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/MP002XM1HO92",
+        "brand_name": "Mumi",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 139,
+        "price": 125,
+        "discount": 10
+    },
+    {
+        "model_name": "Oakley B1B Icon FF Hat",
+        "link": "https://www.lamoda.by/p/RTLAAK329301",
+        "brand_name": "Oakley",
+        "available_sizes": [
+            "L/XL"
+        ],
+        "old_price": 90,
+        "price": 63,
+        "discount": 30
+    },
+    {
+        "model_name": "Originals Futro Backpack",
+        "link": "https://www.lamoda.by/p/RTLABM549901",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 184,
+        "price": 137,
+        "discount": 25
+    },
+    {
+        "model_name": "Ремень",
+        "link": "https://www.lamoda.by/p/RTLACI246201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "90"
+        ],
+        "old_price": 159,
+        "price": 127,
+        "discount": 20
+    },
+    {
+        "model_name": "4ATHLTS ID BP",
+        "link": "https://www.lamoda.by/p/AD002BULUAM5",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 254,
+        "price": 207,
+        "discount": 18
+    },
+    {
+        "model_name": "AX2037S 600081",
+        "link": "https://www.lamoda.by/p/RTLABH303001",
+        "brand_name": "Armani Exchange",
+        "available_sizes": [
+            "60"
+        ],
+        "old_price": 429,
+        "price": 278,
+        "discount": 35
+    },
+    {
+        "model_name": "BUNKER  HDWR KNFH",
+        "link": "https://www.lamoda.by/p/RTLAAQ055902",
+        "brand_name": "DC Shoes",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 109,
+        "price": 59.9,
+        "discount": 45
+    },
+    {
+        "model_name": "SPEEDWAY/N 80S",
+        "link": "https://www.lamoda.by/p/RTLABK906402",
+        "brand_name": "Carrera",
+        "available_sizes": [
+            "63"
+        ],
+        "old_price": 889,
+        "price": 606,
+        "discount": 31
+    },
+    {
+        "model_name": "Шарф",
+        "link": "https://www.lamoda.by/p/RTLACA263501",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 144,
+        "price": 108,
+        "discount": 25
+    },
+    {
+        "model_name": "AX2012S 606387",
+        "link": "https://www.lamoda.by/p/RTLABH301901",
+        "brand_name": "Armani Exchange",
+        "available_sizes": [
+            "62"
+        ],
+        "old_price": 369,
+        "price": 239,
+        "discount": 35
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLACI655201",
+        "brand_name": "Champion",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 124,
+        "price": 99.2,
+        "discount": 20
+    },
+    {
+        "model_name": "Перчатки",
+        "link": "https://www.lamoda.by/p/RTLAAU065802",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "9"
+        ],
+        "old_price": 62,
+        "price": 56,
+        "discount": 9
+    },
+    {
+        "model_name": "SL M102 001",
+        "link": "https://www.lamoda.by/p/RTLACD490401",
+        "brand_name": "Saint Laurent",
+        "available_sizes": [
+            "54"
+        ],
+        "old_price": 929,
+        "price": 603,
+        "discount": 35
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLACG595701",
+        "brand_name": "Ungaro",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 529,
+        "price": 264,
+        "discount": 50
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/FE913CUYAA75",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 58,
+        "price": 37.7,
+        "discount": 35
+    },
+    {
+        "model_name": "BOWLING",
+        "link": "https://www.lamoda.by/p/RTLAAN747501",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 329.99,
+        "price": 149.99,
+        "discount": 54
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/FE913CMMEN38",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 48,
+        "price": 31.2,
+        "discount": 35
+    },
+    {
+        "model_name": "PLD 6097/S 807",
+        "link": "https://www.lamoda.by/p/RTLABI743501",
+        "brand_name": "Polaroid",
+        "available_sizes": [
+            "58"
+        ],
+        "old_price": 239,
+        "price": 174,
+        "discount": 27
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLAAR197702",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 48,
+        "price": 44,
+        "discount": 8
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLABY970201",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 58,
+        "price": 37.7,
+        "discount": 35
+    },
+    {
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/MP002XM1HO8W",
+        "brand_name": "Mumi",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 140,
+        "price": 126,
+        "discount": 10
+    },
+    {
+        "model_name": "DROPHEAD AN3083 73885 ",
+        "link": "https://www.lamoda.by/p/RTLABE031501",
+        "brand_name": "Arnette",
+        "available_sizes": [
+            "49"
+        ],
+        "old_price": 317,
+        "price": 190,
+        "discount": 40
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/RTLABY970101",
+        "brand_name": "Ferz",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 58,
+        "price": 31.9,
+        "discount": 45
     }
 ]

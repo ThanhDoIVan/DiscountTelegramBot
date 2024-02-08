@@ -1,1429 +1,310 @@
 [
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL686401",
-        "brand_name": "Lakressi",
+        "link": "https://www.lamoda.by/p/RTLACI468601",
+        "brand_name": "UnicoModa",
         "available_sizes": [
             "S",
             "M"
         ],
-        "old_price": 149,
-        "price": 103,
+        "old_price": 434,
+        "price": 302,
         "discount": 30
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAS553301",
-        "brand_name": "Rainrain",
-        "available_sizes": [
-            "42",
-            "44"
-        ],
-        "old_price": 239,
-        "price": 94,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABE427801",
-        "brand_name": "Shartrez",
-        "available_sizes": [
-            "42",
-            "44",
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 119,
-        "price": 64,
-        "discount": 46
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH182601",
-        "brand_name": "Pink Summer",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 224,
-        "price": 163,
-        "discount": 27
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABI719001",
-        "brand_name": "Diverius",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 329,
-        "price": 230,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/IV006EWEKSF7",
-        "brand_name": "Ivyrevel",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40",
-            "42"
-        ],
-        "old_price": 284,
-        "price": 170,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABK858701",
-        "brand_name": "TrendyAngel",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 259,
-        "price": 180,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABK259701",
-        "brand_name": "United Colors of Benetton",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 259,
-        "price": 180,
-        "discount": 30
-    },
-    {
-        "model_name": "Сарафан",
-        "link": "https://www.lamoda.by/p/RTLABD580701",
-        "brand_name": "Vero Moda",
-        "available_sizes": [
-            "S",
-            "M"
-        ],
-        "old_price": 167,
-        "price": 125,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL934501",
-        "brand_name": "Nataliy Beate",
-        "available_sizes": [
-            "44",
-            "46",
-            "48",
-            "50",
-            "52",
-            "56"
-        ],
-        "old_price": 579,
-        "price": 398.49,
-        "discount": 31
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/IV006EWEKSA7",
-        "brand_name": "Ivyrevel",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 159,
-        "price": 103,
-        "discount": 35
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF762301",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 299,
-        "price": 146,
-        "discount": 51
-    },
-    {
-        "model_name": "LONG TEE DRESS",
-        "link": "https://www.lamoda.by/p/RTLABJ351301",
-        "brand_name": "adidas Originals",
-        "available_sizes": [
-            "32",
-            "34",
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 274,
-        "price": 249,
-        "discount": 9
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG366401",
-        "brand_name": "TrendyAngel",
-        "available_sizes": [
-            "S",
-            "M"
-        ],
-        "old_price": 224,
-        "price": 156,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD598601",
-        "brand_name": "JDY",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 167,
-        "price": 108,
-        "discount": 35
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAM453101",
-        "brand_name": "Rainrain",
-        "available_sizes": [
-            "42",
-            "44"
-        ],
-        "old_price": 324,
-        "price": 129,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABI259501",
-        "brand_name": "Topshop",
-        "available_sizes": [
-            "8",
-            "10",
-            "12",
-            "16"
-        ],
-        "old_price": 178,
-        "price": 124,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAL972601",
-        "brand_name": "Fridaymonday",
-        "available_sizes": [
-            "44",
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 283,
-        "price": 127,
-        "discount": 55
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF372001",
-        "brand_name": "Trendyol",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 115,
-        "price": 86.2,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAG142401",
-        "brand_name": "Toku Tino",
-        "available_sizes": [
-            "42",
-            "44",
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 179,
-        "price": 107,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAH159201",
-        "brand_name": "Diverius",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 283,
-        "price": 113,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC936901",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 259,
-        "price": 155,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABJ661601",
-        "brand_name": "TrendyAngel",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 259,
-        "price": 233,
-        "discount": 10
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC564701",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 148,
-        "price": 103,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABA025601",
-        "brand_name": "Guess Jeans",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 411,
-        "price": 226,
-        "discount": 45
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH295403",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "S",
-            "L",
-            "XL"
-        ],
-        "old_price": 249,
-        "price": 186,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG334701",
-        "brand_name": "Bulmer",
-        "available_sizes": [
-            "36",
-            "38",
-            "40",
-            "42"
-        ],
-        "old_price": 284,
-        "price": 198,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABM228801",
-        "brand_name": "Dansanti",
-        "available_sizes": [
-            "48",
-            "50",
-            "52",
-            "54"
-        ],
-        "old_price": 314,
-        "price": 217,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAJ689901",
-        "brand_name": "Gap",
+        "link": "https://www.lamoda.by/p/RTLACI468801",
+        "brand_name": "UnicoModa",
         "available_sizes": [
             "XS",
             "S"
         ],
-        "old_price": 219,
-        "price": 131,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABB026701",
-        "brand_name": "Mamalicious",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 211,
-        "price": 179,
-        "discount": 15
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABN031501",
-        "brand_name": "Dunia",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 249,
-        "price": 173,
+        "old_price": 364,
+        "price": 252,
         "discount": 30
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABM535901",
-        "brand_name": "Dansanti",
-        "available_sizes": [
-            "40",
-            "42",
-            "44",
-            "48",
-            "50",
-            "52"
-        ],
-        "old_price": 289,
-        "price": 199,
-        "discount": 31
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAJ921601",
-        "brand_name": "Shartrez",
-        "available_sizes": [
-            "44"
-        ],
-        "old_price": 384,
-        "price": 267,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABM363301",
-        "brand_name": "Toku Tino",
-        "available_sizes": [
-            "40"
-        ],
-        "old_price": 224,
-        "price": 155,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL568801",
-        "brand_name": "Lawwa",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 239,
-        "price": 164,
-        "discount": 31
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD595301",
-        "brand_name": "JDY",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40",
-            "42"
-        ],
-        "old_price": 108,
-        "price": 59.4,
-        "discount": 45
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAZ583501",
-        "brand_name": "Dunia",
+        "link": "https://www.lamoda.by/p/RTLACI468701",
+        "brand_name": "UnicoModa",
         "available_sizes": [
             "XS",
             "S"
         ],
-        "old_price": 249,
-        "price": 99.6,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH101001",
-        "brand_name": "Vero Moda",
-        "available_sizes": [
-            "M",
-            "L"
-        ],
-        "old_price": 156,
-        "price": 109,
+        "old_price": 364,
+        "price": 252,
         "discount": 30
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAP111201",
-        "brand_name": "Miss Gabby",
-        "available_sizes": [
-            "42",
-            "44",
-            "46",
-            "48"
-        ],
-        "old_price": 293,
-        "price": 117,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF512001",
-        "brand_name": "Topshop",
-        "available_sizes": [
-            "4",
-            "6",
-            "8",
-            "10"
-        ],
-        "old_price": 237,
-        "price": 177,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF435901",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 167,
-        "price": 116,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL932601",
-        "brand_name": "Nataliy Beate",
-        "available_sizes": [
-            "42",
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 599,
-        "price": 414,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG879101",
-        "brand_name": "Diesel",
-        "available_sizes": [
-            "S"
-        ],
-        "old_price": 1258,
-        "price": 754,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAH146001",
-        "brand_name": "Rainrain",
-        "available_sizes": [
-            "42",
-            "44"
-        ],
-        "old_price": 272,
-        "price": 108,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG409901",
-        "brand_name": "JDY",
-        "available_sizes": [
-            "34",
-            "36",
-            "38"
-        ],
-        "old_price": 141,
-        "price": 105,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABJ527301",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 269,
-        "price": 181.5,
-        "discount": 32
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG721501",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 219,
-        "price": 164,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABC788501",
-        "brand_name": "River Island",
-        "available_sizes": [
-            "6",
-            "8",
-            "10",
-            "12"
-        ],
-        "old_price": 348,
-        "price": 295,
-        "discount": 15
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD360301",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XS",
-            "S"
-        ],
-        "old_price": 464,
-        "price": 279,
-        "discount": 39
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABI079101",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 389,
-        "price": 213,
-        "discount": 45
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAM454301",
-        "brand_name": "Rainrain",
-        "available_sizes": [
-            "48",
-            "50",
-            "54",
-            "56"
-        ],
-        "old_price": 365,
-        "price": 146,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABE420401",
-        "brand_name": "Vila",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 141,
-        "price": 119,
-        "discount": 15
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD491601",
-        "brand_name": "Imperial",
-        "available_sizes": [
-            "S",
-            "M"
-        ],
-        "old_price": 504,
-        "price": 378,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABA505701",
-        "brand_name": "Y.A.S",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 248,
-        "price": 223,
-        "discount": 10
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG720301",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "S",
-            "L"
-        ],
-        "old_price": 259,
-        "price": 127,
-        "discount": 50
-    },
-    {
-        "model_name": "U&B",
-        "link": "https://www.lamoda.by/p/RTLABD706901",
-        "brand_name": "Twinset Milano",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 1209,
-        "price": 785,
-        "discount": 35
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH029501",
-        "brand_name": "Snow Airwolf",
-        "available_sizes": [
-            "42",
-            "44"
-        ],
-        "old_price": 314,
-        "price": 211,
-        "discount": 32
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABB620301",
-        "brand_name": "Sister Jane",
-        "available_sizes": [
-            "S",
-            "M"
-        ],
-        "old_price": 433,
-        "price": 303,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL547301",
-        "brand_name": "Shartrez",
-        "available_sizes": [
-            "44",
-            "50"
-        ],
-        "old_price": 249,
-        "price": 171,
-        "discount": 31
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABK694101",
-        "brand_name": "Shartrez",
-        "available_sizes": [
-            "42",
-            "44",
-            "46"
-        ],
-        "old_price": 329,
-        "price": 238.5,
-        "discount": 27
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAM453101",
-        "brand_name": "Rainrain",
-        "available_sizes": [
-            "42",
-            "44"
-        ],
-        "old_price": 324,
-        "price": 129,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD595301",
-        "brand_name": "JDY",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40",
-            "42"
-        ],
-        "old_price": 108,
-        "price": 59.4,
-        "discount": 45
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC936901",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 259,
-        "price": 155,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH295403",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "S",
-            "L",
-            "XL"
-        ],
-        "old_price": 249,
-        "price": 186,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABC788501",
-        "brand_name": "River Island",
-        "available_sizes": [
-            "6",
-            "8",
-            "10",
-            "12"
-        ],
-        "old_price": 348,
-        "price": 295,
-        "discount": 15
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC208801",
-        "brand_name": "JDY",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40",
-            "42"
-        ],
-        "old_price": 126,
-        "price": 50.4,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAL972601",
-        "brand_name": "Fridaymonday",
-        "available_sizes": [
-            "44",
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 283,
-        "price": 127,
-        "discount": 55
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAJ689901",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "S"
-        ],
-        "old_price": 219,
-        "price": 131,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABJ527301",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 269,
-        "price": 181.5,
-        "discount": 32
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAL681501",
-        "brand_name": "Imocean",
-        "available_sizes": [
-            "XS",
-            "S"
-        ],
-        "old_price": 298,
-        "price": 223,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAX800101",
-        "brand_name": "Koton",
-        "available_sizes": [
-            "34",
-            "36",
-            "40"
-        ],
-        "old_price": 113,
-        "price": 79.1,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC855401",
-        "brand_name": "Vero Moda",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 208,
-        "price": 135,
-        "discount": 35
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF436801",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 185,
-        "price": 166,
-        "discount": 10
-    },
-    {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABG409401",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 208,
-        "price": 156,
-        "discount": 25
-    },
-    {
-        "model_name": "Сарафан",
-        "link": "https://www.lamoda.by/p/RTLABI479901",
-        "brand_name": "Sisley",
-        "available_sizes": [
-            "38",
-            "44",
-            "46"
-        ],
-        "old_price": 409,
-        "price": 286,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL932601",
-        "brand_name": "Nataliy Beate",
-        "available_sizes": [
-            "42",
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 599,
-        "price": 414,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH101001",
-        "brand_name": "Vero Moda",
-        "available_sizes": [
-            "M",
-            "L"
-        ],
-        "old_price": 156,
-        "price": 109,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAX986501",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS",
-            "S",
-            "L"
-        ],
-        "old_price": 193,
-        "price": 173,
-        "discount": 10
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABM227001",
+        "link": "https://www.lamoda.by/p/RTLACH308501",
         "brand_name": "Winzor",
         "available_sizes": [
-            "44",
-            "46",
-            "48"
-        ],
-        "old_price": 249,
-        "price": 173,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG720301",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "S",
-            "L"
-        ],
-        "old_price": 259,
-        "price": 127,
-        "discount": 50
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABI943901",
-        "brand_name": "United Colors of Benetton",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 164,
-        "price": 114,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/IV006EWEKSE5",
-        "brand_name": "Ivyrevel",
-        "available_sizes": [
-            "34",
-            "36",
-            "38"
-        ],
-        "old_price": 294,
-        "price": 191,
-        "discount": 35
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABI079101",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 389,
-        "price": 213,
-        "discount": 45
-    },
-    {
-        "model_name": "DRESS",
-        "link": "https://www.lamoda.by/p/RTLAAR625901",
-        "brand_name": "adidas Originals",
-        "available_sizes": [
-            "32",
-            "34",
-            "36",
-            "38"
-        ],
-        "old_price": 283,
-        "price": 155,
-        "discount": 45
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD360301",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XS",
-            "S"
-        ],
-        "old_price": 464,
-        "price": 279,
-        "discount": 39
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAZ702801",
-        "brand_name": "River Island",
-        "available_sizes": [
-            "6",
-            "8",
-            "10",
-            "12",
-            "14"
-        ],
-        "old_price": 245,
-        "price": 147,
-        "discount": 40
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABJ519901",
-        "brand_name": "Silvian Heach",
-        "available_sizes": [
-            "38",
-            "40",
             "42",
             "44",
             "46",
             "48"
         ],
-        "old_price": 951,
-        "price": 665,
-        "discount": 30
+        "old_price": 314,
+        "price": 216,
+        "discount": 31
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABE409001",
-        "brand_name": "United Colors of Benetton",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 299,
-        "price": 269,
-        "discount": 10
-    },
-    {
-        "model_name": "Сарафан",
-        "link": "https://www.lamoda.by/p/RTLABL548601",
-        "brand_name": "Shartrez",
-        "available_sizes": [
-            "44",
-            "46",
-            "48"
-        ],
-        "old_price": 309,
-        "price": 215,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABJ324301",
-        "brand_name": "Morgan",
+        "link": "https://www.lamoda.by/p/MP002XW0LASL",
+        "brand_name": "Finn Flare",
         "available_sizes": [
             "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 304,
-        "price": 258,
-        "discount": 15
-    },
-    {
-        "model_name": "Сарафан",
-        "link": "https://www.lamoda.by/p/RTLABD449301",
-        "brand_name": "Maaji",
-        "available_sizes": [
-            "S",
-            "M"
-        ],
-        "old_price": 252,
-        "price": 189,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAL393001",
-        "brand_name": "Pink Orange",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 226,
-        "price": 90.4,
-        "discount": 60
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAT776401",
-        "brand_name": "b.young",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 473,
-        "price": 331,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH049701",
-        "brand_name": "RLX Ralph Lauren",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 848,
-        "price": 593,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH640601",
-        "brand_name": "Joop!",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 1233,
-        "price": 924,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/ZA014EWJAJR0",
-        "brand_name": "Zabaione",
-        "available_sizes": [
             "S",
             "M",
             "L",
             "XL",
             "XXL"
         ],
-        "old_price": 241,
-        "price": 120,
+        "old_price": 159,
+        "price": 79.5,
         "discount": 50
     },
     {
+        "model_name": "Сарафан",
+        "link": "https://www.lamoda.by/p/MP002XW0AR86",
+        "brand_name": "Top Top",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 516,
+        "price": 284,
+        "discount": 44
+    },
+    {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/SH021EWHQUW5",
-        "brand_name": "SH",
+        "link": "https://www.lamoda.by/p/RTLACB846501",
+        "brand_name": "United Colors of Benetton",
         "available_sizes": [
             "XS",
-            "S",
-            "M",
-            "L"
+            "S"
         ],
-        "old_price": 334,
-        "price": 167,
-        "discount": 50
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAE148401",
-        "brand_name": "Compania Fantastica",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 249,
-        "price": 211,
-        "discount": 15
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/WA007EWFYRY8",
-        "brand_name": "Wallis",
-        "available_sizes": [
-            "10",
-            "12",
-            "14",
-            "16",
-            "18"
-        ],
-        "old_price": 209,
-        "price": 135,
-        "discount": 35
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABD412801",
-        "brand_name": "Chiara Ferragni",
-        "available_sizes": [
-            "38",
-            "40",
-            "42",
-            "44"
-        ],
-        "old_price": 970,
-        "price": 727,
-        "discount": 25
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAT406101",
-        "brand_name": "Imocean",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 319,
-        "price": 223,
+        "old_price": 324,
+        "price": 226,
         "discount": 30
     },
     {
-        "model_name": "Платье джинсовое",
-        "link": "https://www.lamoda.by/p/RTLABB094901",
-        "brand_name": "JDY",
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACA786701",
+        "brand_name": "Bad Queen",
         "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40"
+            "XS",
+            "M"
         ],
-        "old_price": 126,
-        "price": 107,
-        "discount": 15
+        "old_price": 454,
+        "price": 167,
+        "discount": 63
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF372101",
-        "brand_name": "Trendyol",
+        "link": "https://www.lamoda.by/p/MP002XW0K5JR",
+        "brand_name": "Top Top",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 430,
+        "price": 366,
+        "discount": 14
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW0D3VJ",
+        "brand_name": "Finn Flare",
         "available_sizes": [
             "XS",
             "S",
-            "M"
+            "M",
+            "L",
+            "XL",
+            "XXL"
         ],
-        "old_price": 115,
-        "price": 86.2,
-        "discount": 25
+        "old_price": 254,
+        "price": 160,
+        "discount": 37
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABA016901",
-        "brand_name": "Fridaymonday",
+        "link": "https://www.lamoda.by/p/RTLACE737201",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 254,
+        "price": 114,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE734301",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 244,
+        "price": 109,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABZ647701",
+        "brand_name": "Rinascimento",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 376,
+        "price": 75.2,
+        "discount": 80
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACB430101",
+        "brand_name": "Pinko",
+        "available_sizes": [
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 1086,
+        "price": 213,
+        "discount": 80
+    },
+    {
+        "model_name": "Сарафан",
+        "link": "https://www.lamoda.by/p/MP002XW0D3VX",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 279,
+        "price": 110,
+        "discount": 60
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABZ426001",
+        "brand_name": "Nataliy Beate",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "50"
+        ],
+        "old_price": 539,
+        "price": 268,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLAAH028301",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 208,
+        "price": 93.6,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF043801",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "36",
+            "42"
+        ],
+        "old_price": 174,
+        "price": 121,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE736801",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 254,
+        "price": 173,
+        "discount": 31
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABX117701",
+        "brand_name": "Toku Tino",
         "available_sizes": [
             "42",
             "44",
             "46",
             "48"
         ],
-        "old_price": 349,
-        "price": 139,
-        "discount": 60
+        "old_price": 144,
+        "price": 59.4,
+        "discount": 58
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAX986501",
-        "brand_name": "Only",
+        "link": "https://www.lamoda.by/p/RTLACC032801",
+        "brand_name": "Rainrain",
         "available_sizes": [
-            "XS",
-            "S",
-            "L"
+            "42",
+            "44"
         ],
-        "old_price": 193,
-        "price": 173,
-        "discount": 10
+        "old_price": 269,
+        "price": 121,
+        "discount": 55
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAG756401",
-        "brand_name": "You&You",
+        "link": "https://www.lamoda.by/p/RTLACF226001",
+        "brand_name": "Shartrez",
         "available_sizes": [
-            "XS",
-            "S",
-            "L"
+            "42",
+            "44",
+            "46"
         ],
-        "old_price": 308,
-        "price": 107,
-        "discount": 65
+        "old_price": 319,
+        "price": 175,
+        "discount": 45
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE148201",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "3XL",
+            "4XL"
+        ],
+        "old_price": 234,
+        "price": 140,
+        "discount": 40
     },
     {
         "model_name": "Платье",
@@ -1432,254 +313,1370 @@
         "available_sizes": [
             "XS",
             "S",
+            "M",
             "L"
         ],
-        "old_price": 204,
-        "price": 142,
+        "old_price": 169,
+        "price": 101,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF611101",
+        "brand_name": "Moki",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 394,
+        "price": 236,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABY531201",
+        "brand_name": "Boss",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 649,
+        "price": 584,
+        "discount": 10
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACA422301",
+        "brand_name": "Hugo",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 899,
+        "price": 629,
         "discount": 30
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/IV006EWEKSE5",
-        "brand_name": "Ivyrevel",
+        "link": "https://www.lamoda.by/p/RTLACA898701",
+        "brand_name": "Twinset Milano",
         "available_sizes": [
-            "34",
-            "36",
-            "38"
+            "40",
+            "42",
+            "44"
         ],
-        "old_price": 294,
-        "price": 191,
-        "discount": 35
+        "old_price": 1128,
+        "price": 413,
+        "discount": 63
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABH090902",
-        "brand_name": "Helmut Lang",
+        "link": "https://www.lamoda.by/p/RTLACF997301",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 399,
+        "price": 239,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACA905301",
+        "brand_name": "Pink Frost",
+        "available_sizes": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 314,
+        "price": 157,
+        "discount": 50
+    },
+    {
+        "model_name": "DIVINE ENERGY DRESS",
+        "link": "https://www.lamoda.by/p/RTLABH265701",
+        "brand_name": "Vans",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 189,
+        "price": 147,
+        "discount": 22
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACH732801",
+        "brand_name": "TrendyAngel",
         "available_sizes": [
             "XS",
             "S"
         ],
-        "old_price": 1325,
-        "price": 993,
-        "discount": 25
+        "old_price": 469,
+        "price": 327,
+        "discount": 30
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL932501",
-        "brand_name": "Nataliy Beate",
+        "link": "https://www.lamoda.by/p/MP002XW15M0E",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 244,
+        "price": 150,
+        "discount": 38
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACB846301",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 254,
+        "price": 177,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABY435001",
+        "brand_name": "Keep Walking",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 289,
+        "price": 145,
+        "discount": 49
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE733701",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 244,
+        "price": 109,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE148801",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 234,
+        "price": 140,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW0CS3Z",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 279,
+        "price": 170,
+        "discount": 39
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF459801",
+        "brand_name": "Fadas",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 494,
+        "price": 342,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF029801",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "36",
+            "38"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABP257201",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 279,
+        "price": 125,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABA348101",
+        "brand_name": "Aaquamarina",
+        "available_sizes": [
+            "40/42",
+            "42/44"
+        ],
+        "old_price": 330,
+        "price": 148,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACC104501",
+        "brand_name": "Hey Look",
+        "available_sizes": [
+            "42",
+            "44",
+            "48"
+        ],
+        "old_price": 289,
+        "price": 158,
+        "discount": 45
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABJ591901",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 127,
+        "price": 88.9,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABK694101",
+        "brand_name": "Shartrez",
+        "available_sizes": [
+            "42",
+            "44",
+            "48"
+        ],
+        "old_price": 319,
+        "price": 160,
+        "discount": 49
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACC036101",
+        "brand_name": "Rainrain",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 304,
+        "price": 152,
+        "discount": 50
+    },
+    {
+        "model_name": "W RWB T DRESS",
+        "link": "https://www.lamoda.by/p/RTLABP568101",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 234,
+        "price": 182,
+        "discount": 22
+    },
+    {
+        "model_name": "Сарафан",
+        "link": "https://www.lamoda.by/p/RTLABM808301",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "50"
+        ],
+        "old_price": 127,
+        "price": 88.9,
+        "discount": 30
+    },
+    {
+        "model_name": "Сарафан",
+        "link": "https://www.lamoda.by/p/RTLACF857301",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 174,
+        "price": 104,
+        "discount": 40
+    },
+    {
+        "model_name": "CANALY",
+        "link": "https://www.lamoda.by/p/RTLACD033301",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 179.99,
+        "price": 129.99,
+        "discount": 27
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW06ZG9",
+        "brand_name": "Top Top",
+        "available_sizes": [
+            "XS/S"
+        ],
+        "old_price": 559,
+        "price": 252,
+        "discount": 54
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABX118801",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50"
+        ],
+        "old_price": 219,
+        "price": 89.1,
+        "discount": 59
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACG061901",
+        "brand_name": "Vickwool",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 339,
+        "price": 203,
+        "discount": 40
+    },
+    {
+        "model_name": "LILI",
+        "link": "https://www.lamoda.by/p/RTLAAL709101",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 249.99,
+        "price": 69.99,
+        "discount": 72
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACG034301",
+        "brand_name": "Silvian Heach",
+        "available_sizes": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 606,
+        "price": 363,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABE645001",
+        "brand_name": "Morgan",
+        "available_sizes": [
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 278,
+        "price": 222,
+        "discount": 20
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABN918601",
+        "brand_name": "Marselesa",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 369,
+        "price": 185,
+        "discount": 49
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABQ062301",
+        "brand_name": "ML Monique Lhuillier",
+        "available_sizes": [
+            "0",
+            "2",
+            "4",
+            "6"
+        ],
+        "old_price": 1504,
+        "price": 827,
+        "discount": 45
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABA945701",
+        "brand_name": "You&You",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 429,
+        "price": 150,
+        "discount": 65
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLAAL128301",
+        "brand_name": "Alessandro Dell'Acqua",
+        "available_sizes": [
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 2305,
+        "price": 806,
+        "discount": 65
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABY569101",
+        "brand_name": "Kitana by Rinascimento",
+        "available_sizes": [
+            "48",
+            "52",
+            "54"
+        ],
+        "old_price": 467,
+        "price": 186,
+        "discount": 60
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACG999201",
+        "brand_name": "Winzor",
+        "available_sizes": [
+            "40",
+            "42",
+            "44"
+        ],
+        "old_price": 299,
+        "price": 209,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACD890701",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 364,
+        "price": 254,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACD137001",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 364,
+        "price": 254,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE735301",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 254,
+        "price": 114,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACI155201",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 324,
+        "price": 226,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABZ009301",
+        "brand_name": "Rainrain",
+        "available_sizes": [
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 374,
+        "price": 168,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABZ009501",
+        "brand_name": "Rainrain",
+        "available_sizes": [
+            "42",
+            "46",
+            "48"
+        ],
+        "old_price": 274,
+        "price": 137,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACH281301",
+        "brand_name": "Keep Walking",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 264,
+        "price": 181,
+        "discount": 31
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABY091201",
+        "brand_name": "Fragarika",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 279,
+        "price": 125,
+        "discount": 55
+    },
+    {
+        "model_name": "Classics Ribbed Sleeveless Dress",
+        "link": "https://www.lamoda.by/p/RTLABL310501",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 189,
+        "price": 137,
+        "discount": 27
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF229801",
+        "brand_name": "Allegri",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 384,
+        "price": 230,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABX119501",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 219,
+        "price": 89.1,
+        "discount": 59
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF997201",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 399,
+        "price": 239,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACC396701",
+        "brand_name": "Keep Walking",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 264,
+        "price": 130,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLAAH284902",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 658,
+        "price": 460,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABX861101",
+        "brand_name": "Patrizia Pepe",
+        "available_sizes": [
+            "0",
+            "1",
+            "2"
+        ],
+        "old_price": 869,
+        "price": 439,
+        "discount": 49
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABZ897601",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 229,
+        "price": 103,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACG713601",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 354,
+        "price": 212,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABD109501",
+        "brand_name": "Pink Summer",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 198,
+        "price": 108,
+        "discount": 45
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABD111601",
+        "brand_name": "Pink Summer",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 222,
+        "price": 122,
+        "discount": 45
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW0JXP4",
+        "brand_name": "Top Top",
+        "available_sizes": [
+            "M/L"
+        ],
+        "old_price": 516,
+        "price": 413,
+        "discount": 19
+    },
+    {
+        "model_name": "Платье и жилет",
+        "link": "https://www.lamoda.by/p/RTLACD719301",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 324,
+        "price": 162,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF996501",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 469,
+        "price": 281,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW0ABXM",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 284,
+        "price": 180,
+        "discount": 36
+    },
+    {
+        "model_name": "Платье и комбинация",
+        "link": "https://www.lamoda.by/p/RTLACG034201",
+        "brand_name": "Silvian Heach",
+        "available_sizes": [
+            "40",
+            "42"
+        ],
+        "old_price": 875,
+        "price": 525,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABP328201",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 174,
+        "price": 71.5,
+        "discount": 58
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW0LAS6",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 159,
+        "price": 79.5,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACA471101",
+        "brand_name": "Bulmer",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 324,
+        "price": 210,
+        "discount": 35
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABY341801",
+        "brand_name": "Elena Miro",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 1159,
+        "price": 753,
+        "discount": 35
+    },
+    {
+        "model_name": "ENDLESSJOY J CVUP BKH0",
+        "link": "https://www.lamoda.by/p/RTLACB322501",
+        "brand_name": "Roxy",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 239,
+        "price": 167,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLAAG763601",
+        "brand_name": "Y.Two",
+        "available_sizes": [
+            "S/M",
+            "M/L"
+        ],
+        "old_price": 483,
+        "price": 169,
+        "discount": 65
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF610901",
+        "brand_name": "Moki",
+        "available_sizes": [
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 394,
+        "price": 236,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACC034001",
+        "brand_name": "Rainrain",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 304,
+        "price": 152,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACD815501",
+        "brand_name": "Winzor",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 289,
+        "price": 130,
+        "discount": 55
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF607701",
+        "brand_name": "Moki",
+        "available_sizes": [
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 394,
+        "price": 274,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABP488701",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 319,
+        "price": 159,
+        "discount": 50
+    },
+    {
+        "model_name": "Сарафан",
+        "link": "https://www.lamoda.by/p/RTLABX015901",
+        "brand_name": "Imocean",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 274,
+        "price": 186,
+        "discount": 32
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACH572901",
+        "brand_name": "Svesta",
+        "available_sizes": [
+            "50",
+            "52",
+            "54",
+            "58",
+            "60",
+            "62",
+            "64"
+        ],
+        "old_price": 274,
+        "price": 189,
+        "discount": 31
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACH733501",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 399,
+        "price": 277,
+        "discount": 30
+    },
+    {
+        "model_name": "Сарафан",
+        "link": "https://www.lamoda.by/p/MP002XW0CS4R",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 244,
+        "price": 170,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABO127901",
+        "brand_name": "Toku Tino",
         "available_sizes": [
             "42",
             "46",
             "48",
             "50"
         ],
-        "old_price": 599,
-        "price": 414,
+        "old_price": 159,
+        "price": 65.7,
+        "discount": 58
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABL629101",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "10R",
+            "12R",
+            "14R",
+            "16R",
+            "18R",
+            "20R",
+            "22R"
+        ],
+        "old_price": 234,
+        "price": 193,
+        "discount": 17
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABQ368601",
+        "brand_name": "Halston",
+        "available_sizes": [
+            "0",
+            "6"
+        ],
+        "old_price": 1400,
+        "price": 706,
+        "discount": 49
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACF156301",
+        "brand_name": "Chiara Ferragni",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 998,
+        "price": 698,
         "discount": 30
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC052301",
-        "brand_name": "River Island",
+        "link": "https://www.lamoda.by/p/RTLACF615701",
+        "brand_name": "Moki",
         "available_sizes": [
-            "18",
-            "20",
-            "22",
-            "24",
-            "26"
+            "42",
+            "44"
         ],
-        "old_price": 267,
-        "price": 160,
+        "old_price": 384,
+        "price": 230,
         "discount": 40
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABI079701",
-        "brand_name": "Fragarika",
+        "link": "https://www.lamoda.by/p/RTLACD683901",
+        "brand_name": "UnicoModa",
         "available_sizes": [
             "L",
-            "XL",
-            "XXL",
-            "3XL"
+            "XL"
         ],
-        "old_price": 334,
-        "price": 164,
-        "discount": 50
+        "old_price": 364,
+        "price": 197,
+        "discount": 45
     },
     {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABG407401",
-        "brand_name": "JDY",
+        "model_name": "Ferrari Style Wmn Dress",
+        "link": "https://www.lamoda.by/p/RTLABL114001",
+        "brand_name": "PUMA",
         "available_sizes": [
-            "34",
-            "40",
-            "42"
-        ],
-        "old_price": 108,
-        "price": 75.6,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABL932801",
-        "brand_name": "Nataliy Beate",
-        "available_sizes": [
-            "46",
-            "48",
-            "50"
-        ],
-        "old_price": 599,
-        "price": 414,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABN026001",
-        "brand_name": "Dunia",
-        "available_sizes": [
+            "XXS",
             "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 399,
+        "price": 290,
+        "discount": 27
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABG108602",
+        "brand_name": "Missguided",
+        "available_sizes": [
+            "6",
+            "8",
+            "10"
+        ],
+        "old_price": 139,
+        "price": 111,
+        "discount": 20
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE370601",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
             "S",
             "M",
             "L"
         ],
         "old_price": 244,
-        "price": 168,
-        "discount": 31
-    },
-    {
-        "model_name": "Сарафан",
-        "link": "https://www.lamoda.by/p/RTLABJ035101",
-        "brand_name": "Guess Jeans",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 733,
-        "price": 513,
-        "discount": 30
+        "price": 146,
+        "discount": 40
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC207301",
-        "brand_name": "JDY",
+        "link": "https://www.lamoda.by/p/RTLAAX283001",
+        "brand_name": "Fragarika",
         "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
+            "40",
+            "42",
+            "44",
+            "46"
         ],
-        "old_price": 86,
-        "price": 47.3,
+        "old_price": 291,
+        "price": 160,
         "discount": 45
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABF632301",
-        "brand_name": "Gap",
+        "link": "https://www.lamoda.by/p/RTLACE735201",
+        "brand_name": "Francesca Peretti",
         "available_sizes": [
+            "S",
+            "M",
             "L",
-            "XL",
-            "XXL"
+            "XL"
         ],
-        "old_price": 319,
-        "price": 223,
-        "discount": 30
+        "old_price": 254,
+        "price": 114,
+        "discount": 55
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABC408001",
-        "brand_name": "Rinascimento",
+        "link": "https://www.lamoda.by/p/RTLACH282101",
+        "brand_name": "Keep Walking",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 264,
+        "price": 181,
+        "discount": 31
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABZ425601",
+        "brand_name": "Nataliy Beate",
+        "available_sizes": [
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 539,
+        "price": 268,
+        "discount": 50
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW0LA3J",
+        "brand_name": "I Am Studio",
         "available_sizes": [
             "XS",
+            "S",
             "M",
             "L"
         ],
-        "old_price": 585,
-        "price": 468,
-        "discount": 20
+        "old_price": 640,
+        "price": 256,
+        "discount": 60
     },
     {
-        "model_name": "Сарафан",
-        "link": "https://www.lamoda.by/p/RTLABD449301",
-        "brand_name": "Maaji",
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/MP002XW15NEV",
+        "brand_name": "Finn Flare",
         "available_sizes": [
-            "S",
-            "M"
+            "XS",
+            "M",
+            "L",
+            "XXL"
         ],
-        "old_price": 252,
-        "price": 189,
+        "old_price": 349,
+        "price": 110,
+        "discount": 68
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABP497501",
+        "brand_name": "Fridaymonday",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 324,
+        "price": 163,
+        "discount": 49
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABD832701",
+        "brand_name": "Sophia",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 357,
+        "price": 267,
         "discount": 25
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAV469501",
-        "brand_name": "By Swan",
+        "link": "https://www.lamoda.by/p/RTLACC562601",
+        "brand_name": "Moda Sincera",
+        "available_sizes": [
+            "S/M",
+            "M/L"
+        ],
+        "old_price": 274,
+        "price": 148,
+        "discount": 45
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACE163101",
+        "brand_name": "Rinascimento",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 428,
+        "price": 256,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLABF014501",
+        "brand_name": "Topshop",
+        "available_sizes": [
+            "8",
+            "10",
+            "12"
+        ],
+        "old_price": 142,
+        "price": 113,
+        "discount": 20
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACA941901",
+        "brand_name": "William De Faye",
         "available_sizes": [
             "S",
             "L",
             "XL"
         ],
-        "old_price": 319,
-        "price": 207,
-        "discount": 35
+        "old_price": 321,
+        "price": 112,
+        "discount": 65
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/CU576EWBROJ3",
-        "brand_name": "Custo Barcelona",
+        "link": "https://www.lamoda.by/p/RTLABG807902",
+        "brand_name": "Salsa",
         "available_sizes": [
-            "2",
-            "3",
-            "4"
+            "XS",
+            "S",
+            "M"
         ],
-        "old_price": 599,
-        "price": 269,
-        "discount": 55
+        "old_price": 301,
+        "price": 120,
+        "discount": 60
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLAAN474201",
-        "brand_name": "Fridaymonday",
+        "link": "https://www.lamoda.by/p/RTLACE314501",
+        "brand_name": "Pinko",
         "available_sizes": [
+            "38",
+            "40"
+        ],
+        "old_price": 1086,
+        "price": 651,
+        "discount": 40
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLACG025601",
+        "brand_name": "Frankie Morello",
+        "available_sizes": [
+            "40",
+            "42"
+        ],
+        "old_price": 606,
+        "price": 424,
+        "discount": 30
+    },
+    {
+        "model_name": "Платье",
+        "link": "https://www.lamoda.by/p/RTLAAV558401",
+        "brand_name": "Hey Look",
+        "available_sizes": [
+            "42",
             "44",
             "46",
-            "48",
-            "50",
-            "52",
-            "54"
+            "48"
         ],
-        "old_price": 283,
-        "price": 127,
+        "old_price": 195,
+        "price": 87.7,
         "discount": 55
     },
     {
         "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/RTLABJ003901",
-        "brand_name": "Desigual",
+        "link": "https://www.lamoda.by/p/RTLABC937101",
+        "brand_name": "Gap",
         "available_sizes": [
             "S",
             "M",
-            "L",
-            "XL"
+            "L"
         ],
-        "old_price": 533,
-        "price": 373,
-        "discount": 30
-    },
-    {
-        "model_name": "Платье",
-        "link": "https://www.lamoda.by/p/IV006EWCQHQ9",
-        "brand_name": "Ivyrevel",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "42"
-        ],
-        "old_price": 309,
-        "price": 216,
-        "discount": 30
+        "old_price": 153,
+        "price": 122,
+        "discount": 20
     }
 ]

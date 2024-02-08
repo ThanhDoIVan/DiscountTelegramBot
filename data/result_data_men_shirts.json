@@ -1,0 +1,1355 @@
+[
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACH188401",
+        "brand_name": "John Richmond",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 402,
+        "price": 321,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE249401",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 250,
+        "price": 125,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACG275901",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 324,
+        "price": 162,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABP363101",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 218,
+        "price": 130,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLABZ579701",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 137,
+        "price": 62.5,
+        "discount": 54
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACC896501",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 90,
+        "price": 63,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABF025601",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 199,
+        "price": 136,
+        "discount": 31
+    },
+    {
+        "model_name": "CUNARDO",
+        "link": "https://www.lamoda.by/p/RTLACB893801",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 279.99,
+        "price": 149.99,
+        "discount": 46
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE249201",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "48",
+            "52",
+            "54"
+        ],
+        "old_price": 289,
+        "price": 144,
+        "discount": 50
+    },
+    {
+        "model_name": "EMERITOL",
+        "link": "https://www.lamoda.by/p/RTLABQ780501",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 199.99,
+        "price": 129.99,
+        "discount": 35
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF131001",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 461,
+        "price": 322,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF917301",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 422,
+        "price": 253,
+        "discount": 40
+    },
+    {
+        "model_name": "MEMPHIS",
+        "link": "https://www.lamoda.by/p/RTLAAN805501",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 179.99,
+        "price": 84.99,
+        "discount": 52
+    },
+    {
+        "model_name": "PLAY",
+        "link": "https://www.lamoda.by/p/RTLABX503301",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "L"
+        ],
+        "old_price": 139.99,
+        "price": 99.99,
+        "discount": 28
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF917201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 422,
+        "price": 253,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABL947501",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 227,
+        "price": 158,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF934001",
+        "brand_name": "Felix Hardy",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 205,
+        "price": 123,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACC016901",
+        "brand_name": "Hugo",
+        "available_sizes": [
+            "40",
+            "46"
+        ],
+        "old_price": 289,
+        "price": 187,
+        "discount": 35
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACG283701",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 454,
+        "price": 227,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACG282501",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 564,
+        "price": 282,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACH035801",
+        "brand_name": "John Richmond",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 548,
+        "price": 438,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABZ861801",
+        "brand_name": "Berna",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 315,
+        "price": 144,
+        "discount": 54
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACG281601",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 405,
+        "price": 202,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABH412401",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 182,
+        "price": 118,
+        "discount": 35
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE823701",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "L",
+            "XL"
+        ],
+        "old_price": 474,
+        "price": 331,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE806702",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 474,
+        "price": 284,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE825201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 759,
+        "price": 531,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE249001",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "48",
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 373,
+        "price": 186,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF073201",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 76.3,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF130801",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 461,
+        "price": 322,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACC246601",
+        "brand_name": "Sisley",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 131,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACD407601",
+        "brand_name": "Sisley",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 274,
+        "price": 164,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF131301",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 318,
+        "price": 222,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF505601",
+        "brand_name": "Bikkembergs",
+        "available_sizes": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+        ],
+        "old_price": 746,
+        "price": 596,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABZ571901",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 75,
+        "price": 41.2,
+        "discount": 45
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE249501",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "46",
+            "48",
+            "50"
+        ],
+        "old_price": 415,
+        "price": 207,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF073101",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 109,
+        "price": 76.3,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABF409601",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 136,
+        "price": 122,
+        "discount": 10
+    },
+    {
+        "model_name": "EMERITOL",
+        "link": "https://www.lamoda.by/p/RTLABQ868201",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 199.99,
+        "price": 129.99,
+        "discount": 35
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACB176601",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 299,
+        "price": 149,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABG401801",
+        "brand_name": "Produkt",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 93,
+        "price": 68,
+        "discount": 26
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABP359601",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 175,
+        "price": 105,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACC896601",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "BOLAM M WVTP BJN0",
+        "link": "https://www.lamoda.by/p/RTLABU164601",
+        "brand_name": "Quiksilver",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 239,
+        "price": 185,
+        "discount": 22
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLAAO150302",
+        "brand_name": "Banana Republic",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 259,
+        "price": 168,
+        "discount": 35
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE493201",
+        "brand_name": "Galvanni",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 389,
+        "price": 155,
+        "discount": 60
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABI428301",
+        "brand_name": "Tom Tailor",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 179,
+        "price": 143,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACG284001",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 516,
+        "price": 258,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE822201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 645,
+        "price": 451,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACH019601",
+        "brand_name": "Harmont & Blaine Jeans",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 464,
+        "price": 371,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/MP002XM08KSO",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+        ],
+        "old_price": 169,
+        "price": 80,
+        "discount": 52
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF130401",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "L",
+            "XXL"
+        ],
+        "old_price": 146,
+        "price": 102,
+        "discount": 30
+    },
+    {
+        "model_name": "overshirt",
+        "link": "https://www.lamoda.by/p/RTLACF153101",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 486,
+        "price": 340,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF130301",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 146,
+        "price": 102,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF920501",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 590,
+        "price": 354,
+        "discount": 40
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABP361701",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 269,
+        "price": 161,
+        "discount": 40
+    },
+    {
+        "model_name": "GUY",
+        "link": "https://www.lamoda.by/p/RTLABX488301",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 179.99,
+        "price": 99.99,
+        "discount": 44
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF153901",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 486,
+        "price": 340,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE818801",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 318,
+        "price": 222,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/MP002XM08IX0",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "4XL"
+        ],
+        "old_price": 169,
+        "price": 95,
+        "discount": 43
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF072701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 134,
+        "price": 93.8,
+        "discount": 30
+    },
+    {
+        "model_name": "OverShirt",
+        "link": "https://www.lamoda.by/p/RTLACD113101",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 344,
+        "price": 189,
+        "discount": 45
+    },
+    {
+        "model_name": "MERSIN",
+        "link": "https://www.lamoda.by/p/RTLABF315301",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 199.99,
+        "price": 139.99,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABY718701",
+        "brand_name": "Calvin Klein",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 389,
+        "price": 194,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF154001",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 486,
+        "price": 340,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF504201",
+        "brand_name": "Bikkembergs",
+        "available_sizes": [
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45"
+        ],
+        "old_price": 597,
+        "price": 477,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABI262301",
+        "brand_name": "Topman",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 71.2,
+        "discount": 34
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACB176701",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 299,
+        "price": 150,
+        "discount": 49
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACB777701",
+        "brand_name": "Berna",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 315,
+        "price": 144,
+        "discount": 54
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABJ486601",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 159,
+        "price": 103,
+        "discount": 35
+    },
+    {
+        "model_name": "KENSINGTON SHIRT",
+        "link": "https://www.lamoda.by/p/RTLABP637901",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 309,
+        "price": 210,
+        "discount": 32
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABE505501",
+        "brand_name": "Selected Homme",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 1422,
+        "price": 1107,
+        "discount": 22
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE827601",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 613,
+        "price": 429,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABR104301",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 90,
+        "price": 63,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABO971001",
+        "brand_name": "Trussardi",
+        "available_sizes": [
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "old_price": 559,
+        "price": 307,
+        "discount": 45
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACC896701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "MARDIN",
+        "link": "https://www.lamoda.by/p/RTLABF315401",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 199.99,
+        "price": 139.99,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACH014001",
+        "brand_name": "John Richmond",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 548,
+        "price": 438,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF505302",
+        "brand_name": "Bikkembergs",
+        "available_sizes": [
+            "39",
+            "41",
+            "42",
+            "43",
+            "44"
+        ],
+        "old_price": 700,
+        "price": 560,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACD407701",
+        "brand_name": "Sisley",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 274,
+        "price": 164,
+        "discount": 40
+    },
+    {
+        "model_name": "TURRE",
+        "link": "https://www.lamoda.by/p/RTLABQ855701",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 179.99,
+        "price": 129.99,
+        "discount": 27
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF130601",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 276,
+        "price": 193,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF130201",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 146,
+        "price": 102,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF130501",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 218,
+        "price": 152,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACB932401",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 120,
+        "price": 55,
+        "discount": 54
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLABF526201",
+        "brand_name": "Topman",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 109,
+        "price": 98.1,
+        "discount": 10
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF503501",
+        "brand_name": "Bikkembergs",
+        "available_sizes": [
+            "41",
+            "42",
+            "44",
+            "45"
+        ],
+        "old_price": 597,
+        "price": 477,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACB176901",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 299,
+        "price": 150,
+        "discount": 49
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACE822301",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 616,
+        "price": 431,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLABQ541901",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 309,
+        "price": 154,
+        "discount": 50
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACF153601",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 486,
+        "price": 340,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACD953201",
+        "brand_name": "Galvanni",
+        "available_sizes": [
+            "L",
+            "XXL"
+        ],
+        "old_price": 370,
+        "price": 148,
+        "discount": 60
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACH032801",
+        "brand_name": "John Richmond",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 564,
+        "price": 451,
+        "discount": 20
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF003901",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1225,
+        "price": 857,
+        "discount": 30
+    },
+    {
+        "model_name": "EMERITOL",
+        "link": "https://www.lamoda.by/p/RTLABQ868101",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "XL"
+        ],
+        "old_price": 199.99,
+        "price": 129.99,
+        "discount": 35
+    },
+    {
+        "model_name": "Рубашка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF130701",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 431,
+        "price": 301,
+        "discount": 30
+    },
+    {
+        "model_name": "Рубашка",
+        "link": "https://www.lamoda.by/p/RTLACG284501",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 807,
+        "price": 403,
+        "discount": 50
+    },
+    {
+        "model_name": "TERSANE",
+        "link": "https://www.lamoda.by/p/RTLABF315701",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 199.99,
+        "price": 139.99,
+        "discount": 30
+    }
+]

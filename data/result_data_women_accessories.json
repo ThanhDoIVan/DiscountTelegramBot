@@ -1,71 +1,25 @@
 [
     {
-        "model_name": "Ess Running Cap",
-        "link": "https://www.lamoda.by/p/RTLAAM864101",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 56,
-        "price": 42,
-        "discount": 25
-    },
-    {
         "model_name": "Сумка",
         "link": "https://www.lamoda.by/p/RTLABJ712601",
         "brand_name": "Desigual",
         "available_sizes": [
             "00"
         ],
-        "old_price": 315,
-        "price": 220,
-        "discount": 30
+        "old_price": 284,
+        "price": 227,
+        "discount": 20
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RO046BWEOKY5",
-        "brand_name": "Roberto Buono",
+        "link": "https://www.lamoda.by/p/RTLABH954101",
+        "brand_name": "Roberta Rossi",
         "available_sizes": [
             "00"
         ],
-        "old_price": 619,
-        "price": 185,
-        "discount": 70
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABD658001",
-        "brand_name": "adidas Originals",
-        "available_sizes": [
-            "OSFW",
-            "OSFM",
-            "OSFL"
-        ],
-        "old_price": 114,
-        "price": 82,
-        "discount": 28
-    },
-    {
-        "model_name": "COSIMA",
-        "link": "https://www.lamoda.by/p/RTLABH196301",
-        "brand_name": "Coccinelle",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 1258,
-        "price": 943,
-        "discount": 25
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLAAG901201",
-        "brand_name": "Nataco",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 46,
-        "price": 33,
-        "discount": 28
+        "old_price": 722,
+        "price": 252,
+        "discount": 65
     },
     {
         "model_name": "Козырек",
@@ -74,42 +28,42 @@
         "available_sizes": [
             "OneSize"
         ],
-        "old_price": 249,
-        "price": 186,
-        "discount": 25
+        "old_price": 221,
+        "price": 187,
+        "discount": 15
+    },
+    {
+        "model_name": "COSIMA",
+        "link": "https://www.lamoda.by/p/RTLABH196301",
+        "brand_name": "Coccinelle",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 1136,
+        "price": 965,
+        "discount": 15
     },
     {
         "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLAAC040501",
+        "link": "https://www.lamoda.by/p/RTLAAF431101",
         "brand_name": "Fabretti",
         "available_sizes": [
             "00"
         ],
-        "old_price": 92,
-        "price": 41.4,
-        "discount": 55
+        "old_price": 154,
+        "price": 46.2,
+        "discount": 70
     },
     {
-        "model_name": "Сумка поясная",
-        "link": "https://www.lamoda.by/p/LE306BULWRU6",
-        "brand_name": "Levi's®",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABF404101",
+        "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 98,
-        "price": 78,
-        "discount": 20
-    },
-    {
-        "model_name": "45CM Backpack",
-        "link": "https://www.lamoda.by/p/RTLABF049101",
-        "brand_name": "Calvin Klein Performance",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 637,
-        "price": 477,
-        "discount": 25
+        "old_price": 72,
+        "price": 46.2,
+        "discount": 35
     },
     {
         "model_name": "Сумка",
@@ -118,9 +72,31 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 224,
-        "price": 123,
-        "discount": 45
+        "old_price": 201,
+        "price": 130,
+        "discount": 35
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABF097701",
+        "brand_name": "Nataco",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 41,
+        "price": 34.8,
+        "discount": 15
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLABL049501",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 147,
+        "price": 124,
+        "discount": 15
     },
     {
         "model_name": "PLD 6114/S 35J",
@@ -129,42 +105,42 @@
         "available_sizes": [
             "51"
         ],
-        "old_price": 299,
-        "price": 209,
-        "discount": 30
-    },
-    {
-        "model_name": "Core Pop Backpack",
-        "link": "https://www.lamoda.by/p/RTLABJ106201",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 134,
-        "price": 120,
-        "discount": 10
+        "old_price": 268,
+        "price": 214,
+        "discount": 20
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLAAZ707401",
-        "brand_name": "River Island",
+        "link": "https://www.lamoda.by/p/RTLABK826901",
+        "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 185,
-        "price": 166,
-        "discount": 10
+        "old_price": 157,
+        "price": 133,
+        "discount": 15
     },
     {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ422001",
-        "brand_name": "Guess",
+        "model_name": "45CM Backpack",
+        "link": "https://www.lamoda.by/p/RTLABF049101",
+        "brand_name": "Calvin Klein Performance",
         "available_sizes": [
             "00"
         ],
-        "old_price": 522,
-        "price": 391,
-        "discount": 25
+        "old_price": 575,
+        "price": 488,
+        "discount": 15
+    },
+    {
+        "model_name": "VENTUS7 W GYM BAG",
+        "link": "https://www.lamoda.by/p/RTLABJ665001",
+        "brand_name": "EA7",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 572,
+        "price": 457,
+        "discount": 20
     },
     {
         "model_name": "Сумка и органайзер",
@@ -178,48 +154,71 @@
         "discount": 75
     },
     {
-        "model_name": "PUMA Phase Backpack No. 2",
-        "link": "https://www.lamoda.by/p/RTLABK032201",
-        "brand_name": "PUMA",
+        "model_name": "Cabin size",
+        "link": "https://www.lamoda.by/p/RTLAAK545802",
+        "brand_name": "Polar",
         "available_sizes": [
             "00"
         ],
-        "old_price": 94,
-        "price": 84,
-        "discount": 10
-    },
-    {
-        "model_name": "Кошелек",
-        "link": "https://www.lamoda.by/p/RTLABB506401",
-        "brand_name": "Bugatti",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 248,
-        "price": 161,
-        "discount": 35
+        "old_price": 348,
+        "price": 295,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/LE306BUAYHQ6",
+        "link": "https://www.lamoda.by/p/LA079BWKQWD2",
+        "brand_name": "Lauren Ralph Lauren",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 1338,
+        "price": 669,
+        "discount": 50
+    },
+    {
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/RTLABG538801",
+        "brand_name": "Dimanche",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 114,
+        "price": 91.2,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка поясная",
+        "link": "https://www.lamoda.by/p/LE306BULWRU6",
         "brand_name": "Levi's®",
         "available_sizes": [
             "00"
         ],
-        "old_price": 74,
-        "price": 60,
-        "discount": 18
+        "old_price": 87,
+        "price": 78.3,
+        "discount": 10
     },
     {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABK826901",
-        "brand_name": "Baggini",
+        "model_name": "Бейсболка",
+        "link": "https://www.lamoda.by/p/RTLABD658001",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "OSFM",
+            "OSFL"
+        ],
+        "old_price": 101,
+        "price": 80.8,
+        "discount": 20
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLAAG901201",
+        "brand_name": "Nataco",
         "available_sizes": [
             "00"
         ],
-        "old_price": 174,
-        "price": 126.5,
-        "discount": 27
+        "old_price": 41,
+        "price": 34.8,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
@@ -233,26 +232,15 @@
         "discount": 70
     },
     {
-        "model_name": "ALWYS CORE",
-        "link": "https://www.lamoda.by/p/RTLABE458901",
-        "brand_name": "Roxy",
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLAAC040501",
+        "brand_name": "Fabretti",
         "available_sizes": [
             "00"
         ],
-        "old_price": 96,
-        "price": 72,
-        "discount": 25
-    },
-    {
-        "model_name": "Шляпа",
-        "link": "https://www.lamoda.by/p/RTLABF539701",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 164,
-        "price": 114,
-        "discount": 30
+        "old_price": 92,
+        "price": 41.4,
+        "discount": 55
     },
     {
         "model_name": "Сумка",
@@ -261,74 +249,8 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 779,
-        "price": 619,
-        "discount": 20
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/BA039BWIMXM6",
-        "brand_name": "Baggini",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 104,
-        "price": 88.4,
-        "discount": 14
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABE729301",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 204,
-        "price": 142,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABA432901",
-        "brand_name": "Pinko",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 1269,
-        "price": 1019,
-        "discount": 19
-    },
-    {
-        "model_name": "VENTUS7 W GYM BAG",
-        "link": "https://www.lamoda.by/p/RTLABJ665001",
-        "brand_name": "EA7",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 633,
-        "price": 443,
-        "discount": 30
-    },
-    {
-        "model_name": "Косметичка",
-        "link": "https://www.lamoda.by/p/RTLABA195101",
-        "brand_name": "Bimba Y Lola",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 210,
-        "price": 94.5,
-        "discount": 55
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABE171201",
-        "brand_name": "Seafolly Australia",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 189,
-        "price": 169,
+        "old_price": 702,
+        "price": 631,
         "discount": 10
     },
     {
@@ -343,14 +265,124 @@
         "discount": 10
     },
     {
-        "model_name": "NK ELMNTL BKPK - FA21",
-        "link": "https://www.lamoda.by/p/RTLAAL323501",
-        "brand_name": "Nike",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/LE306BUAYHQ6",
+        "brand_name": "Levi's®",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 67,
+        "price": 60.3,
+        "discount": 10
+    },
+    {
+        "model_name": "Шляпа",
+        "link": "https://www.lamoda.by/p/RTLABF539701",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 147,
+        "price": 117,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABH950101",
+        "brand_name": "Roberta Rossi",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 545,
+        "price": 299,
+        "discount": 45
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLAAB219201",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 214,
+        "price": 139,
+        "discount": 35
+    },
+    {
+        "model_name": "Косметичка",
+        "link": "https://www.lamoda.by/p/RTLABA195101",
+        "brand_name": "Bimba Y Lola",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 210,
+        "price": 94.5,
+        "discount": 55
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABA902901",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 812,
+        "price": 568,
+        "discount": 30
+    },
+    {
+        "model_name": "Бейсболка",
+        "link": "https://www.lamoda.by/p/RTLABF751201",
+        "brand_name": "Levi's®",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 94,
+        "price": 62,
+        "discount": 34
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLAAX244001",
+        "brand_name": "David Jones",
         "available_sizes": [
             "00"
         ],
         "old_price": 134,
-        "price": 120,
+        "price": 113,
+        "discount": 15
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABF664201",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "55"
+        ],
+        "old_price": 144,
+        "price": 100,
+        "discount": 30
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLAAZ177001",
+        "brand_name": "Trussardi",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 732,
+        "price": 439,
+        "discount": 40
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/BA039BWIMXM6",
+        "brand_name": "Baggini",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 91,
+        "price": 81.9,
         "discount": 10
     },
     {
@@ -363,50 +395,6 @@
         "old_price": 119,
         "price": 83,
         "discount": 30
-    },
-    {
-        "model_name": "W NK GYM CLUB BAG PLUS REFLECT",
-        "link": "https://www.lamoda.by/p/RTLAAW101701",
-        "brand_name": "Nike",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 179,
-        "price": 164,
-        "discount": 8
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABA902901",
-        "brand_name": "Love Moschino",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 900,
-        "price": 540,
-        "discount": 40
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLAAB219201",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 239,
-        "price": 131,
-        "discount": 45
-    },
-    {
-        "model_name": "Phase Backpack",
-        "link": "https://www.lamoda.by/p/RTLABG701301",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 104,
-        "price": 94,
-        "discount": 9
     },
     {
         "model_name": "Шапка",
@@ -420,81 +408,59 @@
         "discount": 25
     },
     {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABF664201",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "55"
-        ],
-        "old_price": 164,
-        "price": 98.4,
-        "discount": 39
-    },
-    {
-        "model_name": "Кошелек",
-        "link": "https://www.lamoda.by/p/RTLABE111701",
-        "brand_name": "Fabretti",
+        "model_name": "CL WB ES",
+        "link": "https://www.lamoda.by/p/RTLAAP964602",
+        "brand_name": "adidas",
         "available_sizes": [
             "00"
         ],
-        "old_price": 244,
-        "price": 134,
-        "discount": 45
+        "old_price": 67,
+        "price": 53.6,
+        "discount": 20
     },
     {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/LA079BWKQWD2",
-        "brand_name": "Lauren Ralph Lauren",
+        "model_name": "PLD 6127/S 08A",
+        "link": "https://www.lamoda.by/p/RTLABI744901",
+        "brand_name": "Polaroid",
         "available_sizes": [
-            "00"
+            "57"
         ],
-        "old_price": 1338,
-        "price": 669,
-        "discount": 50
+        "old_price": 198,
+        "price": 168,
+        "discount": 15
     },
     {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABM999201",
-        "brand_name": "Diora.rim",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 119,
-        "price": 83,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ422001",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 522,
-        "price": 391,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/BA039BWECYX2",
+        "model_name": "Сумка и брелок",
+        "link": "https://www.lamoda.by/p/RTLABK837201",
         "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 86,
-        "price": 60.2,
-        "discount": 30
+        "old_price": 111,
+        "price": 88.8,
+        "discount": 20
     },
     {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABL805901",
-        "brand_name": "Moda Sincera",
+        "model_name": "Сумка и кошелек",
+        "link": "https://www.lamoda.by/p/RTLABJ713401",
+        "brand_name": "Desigual",
         "available_sizes": [
             "00"
         ],
-        "old_price": 169,
-        "price": 115,
-        "discount": 31
+        "old_price": 284,
+        "price": 227,
+        "discount": 20
+    },
+    {
+        "model_name": "AF TRUCKER TREF",
+        "link": "https://www.lamoda.by/p/AD093CUEDUM2",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 57,
+        "price": 45.6,
+        "discount": 20
     },
     {
         "model_name": "Очки солнцезащитные",
@@ -503,20 +469,31 @@
         "available_sizes": [
             "54"
         ],
-        "old_price": 204,
-        "price": 142,
-        "discount": 30
+        "old_price": 181,
+        "price": 144,
+        "discount": 20
     },
     {
-        "model_name": "PUMA Phase Backpack No. 2",
-        "link": "https://www.lamoda.by/p/RTLABK032201",
-        "brand_name": "PUMA",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABE343401",
+        "brand_name": "Blugirl",
         "available_sizes": [
             "00"
         ],
-        "old_price": 94,
-        "price": 84,
-        "discount": 10
+        "old_price": 508,
+        "price": 381,
+        "discount": 25
+    },
+    {
+        "model_name": "Панама",
+        "link": "https://www.lamoda.by/p/RTLABE729301",
+        "brand_name": "Tommy Hilfiger",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 184,
+        "price": 147,
+        "discount": 20
     },
     {
         "model_name": "Браслет",
@@ -525,9 +502,31 @@
         "available_sizes": [
             "L"
         ],
-        "old_price": 279,
-        "price": 223,
-        "discount": 20
+        "old_price": 251,
+        "price": 225,
+        "discount": 10
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLAAG906601",
+        "brand_name": "Nataco",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 41,
+        "price": 34.8,
+        "discount": 15
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLAAX460902",
+        "brand_name": "River Island",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 298,
+        "price": 163,
+        "discount": 45
     },
     {
         "model_name": "Очки солнцезащитные",
@@ -536,20 +535,20 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 46,
-        "price": 33,
-        "discount": 28
+        "old_price": 41,
+        "price": 34.8,
+        "discount": 15
     },
     {
-        "model_name": "Шляпа",
-        "link": "https://www.lamoda.by/p/RTLABF540701",
-        "brand_name": "Fabretti",
+        "model_name": "Колье",
+        "link": "https://www.lamoda.by/p/RTLAAZ995501",
+        "brand_name": "Guess",
         "available_sizes": [
-            "OneSize"
+            "00"
         ],
-        "old_price": 129,
-        "price": 96.7,
-        "discount": 25
+        "old_price": 461,
+        "price": 414,
+        "discount": 10
     },
     {
         "model_name": "Ремень",
@@ -560,75 +559,20 @@
             "80",
             "85"
         ],
-        "old_price": 329,
-        "price": 164,
-        "discount": 50
+        "old_price": 294,
+        "price": 176,
+        "discount": 40
     },
     {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLAAG906601",
-        "brand_name": "Nataco",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 46,
-        "price": 33,
-        "discount": 28
-    },
-    {
-        "model_name": "ALWYS CORE",
-        "link": "https://www.lamoda.by/p/RTLABE458901",
-        "brand_name": "Roxy",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 96,
-        "price": 72,
-        "discount": 25
-    },
-    {
-        "model_name": "CL Premium FO Backpack",
-        "link": "https://www.lamoda.by/p/RTLABE758601",
-        "brand_name": "Reebok Classic",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 114,
-        "price": 66,
-        "discount": 42
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH548201",
-        "brand_name": "Blumarine",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 1040,
-        "price": 572,
-        "discount": 44
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABE172301",
-        "brand_name": "Seafolly Australia",
+        "model_name": "Шляпа",
+        "link": "https://www.lamoda.by/p/RTLABF540701",
+        "brand_name": "Fabretti",
         "available_sizes": [
             "OneSize"
         ],
-        "old_price": 119,
-        "price": 107,
-        "discount": 10
-    },
-    {
-        "model_name": "Сумка и клатч",
-        "link": "https://www.lamoda.by/p/RTLABE931401",
-        "brand_name": "Ted Baker London",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 799,
-        "price": 599,
-        "discount": 25
+        "old_price": 114,
+        "price": 96.9,
+        "discount": 14
     },
     {
         "model_name": "Рюкзак",
@@ -637,8 +581,19 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 239,
-        "price": 167,
+        "old_price": 214,
+        "price": 171,
+        "discount": 20
+    },
+    {
+        "model_name": "CL Premium FO Backpack",
+        "link": "https://www.lamoda.by/p/RTLABE758601",
+        "brand_name": "Reebok Classic",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 101,
+        "price": 70.7,
         "discount": 30
     },
     {
@@ -648,31 +603,31 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 46,
-        "price": 33,
-        "discount": 28
+        "old_price": 41,
+        "price": 34.8,
+        "discount": 15
     },
     {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLAAZ707401",
-        "brand_name": "River Island",
+        "model_name": "Сумка и органайзер",
+        "link": "https://www.lamoda.by/p/RTLABH947301",
+        "brand_name": "Roberta Rossi",
         "available_sizes": [
             "00"
         ],
-        "old_price": 185,
-        "price": 166,
-        "discount": 10
+        "old_price": 782,
+        "price": 430,
+        "discount": 45
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/LE306BUAYHQ6",
-        "brand_name": "Levi's®",
+        "link": "https://www.lamoda.by/p/RTLABJ422001",
+        "brand_name": "Guess",
         "available_sizes": [
             "00"
         ],
-        "old_price": 74,
-        "price": 60,
-        "discount": 18
+        "old_price": 471,
+        "price": 400,
+        "discount": 15
     },
     {
         "model_name": "Шляпа",
@@ -681,64 +636,9 @@
         "available_sizes": [
             "OneSize"
         ],
-        "old_price": 129,
-        "price": 77.4,
-        "discount": 39
-    },
-    {
-        "model_name": "W NK GYM CLUB BAG PLUS REFLECT",
-        "link": "https://www.lamoda.by/p/RTLAAW101701",
-        "brand_name": "Nike",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 179,
-        "price": 164,
-        "discount": 8
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABA165801",
-        "brand_name": "Karl Lagerfeld",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 324,
-        "price": 243,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ420801",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 396,
-        "price": 297,
-        "discount": 25
-    },
-    {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/BA039BWIMXO9",
-        "brand_name": "Baggini",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 169,
-        "price": 109,
-        "discount": 35
-    },
-    {
-        "model_name": "Колье",
-        "link": "https://www.lamoda.by/p/RTLAAZ995501",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 519,
-        "price": 441,
-        "discount": 15
+        "old_price": 114,
+        "price": 79.8,
+        "discount": 30
     },
     {
         "model_name": "Сумка и брелок",
@@ -747,9 +647,53 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 541,
-        "price": 405,
-        "discount": 25
+        "old_price": 488,
+        "price": 414,
+        "discount": 15
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/BA039BWECYX2",
+        "brand_name": "Baggini",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 77,
+        "price": 61.6,
+        "discount": 20
+    },
+    {
+        "model_name": "ALWYS CORE",
+        "link": "https://www.lamoda.by/p/RTLABE458901",
+        "brand_name": "Roxy",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 87,
+        "price": 73.9,
+        "discount": 15
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABJ767101",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 131,
+        "price": 104,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABJ772701",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 127,
+        "price": 107,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
@@ -775,124 +719,14 @@
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ767101",
-        "brand_name": "David Jones",
+        "link": "https://www.lamoda.by/p/RTLABH135101",
+        "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 149,
-        "price": 102,
-        "discount": 31
-    },
-    {
-        "model_name": "Сумка и кошелек",
-        "link": "https://www.lamoda.by/p/RTLABJ713401",
-        "brand_name": "Desigual",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 315,
-        "price": 220,
-        "discount": 30
-    },
-    {
-        "model_name": "Core Up Backpack",
-        "link": "https://www.lamoda.by/p/RTLABL327901",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 149,
-        "price": 134,
-        "discount": 10
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABG096001",
-        "brand_name": "Napapijri",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 144,
-        "price": 104,
-        "discount": 27
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABA247001",
-        "brand_name": "Pinko",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 344,
-        "price": 259,
-        "discount": 24
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ772701",
-        "brand_name": "David Jones",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 144,
-        "price": 104,
-        "discount": 27
-    },
-    {
-        "model_name": "REMI",
-        "link": "https://www.lamoda.by/p/RTLABH210501",
-        "brand_name": "Coccinelle",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 629,
-        "price": 471,
+        "old_price": 164,
+        "price": 123,
         "discount": 25
-    },
-    {
-        "model_name": "с поляризационными линзами, PLD 4110/S/X 10A",
-        "link": "https://www.lamoda.by/p/RTLABD784901",
-        "brand_name": "Polaroid",
-        "available_sizes": [
-            "51"
-        ],
-        "old_price": 444,
-        "price": 288,
-        "discount": 35
-    },
-    {
-        "model_name": "Сумка и брелок",
-        "link": "https://www.lamoda.by/p/RTLABH955001",
-        "brand_name": "Roberta Rossi",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 703,
-        "price": 316,
-        "discount": 55
-    },
-    {
-        "model_name": "Кошелек",
-        "link": "https://www.lamoda.by/p/RTLABG538801",
-        "brand_name": "Dimanche",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 129,
-        "price": 90.3,
-        "discount": 30
-    },
-    {
-        "model_name": "Браслет",
-        "link": "https://www.lamoda.by/p/RTLAAZ987201",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "L"
-        ],
-        "old_price": 159,
-        "price": 127,
-        "discount": 20
     },
     {
         "model_name": "Сумка",
@@ -901,64 +735,9 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 139,
-        "price": 96.7,
-        "discount": 30
-    },
-    {
-        "model_name": "NK HERITAGE WAISTPACK - FA21",
-        "link": "https://www.lamoda.by/p/RTLAAO547401",
-        "brand_name": "Nike",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 98,
-        "price": 73.5,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH950201",
-        "brand_name": "Roberta Rossi",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 604,
-        "price": 271,
-        "discount": 55
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/FA003BWBHTD1",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 224,
-        "price": 123,
-        "discount": 45
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ420701",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 522,
-        "price": 391,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLAAG639501",
-        "brand_name": "Lamania",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 364,
-        "price": 200,
-        "discount": 45
+        "old_price": 124,
+        "price": 99.2,
+        "discount": 20
     },
     {
         "model_name": "Браслет",
@@ -967,306 +746,85 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 349,
-        "price": 244,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ418501",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 356,
-        "price": 267,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABE343401",
-        "brand_name": "Blugirl",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 563,
-        "price": 365,
-        "discount": 35
-    },
-    {
-        "model_name": "Core Base Shopper",
-        "link": "https://www.lamoda.by/p/RTLABJ106501",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 94,
-        "price": 84,
-        "discount": 10
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABE940201",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 259,
-        "price": 181,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка и кошелек",
-        "link": "https://www.lamoda.by/p/RTLABJ713301",
-        "brand_name": "Desigual",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 315,
-        "price": 220,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABF954402",
-        "brand_name": "Pimkie",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 104,
-        "price": 78,
-        "discount": 25
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABE063401",
-        "brand_name": "Vans",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 68,
-        "price": 51,
-        "discount": 25
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH439601",
-        "brand_name": "Emporio Armani",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 759,
-        "price": 645,
-        "discount": 15
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ419501",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 537,
-        "price": 375,
-        "discount": 30
+        "old_price": 311,
+        "price": 248,
+        "discount": 20
     },
     {
         "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABJ757501",
-        "brand_name": "David Jones",
+        "link": "https://www.lamoda.by/p/BA039BWIMXO9",
+        "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 149,
-        "price": 104,
-        "discount": 30
-    },
-    {
-        "model_name": "Шляпа",
-        "link": "https://www.lamoda.by/p/RTLABF541401",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 164,
-        "price": 114,
-        "discount": 30
-    },
-    {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABG303301",
-        "brand_name": "David Jones",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 149,
-        "price": 104,
-        "discount": 30
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABE062501",
-        "brand_name": "Vans",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 90,
-        "price": 67.5,
+        "old_price": 151,
+        "price": 113,
         "discount": 25
     },
     {
-        "model_name": "C-Herrera-147-538",
-        "link": "https://www.lamoda.by/p/RTLABA645401",
-        "brand_name": "Carolina Herrera",
-        "available_sizes": [
-            "64"
-        ],
-        "old_price": 619,
-        "price": 429,
-        "discount": 30
-    },
-    {
-        "model_name": "Бейсболка",
-        "link": "https://www.lamoda.by/p/RTLABB715802",
-        "brand_name": "Liu Jo",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 254,
-        "price": 152,
-        "discount": 40
-    },
-    {
-        "model_name": "PUMA Phase Backpack",
-        "link": "https://www.lamoda.by/p/PU053BUCJHT0",
-        "brand_name": "PUMA",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABA896901",
+        "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 104,
-        "price": 94,
-        "discount": 9
+        "old_price": 111,
+        "price": 83.2,
+        "discount": 25
     },
     {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABF664401",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "55"
-        ],
-        "old_price": 199,
-        "price": 99.5,
-        "discount": 50
-    },
-    {
-        "model_name": "Шляпа",
-        "link": "https://www.lamoda.by/p/FA003CWITRM1",
-        "brand_name": "Fabretti",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 164,
-        "price": 98.4,
-        "discount": 39
-    },
-    {
-        "model_name": "Кошелек",
-        "link": "https://www.lamoda.by/p/RTLABE111701",
-        "brand_name": "Fabretti",
+        "model_name": "Сумка и брелок",
+        "link": "https://www.lamoda.by/p/RTLABH955001",
+        "brand_name": "Roberta Rossi",
         "available_sizes": [
             "00"
         ],
-        "old_price": 244,
-        "price": 134,
+        "old_price": 635,
+        "price": 349,
         "discount": 45
     },
     {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABG297801",
-        "brand_name": "David Jones",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/FA003BWBHTD1",
+        "brand_name": "Fabretti",
         "available_sizes": [
             "00"
         ],
-        "old_price": 119,
-        "price": 83.3,
-        "discount": 30
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABK232401",
-        "brand_name": "Invu",
-        "available_sizes": [
-            "55"
-        ],
-        "old_price": 159,
-        "price": 109.5,
-        "discount": 31
-    },
-    {
-        "model_name": "Шапка",
-        "link": "https://www.lamoda.by/p/AV010CWKKAQ5",
-        "brand_name": "Avanta",
-        "available_sizes": [
-            "56/58"
-        ],
-        "old_price": 257,
-        "price": 167,
+        "old_price": 201,
+        "price": 130,
         "discount": 35
     },
     {
         "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABK899701",
-        "brand_name": "Fabretti",
+        "link": "https://www.lamoda.by/p/RTLABM377401",
+        "brand_name": "Diora.rim",
         "available_sizes": [
-            "55"
+            "00"
         ],
-        "old_price": 219,
-        "price": 158.5,
-        "discount": 27
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABE940901",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 319,
-        "price": 223,
+        "old_price": 52,
+        "price": 36,
         "discount": 30
     },
     {
-        "model_name": "Cabin size",
-        "link": "https://www.lamoda.by/p/RTLAAK545802",
-        "brand_name": "Polar",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABH950201",
+        "brand_name": "Roberta Rossi",
         "available_sizes": [
             "00"
         ],
-        "old_price": 389,
-        "price": 291,
-        "discount": 25
+        "old_price": 545,
+        "price": 299,
+        "discount": 45
     },
     {
-        "model_name": "U NSW BUCKET CORE",
-        "link": "https://www.lamoda.by/p/NI464CUHTDD7",
-        "brand_name": "Nike",
-        "available_sizes": [
-            "S/M",
-            "M/L"
-        ],
-        "old_price": 119,
-        "price": 104,
-        "discount": 12
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLAAC033501",
-        "brand_name": "Fabretti",
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/RTLABB506401",
+        "brand_name": "Bugatti",
         "available_sizes": [
             "00"
         ],
-        "old_price": 82,
-        "price": 61.5,
+        "old_price": 224,
+        "price": 168,
         "discount": 25
     },
     {
@@ -1276,75 +834,31 @@
         "available_sizes": [
             "20,5"
         ],
-        "old_price": 379,
-        "price": 265,
-        "discount": 30
+        "old_price": 341,
+        "price": 272,
+        "discount": 20
     },
     {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABF098601",
-        "brand_name": "Nataco",
+        "model_name": "NK HERITAGE WAISTPACK - FA21",
+        "link": "https://www.lamoda.by/p/RTLAAO547401",
+        "brand_name": "Nike",
         "available_sizes": [
             "00"
         ],
-        "old_price": 52,
-        "price": 40,
-        "discount": 23
-    },
-    {
-        "model_name": "Сумка и брелок",
-        "link": "https://www.lamoda.by/p/RTLABK837201",
-        "brand_name": "Baggini",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 124,
-        "price": 85.5,
-        "discount": 31
-    },
-    {
-        "model_name": "с поляризационными линзами",
-        "link": "https://www.lamoda.by/p/RTLABK233201",
-        "brand_name": "Invu",
-        "available_sizes": [
-            "55"
-        ],
-        "old_price": 239,
-        "price": 153,
-        "discount": 35
+        "old_price": 87,
+        "price": 73.9,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABA896901",
+        "link": "https://www.lamoda.by/p/BA039BWMCMG5",
         "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 124,
-        "price": 80.6,
-        "discount": 35
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH135101",
-        "brand_name": "Baggini",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 184,
-        "price": 118,
-        "discount": 35
-    },
-    {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/BA039BWIMXN5",
-        "brand_name": "Baggini",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 109,
-        "price": 70.8,
-        "discount": 35
+        "old_price": 167,
+        "price": 133,
+        "discount": 20
     },
     {
         "model_name": "Сумка",
@@ -1358,48 +872,368 @@
         "discount": 19
     },
     {
-        "model_name": "Браслет",
-        "link": "https://www.lamoda.by/p/RTLAAZ986101",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "L"
-        ],
-        "old_price": 279,
-        "price": 223,
-        "discount": 20
-    },
-    {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABJ420001",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 537,
-        "price": 375,
-        "discount": 30
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABJ765401",
-        "brand_name": "David Jones",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 119,
-        "price": 83.3,
-        "discount": 30
-    },
-    {
         "model_name": "Сумка",
         "link": "https://www.lamoda.by/p/BA039BWMCMR7",
         "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 164,
+        "old_price": 144,
+        "price": 115,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLAAG639501",
+        "brand_name": "Lamania",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 364,
+        "price": 200,
+        "discount": 45
+    },
+    {
+        "model_name": "с поляризационными линзами, PLD 4110/S/X 10A",
+        "link": "https://www.lamoda.by/p/RTLABD784901",
+        "brand_name": "Polaroid",
+        "available_sizes": [
+            "51"
+        ],
+        "old_price": 398,
+        "price": 298,
+        "discount": 25
+    },
+    {
+        "model_name": "Комплект",
+        "link": "https://www.lamoda.by/p/BA039BWIMXD3",
+        "brand_name": "Baggini",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 188,
+        "price": 150,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABK484401",
+        "brand_name": "Mexx",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 163,
         "price": 114,
         "discount": 30
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABH988502",
+        "brand_name": "Blugirl",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 512,
+        "price": 435,
+        "discount": 15
+    },
+    {
+        "model_name": "Бейсболка",
+        "link": "https://www.lamoda.by/p/RTLABA165801",
+        "brand_name": "Karl Lagerfeld",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 291,
+        "price": 247,
+        "discount": 15
+    },
+    {
+        "model_name": "Браслет",
+        "link": "https://www.lamoda.by/p/RTLAAZ986101",
+        "brand_name": "Guess",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 251,
+        "price": 225,
+        "discount": 10
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABE063401",
+        "brand_name": "Vans",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 60,
+        "price": 51,
+        "discount": 15
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLABJ757501",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 134,
+        "price": 107,
+        "discount": 20
+    },
+    {
+        "model_name": "Бейсболка",
+        "link": "https://www.lamoda.by/p/RTLABA247001",
+        "brand_name": "Pinko",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 308,
+        "price": 261,
+        "discount": 15
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABL827001",
+        "brand_name": "Moda Sincera",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 154,
+        "price": 123,
+        "discount": 20
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABE062501",
+        "brand_name": "Vans",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 80,
+        "price": 68,
+        "discount": 15
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLABG303301",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 134,
+        "price": 107,
+        "discount": 20
+    },
+    {
+        "model_name": "C-Herrera-147-538",
+        "link": "https://www.lamoda.by/p/RTLABA645401",
+        "brand_name": "Carolina Herrera",
+        "available_sizes": [
+            "64"
+        ],
+        "old_price": 552,
+        "price": 441,
+        "discount": 20
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABF664401",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "55"
+        ],
+        "old_price": 178,
+        "price": 106,
+        "discount": 40
+    },
+    {
+        "model_name": "Панама",
+        "link": "https://www.lamoda.by/p/RTLABE940201",
+        "brand_name": "Tommy Hilfiger",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 234,
+        "price": 187,
+        "discount": 20
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABK232401",
+        "brand_name": "Invu",
+        "available_sizes": [
+            "55"
+        ],
+        "old_price": 141,
+        "price": 112,
+        "discount": 20
+    },
+    {
+        "model_name": "Шляпа",
+        "link": "https://www.lamoda.by/p/RTLABF541401",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 147,
+        "price": 117,
+        "discount": 20
+    },
+    {
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/RTLABE111701",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 218,
+        "price": 141,
+        "discount": 35
+    },
+    {
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLABJ758001",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 141,
+        "price": 112,
+        "discount": 20
+    },
+    {
+        "model_name": "Шапка",
+        "link": "https://www.lamoda.by/p/AV010CWKKAQ5",
+        "brand_name": "Avanta",
+        "available_sizes": [
+            "56/58"
+        ],
+        "old_price": 257,
+        "price": 167,
+        "discount": 35
+    },
+    {
+        "model_name": "Шляпа",
+        "link": "https://www.lamoda.by/p/FA003CWITRM1",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 144,
+        "price": 100,
+        "discount": 30
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABK899701",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "55"
+        ],
+        "old_price": 219,
+        "price": 158.5,
+        "discount": 27
+    },
+    {
+        "model_name": "Бейсболка",
+        "link": "https://www.lamoda.by/p/RTLABB715802",
+        "brand_name": "Liu Jo",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 228,
+        "price": 159,
+        "discount": 30
+    },
+    {
+        "model_name": "Сумка дорожная",
+        "link": "https://www.lamoda.by/p/RTLABJ757401",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 201,
+        "price": 160,
+        "discount": 20
+    },
+    {
+        "model_name": "Панама",
+        "link": "https://www.lamoda.by/p/RTLABE940901",
+        "brand_name": "Tommy Hilfiger",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 284,
+        "price": 227,
+        "discount": 20
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABF098601",
+        "brand_name": "Nataco",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 52,
+        "price": 40,
+        "discount": 23
+    },
+    {
+        "model_name": "U NSW BUCKET CORE",
+        "link": "https://www.lamoda.by/p/NI464CUHTDD7",
+        "brand_name": "Nike",
+        "available_sizes": [
+            "S/M",
+            "M/L"
+        ],
+        "old_price": 104,
+        "price": 93.6,
+        "discount": 10
+    },
+    {
+        "model_name": "Серьги",
+        "link": "https://www.lamoda.by/p/RTLABI504801",
+        "brand_name": "Fossil",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 117,
+        "price": 105,
+        "discount": 10
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABJ420801",
+        "brand_name": "Guess",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 358,
+        "price": 304,
+        "discount": 15
+    },
+    {
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLAAC033501",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 82,
+        "price": 61.5,
+        "discount": 25
+    },
+    {
+        "model_name": "REMI",
+        "link": "https://www.lamoda.by/p/RTLABH210501",
+        "brand_name": "Coccinelle",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 568,
+        "price": 482,
+        "discount": 15
     },
     {
         "model_name": "Панама",
@@ -1409,9 +1243,9 @@
             "OSFM",
             "OSFL"
         ],
-        "old_price": 129,
-        "price": 96.7,
-        "discount": 25
+        "old_price": 114,
+        "price": 96.9,
+        "discount": 14
     },
     {
         "model_name": "Сумка",
@@ -1420,75 +1254,42 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 518,
-        "price": 181,
-        "discount": 65
+        "old_price": 468,
+        "price": 210,
+        "discount": 55
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/BA039BWMCMG5",
-        "brand_name": "Baggini",
+        "link": "https://www.lamoda.by/p/RTLABJ420701",
+        "brand_name": "Guess",
         "available_sizes": [
             "00"
         ],
-        "old_price": 189,
-        "price": 132,
-        "discount": 30
-    },
-    {
-        "model_name": "Панама",
-        "link": "https://www.lamoda.by/p/RTLABD313001",
-        "brand_name": "Iceberg",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 337,
-        "price": 252,
-        "discount": 25
+        "old_price": 471,
+        "price": 400,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH386601",
-        "brand_name": "Francesca Peretti",
+        "link": "https://www.lamoda.by/p/RTLABJ418501",
+        "brand_name": "Guess",
         "available_sizes": [
             "00"
         ],
-        "old_price": 619,
-        "price": 433,
-        "discount": 30
-    },
-    {
-        "model_name": "Очки солнцезащитные",
-        "link": "https://www.lamoda.by/p/RTLABG961301",
-        "brand_name": "Invu",
-        "available_sizes": [
-            "57"
-        ],
-        "old_price": 189,
-        "price": 132,
-        "discount": 30
-    },
-    {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABH813401",
-        "brand_name": "Armani Exchange",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 709,
-        "price": 531,
-        "discount": 25
+        "old_price": 321,
+        "price": 272,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABG300001",
+        "link": "https://www.lamoda.by/p/RTLABJ765401",
         "brand_name": "David Jones",
         "available_sizes": [
             "00"
         ],
-        "old_price": 86,
-        "price": 64.5,
-        "discount": 25
+        "old_price": 107,
+        "price": 85.6,
+        "discount": 20
     },
     {
         "model_name": "TEBE",
@@ -1497,31 +1298,44 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 663,
-        "price": 497,
-        "discount": 25
+        "old_price": 598,
+        "price": 508,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH988502",
-        "brand_name": "Blugirl",
+        "link": "https://www.lamoda.by/p/RTLABH386601",
+        "brand_name": "Francesca Peretti",
         "available_sizes": [
             "00"
         ],
-        "old_price": 567,
-        "price": 425,
+        "old_price": 552,
+        "price": 441,
+        "discount": 20
+    },
+    {
+        "model_name": "с поляризационными линзами",
+        "link": "https://www.lamoda.by/p/RTLABK233201",
+        "brand_name": "Invu",
+        "available_sizes": [
+            "55"
+        ],
+        "old_price": 214,
+        "price": 160,
         "discount": 25
     },
     {
-        "model_name": "PLD 6128/S 08A",
-        "link": "https://www.lamoda.by/p/RTLABI745001",
-        "brand_name": "Polaroid",
+        "model_name": "AC CONT BALLCAP",
+        "link": "https://www.lamoda.by/p/RTLABA052701",
+        "brand_name": "adidas Originals",
         "available_sizes": [
-            "59"
+            "OSFW",
+            "OSFM",
+            "OSFL"
         ],
-        "old_price": 219,
-        "price": 164,
-        "discount": 25
+        "old_price": 101,
+        "price": 90.9,
+        "discount": 10
     },
     {
         "model_name": "Сумка",
@@ -1530,42 +1344,53 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 629,
-        "price": 458.5,
-        "discount": 27
+        "old_price": 568,
+        "price": 482,
+        "discount": 15
     },
     {
-        "model_name": "PUMA Ess Cap No. 2",
-        "link": "https://www.lamoda.by/p/RTLABK030901",
-        "brand_name": "PUMA",
+        "model_name": "Очки солнцезащитные",
+        "link": "https://www.lamoda.by/p/RTLABG961301",
+        "brand_name": "Invu",
         "available_sizes": [
-            "OneSize"
+            "57"
         ],
-        "old_price": 56,
-        "price": 46.8,
-        "discount": 16
+        "old_price": 171,
+        "price": 136,
+        "discount": 20
     },
     {
-        "model_name": "Комплект",
-        "link": "https://www.lamoda.by/p/BA039BWIMXD3",
+        "model_name": "Рюкзак",
+        "link": "https://www.lamoda.by/p/RTLABG297801",
+        "brand_name": "David Jones",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 107,
+        "price": 85.6,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка поясная",
+        "link": "https://www.lamoda.by/p/BA039BWLCHM3",
         "brand_name": "Baggini",
         "available_sizes": [
             "00"
         ],
-        "old_price": 209,
-        "price": 146,
-        "discount": 30
+        "old_price": 171,
+        "price": 136,
+        "discount": 20
     },
     {
-        "model_name": "Кошелек",
-        "link": "https://www.lamoda.by/p/RTLABE118301",
-        "brand_name": "Fabretti",
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/RTLABG300001",
+        "brand_name": "David Jones",
         "available_sizes": [
             "00"
         ],
-        "old_price": 194,
-        "price": 126,
-        "discount": 35
+        "old_price": 77,
+        "price": 65.4,
+        "discount": 15
     },
     {
         "model_name": "Сумка и органайзер",
@@ -1574,20 +1399,20 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 619,
-        "price": 448,
-        "discount": 27
+        "old_price": 552,
+        "price": 441,
+        "discount": 20
     },
     {
-        "model_name": "PLD 4111/S/X 807",
-        "link": "https://www.lamoda.by/p/RTLABD785701",
+        "model_name": "PLD 6128/S 08A",
+        "link": "https://www.lamoda.by/p/RTLABI745001",
         "brand_name": "Polaroid",
         "available_sizes": [
-            "53"
+            "59"
         ],
-        "old_price": 414,
-        "price": 269,
-        "discount": 35
+        "old_price": 198,
+        "price": 168,
+        "discount": 15
     },
     {
         "model_name": "Сумка",
@@ -1596,41 +1421,63 @@
         "available_sizes": [
             "00"
         ],
-        "old_price": 139,
-        "price": 90.3,
-        "discount": 35
+        "old_price": 124,
+        "price": 93,
+        "discount": 25
     },
     {
-        "model_name": "Рюкзак",
-        "link": "https://www.lamoda.by/p/RTLABK098501",
-        "brand_name": "Moda Sincera",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 299,
-        "price": 216.5,
-        "discount": 27
-    },
-    {
-        "model_name": "Сумка",
-        "link": "https://www.lamoda.by/p/RTLABH952401",
-        "brand_name": "Roberta Rossi",
-        "available_sizes": [
-            "00"
-        ],
-        "old_price": 304,
-        "price": 152,
-        "discount": 50
-    },
-    {
-        "model_name": "Lifestyle Athletics Trucker",
-        "link": "https://www.lamoda.by/p/RTLABJ552701",
-        "brand_name": "New Balance",
+        "model_name": "Шляпа",
+        "link": "https://www.lamoda.by/p/RTLABG661601",
+        "brand_name": "Liu Jo",
         "available_sizes": [
             "OneSize"
         ],
-        "old_price": 114,
-        "price": 98,
-        "discount": 14
+        "old_price": 228,
+        "price": 182,
+        "discount": 20
+    },
+    {
+        "model_name": "Сумка",
+        "link": "https://www.lamoda.by/p/BA039BWMCMQ0",
+        "brand_name": "Baggini",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 137,
+        "price": 109,
+        "discount": 20
+    },
+    {
+        "model_name": "Кошелек",
+        "link": "https://www.lamoda.by/p/RTLABE118301",
+        "brand_name": "Fabretti",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 174,
+        "price": 130,
+        "discount": 25
+    },
+    {
+        "model_name": "Core Up Large Shopper",
+        "link": "https://www.lamoda.by/p/RTLABL108301",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 150,
+        "price": 135,
+        "discount": 10
+    },
+    {
+        "model_name": "Сумка и кошелек",
+        "link": "https://www.lamoda.by/p/RTLABJ713301",
+        "brand_name": "Desigual",
+        "available_sizes": [
+            "00"
+        ],
+        "old_price": 284,
+        "price": 227,
+        "discount": 20
     }
 ]

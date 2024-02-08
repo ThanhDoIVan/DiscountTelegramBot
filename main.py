@@ -654,7 +654,7 @@ def main():
 
     # collect_data_men_shoes()
     # collect_data_women_shoes()
-    collect_data_women_overalls()
+    # collect_data_women_overalls()
 
 if __name__ == '__main__':
     main()

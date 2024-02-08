@@ -18,7 +18,7 @@ async def bot_output(data, used_list, message: types.Message):
                 card = f"{hlink(item.get('model_name'), item.get('link'))}\n" \
                        f"{hbold('Брэнд: ')} {item.get('brand_name')}\n" \
                        f"{hbold('Прайс: ')} {item.get('old_price')} BYN\n" \
-                       f"{hbold('Размеры: ')} {sizes} \n" \
+                       f"{hbold('Доступные Размеры: ')} {sizes} \n" \
                        f"{hbold('Прайс со скидкой ')} -{item.get('discount')}%: {item.get('price')} BYN 🔥"
                 used_list.append(item)
                 await message.answer(card)
@@ -36,11 +36,10 @@ async def bot_output(data, used_list, message: types.Message):
 
 @dp.message_handler(commands='start')
 async def start(message: types.Message):
-    start_buttons = ['Мужское', 'Женское']
+    start_buttons = ['🧔 Мужское', '👩‍🦰 Женское']
     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
     keyboard.add(*start_buttons)
     await message.answer('Товары со скидкой 📈📉', reply_markup=keyboard)
-
 
 @dp.message_handler(commands='menu')
 async def menu(message: types.Message):
@@ -48,12 +47,12 @@ async def menu(message: types.Message):
 
 @dp.message_handler(commands='help')
 async def help(message: types.Message):
-    await message.answer('Выбирайте нужную вам категорию, и бот выдаст 5 карточек раздела. \n'
-                         'Чтобы посмотреть новые предложения, повторно нажмите на нужную вам категорию. \n\n'
-                         'Чтобы выбрать другую категорию, напишите /start или /menu .')
+    await message.answer(f"🔸Выбирайте нужную вам категорию, и бот выдаст {hbold('5')} карточек раздела. \n"
+                         "🔸Чтобы посмотреть новые предложения, повторно нажмите на нужную вам категорию. \n\n"
+                         "🔸Чтобы выбрать другую категорию, напишите /start или /menu .")
     await message.answer('Пользуйтесь функциями бота и получайте удовольствие 🤓')
 
-@dp.message_handler(Text(equals='Мужское'))
+@dp.message_handler(Text(equals='🧔 Мужское'))
 async def more_btn(message: types.Message):
     used_list = []
     buttons = ['Одежда "м"', 'Обувь "м"', 'Аксессуары "м"']
@@ -150,7 +149,7 @@ async def more_btn(message: types.Message):
 
         await bot_output(data, used_list, message)
 
-@dp.message_handler(Text(equals='Женское'))
+@dp.message_handler(Text(equals='👩‍🦰 Женское'))
 async def more_btn(message: types.Message):
     used_list = []
     buttons = ['Одежда "ж"', 'Обувь "ж"', 'Аксессуары "ж"']

@@ -1,72 +1,462 @@
 [
     {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAV630501",
-        "brand_name": "Patrizia Pepe",
+        "model_name": "NUDI",
+        "link": "https://www.lamoda.by/p/RTLABB483301",
+        "brand_name": "Mango",
         "available_sizes": [
-            "40",
-            "42",
-            "44"
+            "XXS",
+            "XS",
+            "S",
+            "M"
         ],
-        "old_price": 1919,
-        "price": 479,
-        "discount": 75
+        "old_price": 269.99,
+        "price": 99.99,
+        "discount": 62
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/IV006EWEKSE8",
-        "brand_name": "Ivyrevel",
+        "link": "https://www.lamoda.by/p/RTLABL933401",
+        "brand_name": "Nataliy Beate",
         "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40",
-            "42"
+            "42",
+            "44",
+            "46",
+            "50",
+            "52"
         ],
-        "old_price": 354,
-        "price": 194,
+        "old_price": 679,
+        "price": 337,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABI832801",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "46",
+            "48",
+            "54",
+            "56"
+        ],
+        "old_price": 327,
+        "price": 163,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABI832601",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52",
+            "56"
+        ],
+        "old_price": 327,
+        "price": 163,
+        "discount": 50
+    },
+    {
+        "model_name": "XLURI",
+        "link": "https://www.lamoda.by/p/RTLACD947001",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XXS",
+            "L",
+            "XL"
+        ],
+        "old_price": 239.99,
+        "price": 129.99,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABI832501",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "46",
+            "56"
+        ],
+        "old_price": 327,
+        "price": 163,
+        "discount": 50
+    },
+    {
+        "model_name": "GLEN",
+        "link": "https://www.lamoda.by/p/RTLABE853901",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 379.99,
+        "price": 149.99,
+        "discount": 60
+    },
+    {
+        "model_name": "INKA",
+        "link": "https://www.lamoda.by/p/RTLABY909601",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 179.99,
+        "price": 99.99,
+        "discount": 44
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/GE002EWKNIO5",
+        "brand_name": "Gerry Weber",
+        "available_sizes": [
+            "38",
+            "40"
+        ],
+        "old_price": 621,
+        "price": 217,
+        "discount": 65
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF470901",
+        "brand_name": "Elsi",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 374,
+        "price": 224,
+        "discount": 40
+    },
+    {
+        "model_name": "MARTA",
+        "link": "https://www.lamoda.by/p/RTLABE200101",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XXS",
+            "S",
+            "XL"
+        ],
+        "old_price": 269.99,
+        "price": 179.99,
+        "discount": 33
+    },
+    {
+        "model_name": "JUMPSUIT IN ABSTRACT PRINT",
+        "link": "https://www.lamoda.by/p/LO035EWTTD76",
+        "brand_name": "Lost Ink Plus",
+        "available_sizes": [
+            "46"
+        ],
+        "old_price": 139,
+        "price": 111,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABI953001",
+        "brand_name": "Topshop",
+        "available_sizes": [
+            "14"
+        ],
+        "old_price": 314,
+        "price": 172,
+        "discount": 45
+    },
+    {
+        "model_name": "P SMOCKED WAIST JUMPSUIT",
+        "link": "https://www.lamoda.by/p/LO040EWAQDG4",
+        "brand_name": "Lost Ink Petite",
+        "available_sizes": [
+            "32"
+        ],
+        "old_price": 109,
+        "price": 70.8,
+        "discount": 35
+    },
+    {
+        "model_name": "FAVOLA",
+        "link": "https://www.lamoda.by/p/RTLABP653601",
+        "brand_name": "Persona by Marina Rinaldi",
+        "available_sizes": [
+            "23"
+        ],
+        "old_price": 584,
+        "price": 321,
         "discount": 45
     },
     {
         "model_name": "Комбинезон джинсовый",
-        "link": "https://www.lamoda.by/p/RTLAAV180001",
-        "brand_name": "G&G",
+        "link": "https://www.lamoda.by/p/RTLABH378601",
+        "brand_name": "Gap",
         "available_sizes": [
-            "M",
-            "L",
-            "XL"
+            "M"
         ],
-        "old_price": 293,
-        "price": 175,
+        "old_price": 218,
+        "price": 152,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAY337001",
+        "brand_name": "Nataliy Beate",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 492,
+        "price": 270,
+        "discount": 45
+    },
+    {
+        "model_name": "MLSUNRISE COMFY DENIM OVERALL",
+        "link": "https://www.lamoda.by/p/MA101EWMHBA4",
+        "brand_name": "Mamalicious",
+        "available_sizes": [
+            "26/32",
+            "27/32",
+            "28/32",
+            "29/32"
+        ],
+        "old_price": 269,
+        "price": 147,
+        "discount": 45
+    },
+    {
+        "model_name": "LAETICIA",
+        "link": "https://www.lamoda.by/p/RTLABG640701",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "34/36",
+            "36/38",
+            "38/40",
+            "40/42",
+            "42/44",
+            "44/46"
+        ],
+        "old_price": 268,
+        "price": 227,
+        "discount": 15
+    },
+    {
+        "model_name": "HENRI",
+        "link": "https://www.lamoda.by/p/RTLABG640801",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 291,
+        "price": 261,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH688201",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 354,
+        "price": 247,
+        "discount": 30
+    },
+    {
+        "model_name": "HENRI",
+        "link": "https://www.lamoda.by/p/RTLABG641001",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 291,
+        "price": 261,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE313301",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 224,
+        "price": 134,
         "discount": 40
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAZ085701",
-        "brand_name": "TrendyAngel",
+        "link": "https://www.lamoda.by/p/RTLACE224501",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 379,
+        "price": 246,
+        "discount": 35
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE733601",
+        "brand_name": "Francesca Peretti",
         "available_sizes": [
             "S",
             "M",
             "L",
             "XL"
         ],
-        "old_price": 334,
-        "price": 250,
-        "discount": 25
+        "old_price": 264,
+        "price": 118,
+        "discount": 55
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAY414401",
-        "brand_name": "Aaquamarina",
+        "link": "https://www.lamoda.by/p/RTLACH688001",
+        "brand_name": "Miss Gabby",
         "available_sizes": [
-            "40/42",
-            "44/46",
-            "46/48",
-            "48/50"
+            "S",
+            "M"
+        ],
+        "old_price": 314,
+        "price": 216,
+        "discount": 31
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MP002XW0CS46",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
         ],
         "old_price": 294,
-        "price": 161,
+        "price": 90,
+        "discount": 69
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/EN012EWDUCC1",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "40/42"
+        ],
+        "old_price": 219,
+        "price": 197,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/EN012EWJFII6",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "38/40"
+        ],
+        "old_price": 224,
+        "price": 201,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/EN012EWDUCF7",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "38/40"
+        ],
+        "old_price": 219,
+        "price": 197,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MP002XW0CS3U",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 384,
+        "price": 195,
+        "discount": 49
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG167901",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 509,
+        "price": 352,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE224401",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 379,
+        "price": 265,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF470501",
+        "brand_name": "Elsi",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 374,
+        "price": 224,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE963001",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 399,
+        "price": 219,
         "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH470201",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 469,
+        "price": 327,
+        "discount": 30
     },
     {
         "model_name": "Комбинезон",
@@ -80,9 +470,21 @@
             "XL",
             "XXL"
         ],
-        "old_price": 284,
-        "price": 225,
-        "discount": 20
+        "old_price": 274,
+        "price": 112,
+        "discount": 59
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH688301",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 364,
+        "price": 252,
+        "discount": 30
     },
     {
         "model_name": "Комбинезон",
@@ -96,12 +498,51 @@
             "XL"
         ],
         "old_price": 199,
-        "price": 159,
-        "discount": 20
+        "price": 129,
+        "discount": 35
     },
     {
-        "model_name": "TYE JUMPSUIT",
-        "link": "https://www.lamoda.by/p/RTLABG257101",
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/LO022EWMRLY4",
+        "brand_name": "Love Republic",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE313201",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 224,
+        "price": 134,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAV579601",
+        "brand_name": "Aaquamarina",
+        "available_sizes": [
+            "40/42",
+            "44/46",
+            "46/48"
+        ],
+        "old_price": 255,
+        "price": 127,
+        "discount": 50
+    },
+    {
+        "model_name": "EXHALE ONE SHOULDER LEOTARD",
+        "link": "https://www.lamoda.by/p/RTLABQ279501",
         "brand_name": "PUMA",
         "available_sizes": [
             "XS",
@@ -109,9 +550,428 @@
             "M",
             "L"
         ],
+        "old_price": 364,
+        "price": 264,
+        "discount": 27
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH688401",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 364,
+        "price": 252,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH688101",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
         "old_price": 354,
-        "price": 265,
-        "discount": 25
+        "price": 247,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO053001",
+        "brand_name": "Pink Summer",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 469,
+        "price": 235,
+        "discount": 49
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE964301",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 399,
+        "price": 179,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH687001",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 289,
+        "price": 201,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF859601",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 129,
+        "price": 77.4,
+        "discount": 39
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG168001",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 509,
+        "price": 305,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE912302",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 1199,
+        "price": 839,
+        "discount": 30
+    },
+    {
+        "model_name": "MARVIN",
+        "link": "https://www.lamoda.by/p/RTLAAO979701",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 239.99,
+        "price": 169.99,
+        "discount": 29
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAH019801",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 172,
+        "price": 77.4,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE410801",
+        "brand_name": "Shartrez",
+        "available_sizes": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 319,
+        "price": 159,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE313401",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 224,
+        "price": 134,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH284801",
+        "brand_name": "Keep Walking",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 344,
+        "price": 239,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACD459801",
+        "brand_name": "Rinascimento",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 461,
+        "price": 276,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH687201",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 289,
+        "price": 201,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH470301",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 469,
+        "price": 327,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH687901",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 314,
+        "price": 216,
+        "discount": 31
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH687801",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 334,
+        "price": 231,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH686901",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 399,
+        "price": 277,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAY415001",
+        "brand_name": "Aaquamarina",
+        "available_sizes": [
+            "40/42",
+            "42/44",
+            "48/50"
+        ],
+        "old_price": 264,
+        "price": 145,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/CO072EWDRVT8",
+        "brand_name": "Colcci",
+        "available_sizes": [
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 279,
+        "price": 153,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH470101",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 469,
+        "price": 327,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACH469901",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 469,
+        "price": 327,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABM196101",
+        "brand_name": "UnicoModa",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 364,
+        "price": 182,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAA717801",
+        "brand_name": "Stefanel",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 384,
+        "price": 230,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF854701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "old_price": 254,
+        "price": 152,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF854301",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "old_price": 244,
+        "price": 146,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG163901",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 509,
+        "price": 305,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE963201",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 399,
+        "price": 179,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF853901",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44"
+        ],
+        "old_price": 199,
+        "price": 119,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF854001",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "38",
+            "42",
+            "44"
+        ],
+        "old_price": 184,
+        "price": 110,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF854201",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "40",
+            "42",
+            "44"
+        ],
+        "old_price": 154,
+        "price": 92.4,
+        "discount": 39
     },
     {
         "model_name": "SMOCK WAIST DUNGAREE TROUSER",
@@ -126,206 +986,112 @@
             "44"
         ],
         "old_price": 119,
-        "price": 83.3,
-        "discount": 30
-    },
-    {
-        "model_name": "Комбинезон джинсовый",
-        "link": "https://www.lamoda.by/p/RTLABG987901",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XS",
-            "S"
-        ],
-        "old_price": 589,
-        "price": 323,
-        "discount": 45
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABJ735901",
-        "brand_name": "Seafolly Australia",
-        "available_sizes": [
-            "XS",
-            "M",
-            "L"
-        ],
-        "old_price": 559,
-        "price": 380.5,
-        "discount": 31
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABM108901",
-        "brand_name": "Baon",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 299,
-        "price": 236,
-        "discount": 21
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABF209201",
-        "brand_name": "Nativos",
-        "available_sizes": [
-            "6",
-            "8",
-            "10",
-            "12"
-        ],
-        "old_price": 149,
-        "price": 111,
-        "discount": 25
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABD495801",
-        "brand_name": "Imperial",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 541,
-        "price": 405,
-        "discount": 25
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/TR015EWMGQH6",
-        "brand_name": "TrendyAngel",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 309,
-        "price": 169,
-        "discount": 45
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABB371501",
-        "brand_name": "Lorabomb",
-        "available_sizes": [
-            "50",
-            "52",
-            "54"
-        ],
-        "old_price": 319,
-        "price": 219,
-        "discount": 31
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/SE781EWHJCQ0",
-        "brand_name": "Selected Femme",
-        "available_sizes": [
-            "38",
-            "40"
-        ],
-        "old_price": 359,
-        "price": 269,
-        "discount": 25
-    },
-    {
-        "model_name": "DADOLATA",
-        "link": "https://www.lamoda.by/p/RTLABC388901",
-        "brand_name": "Max&Co",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 826,
-        "price": 578,
-        "discount": 30
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABI490201",
-        "brand_name": "Silvian Heach",
-        "available_sizes": [
-            "40",
-            "42",
-            "44",
-            "46"
-        ],
-        "old_price": 589,
-        "price": 412,
-        "discount": 30
-    },
-    {
-        "model_name": "ASMC AOK ONE",
-        "link": "https://www.lamoda.by/p/RTLABF782301",
-        "brand_name": "adidas by Stella McCartney",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 969,
-        "price": 678,
-        "discount": 30
-    },
-    {
-        "model_name": "HER Jumpsuit",
-        "link": "https://www.lamoda.by/p/RTLABC798201",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 299,
-        "price": 269,
-        "discount": 10
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAK573501",
-        "brand_name": "River Island",
-        "available_sizes": [
-            "6",
-            "8",
-            "10"
-        ],
-        "old_price": 293,
-        "price": 146,
-        "discount": 50
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAI360301",
-        "brand_name": "Noisy May",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 86,
-        "price": 68.8,
+        "price": 95.2,
         "discount": 20
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAE984801",
-        "brand_name": "Goldrai",
+        "link": "https://www.lamoda.by/p/RTLACE410601",
+        "brand_name": "Shartrez",
         "available_sizes": [
-            "M",
-            "L"
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
         ],
-        "old_price": 289,
-        "price": 187,
-        "discount": 35
+        "old_price": 319,
+        "price": 159,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABH400201",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 363,
+        "price": 181,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE912501",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "40"
+        ],
+        "old_price": 2042,
+        "price": 1633,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAL393501",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 226,
+        "price": 90.4,
+        "discount": 60
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABN076601",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 119,
+        "price": 65.4,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MP002XW0CS48",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 294,
+        "price": 120,
+        "discount": 59
+    },
+    {
+        "model_name": "Tribal Riders",
+        "link": "https://www.lamoda.by/p/RTLABE456101",
+        "brand_name": "Quiksilver",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 259,
+        "price": 154,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAZ359301",
+        "brand_name": "Fragarika",
+        "available_sizes": [
+            "42/44",
+            "44/46",
+            "46/48",
+            "48/50"
+        ],
+        "old_price": 337,
+        "price": 168,
+        "discount": 50
     },
     {
         "model_name": "Комбинезон",
@@ -336,74 +1102,23 @@
             "S",
             "M",
             "L",
-            "XL",
-            "XXL"
+            "XL"
         ],
-        "old_price": 299,
-        "price": 236,
-        "discount": 21
-    },
-    {
-        "model_name": "Комбинезон джинсовый",
-        "link": "https://www.lamoda.by/p/RTLABM484001",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 364,
-        "price": 253,
-        "discount": 30
-    },
-    {
-        "model_name": "Комбинезон джинсовый",
-        "link": "https://www.lamoda.by/p/RTLABE642401",
-        "brand_name": "Morgan",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 389,
-        "price": 291,
-        "discount": 25
+        "old_price": 289,
+        "price": 132,
+        "discount": 54
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAV634501",
-        "brand_name": "Patrizia Pepe",
+        "link": "https://www.lamoda.by/p/MP002XW0K66V",
+        "brand_name": "I Am Studio",
         "available_sizes": [
-            "38",
-            "42"
+            "S",
+            "L"
         ],
-        "old_price": 1549,
-        "price": 691,
-        "discount": 55
-    },
-    {
-        "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABC912101",
-        "brand_name": "L'Autre Chose",
-        "available_sizes": [
-            "38",
-            "40",
-            "42",
-            "44"
-        ],
-        "old_price": 1606,
-        "price": 642,
-        "discount": 60
-    },
-    {
-        "model_name": "Комбинезон джинсовый",
-        "link": "https://www.lamoda.by/p/RTLABM483901",
-        "brand_name": "Fragarika",
-        "available_sizes": [
-            "OneSize"
-        ],
-        "old_price": 364,
-        "price": 253,
-        "discount": 30
+        "old_price": 570,
+        "price": 171,
+        "discount": 70
     },
     {
         "model_name": "Комбинезон джинсовый",
@@ -412,44 +1127,1124 @@
         "available_sizes": [
             "OneSize"
         ],
-        "old_price": 364,
-        "price": 253,
-        "discount": 30
+        "old_price": 354,
+        "price": 178,
+        "discount": 49
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABB115001",
-        "brand_name": "Trussardi",
+        "link": "https://www.lamoda.by/p/RTLACE410901",
+        "brand_name": "Shartrez",
         "available_sizes": [
             "40",
             "42",
-            "46"
+            "44",
+            "46",
+            "48"
         ],
-        "old_price": 1109,
-        "price": 548,
+        "old_price": 319,
+        "price": 159,
         "discount": 50
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLAAI815001",
-        "brand_name": "Miss Gabby",
+        "link": "https://www.lamoda.by/p/RTLACF470801",
+        "brand_name": "Elsi",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 374,
+        "price": 224,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABM941501",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 108,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE410701",
+        "brand_name": "Shartrez",
+        "available_sizes": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 319,
+        "price": 159,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABH400501",
+        "brand_name": "Bad Queen",
         "available_sizes": [
             "S",
             "M"
         ],
-        "old_price": 324,
-        "price": 129,
+        "old_price": 363,
+        "price": 181,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/SW007EWBJTC0",
+        "brand_name": "Sweewe",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 204,
+        "price": 71.4,
+        "discount": 65
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE881101",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "40",
+            "46"
+        ],
+        "old_price": 1173,
+        "price": 938,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон джинсовый",
+        "link": "https://www.lamoda.by/p/RTLABM483901",
+        "brand_name": "Fragarika",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 354,
+        "price": 178,
+        "discount": 49
+    },
+    {
+        "model_name": "- MTERNITY-I",
+        "link": "https://www.lamoda.by/p/MA002EWLTSU4",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 239.99,
+        "price": 215,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RO165EWAKFG0",
+        "brand_name": "Roxy",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 199,
+        "price": 139,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABJ174601",
+        "brand_name": "Rene Santi",
+        "available_sizes": [
+            "44"
+        ],
+        "old_price": 327,
+        "price": 147,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/CO037EWTAY77",
+        "brand_name": "Concept Club",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 94,
+        "price": 75.2,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAA574301",
+        "brand_name": "Ichi",
+        "available_sizes": [
+            "36"
+        ],
+        "old_price": 314,
+        "price": 172,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MP002XW0CS3V",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 384,
+        "price": 195,
+        "discount": 49
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MP002XW0CS59",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 329,
+        "price": 110,
+        "discount": 66
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF470601",
+        "brand_name": "Elsi",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 374,
+        "price": 224,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE912502",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "38",
+            "42"
+        ],
+        "old_price": 2042,
+        "price": 1633,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF470701",
+        "brand_name": "Elsi",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 374,
+        "price": 224,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO730401",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "S",
+            "L"
+        ],
+        "old_price": 464,
+        "price": 232,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон джинсовый",
+        "link": "https://www.lamoda.by/p/RTLABY410901",
+        "brand_name": "G&G",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 224,
+        "price": 82,
+        "discount": 63
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF859701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 199,
+        "price": 119,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/IN012EWHQJD1",
+        "brand_name": "Indiano Natural",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 159,
+        "price": 127,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABM942501",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 108,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABN920001",
+        "brand_name": "Marselesa",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 549,
+        "price": 272,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAH160601",
+        "brand_name": "Diverius",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 303,
+        "price": 136,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO730001",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 464,
+        "price": 232,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG167801",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 509,
+        "price": 352,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/DI073EWMAIU1",
+        "brand_name": "Diverius",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 239,
+        "price": 107,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACF859501",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 90,
+        "price": 54,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO730901",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "S",
+            "L"
+        ],
+        "old_price": 464,
+        "price": 232,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/DI073EWGVVZ7",
+        "brand_name": "Diverius",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 239,
+        "price": 119,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABM938101",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 108,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABM108901",
+        "brand_name": "Baon",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 289,
+        "price": 132,
+        "discount": 54
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE912402",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "38"
+        ],
+        "old_price": 2042,
+        "price": 1429,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/BE031EWKGXG9",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 62,
+        "price": 43.4,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABM938301",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 108,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABF233701",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 198,
+        "price": 128,
+        "discount": 35
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAX234601",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 231,
+        "price": 115,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABI630301",
+        "brand_name": "b.young",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 248,
+        "price": 198,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон джинсовый",
+        "link": "https://www.lamoda.by/p/RTLABG828601",
+        "brand_name": "Salsa",
+        "available_sizes": [
+            "29",
+            "30",
+            "33"
+        ],
+        "old_price": 377,
+        "price": 188,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACC108301",
+        "brand_name": "Hey Look",
+        "available_sizes": [
+            "44",
+            "46"
+        ],
+        "old_price": 319,
+        "price": 160,
+        "discount": 49
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABF209101",
+        "brand_name": "Nativos",
+        "available_sizes": [
+            "6",
+            "8",
+            "10"
+        ],
+        "old_price": 144,
+        "price": 103,
+        "discount": 28
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACC512301",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "36",
+            "38"
+        ],
+        "old_price": 137,
+        "price": 109,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAY300401",
+        "brand_name": "Vitamin A",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 515,
+        "price": 309,
+        "discount": 40
+    },
+    {
+        "model_name": "LEOPARD PRINT JUMPSUIT",
+        "link": "https://www.lamoda.by/p/LO040EWAFSG0",
+        "brand_name": "Lost Ink Petite",
+        "available_sizes": [
+            "32",
+            "34",
+            "36"
+        ],
+        "old_price": 164,
+        "price": 114,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABZ883801",
+        "brand_name": "Dansanti",
+        "available_sizes": [
+            "46"
+        ],
+        "old_price": 419,
+        "price": 188,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAS176101",
+        "brand_name": "Moki",
+        "available_sizes": [
+            "46/48"
+        ],
+        "old_price": 329,
+        "price": 164,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACB429201",
+        "brand_name": "Pinko",
+        "available_sizes": [
+            "38"
+        ],
+        "old_price": 1546,
+        "price": 850,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/CA097EWFGUQ2",
+        "brand_name": "Camomilla Italia",
+        "available_sizes": [
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 429,
+        "price": 343,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG167701",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 509,
+        "price": 305,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAB904001",
+        "brand_name": "Aaquamarina",
+        "available_sizes": [
+            "L",
+            "XL"
+        ],
+        "old_price": 354,
+        "price": 177,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACE912301",
+        "brand_name": "Love Moschino",
+        "available_sizes": [
+            "40"
+        ],
+        "old_price": 1199,
+        "price": 839,
+        "discount": 30
+    },
+    {
+        "model_name": "ASMC TST SL ONE",
+        "link": "https://www.lamoda.by/p/RTLABG213901",
+        "brand_name": "adidas by Stella McCartney",
+        "available_sizes": [
+            "XS",
+            "M"
+        ],
+        "old_price": 689,
+        "price": 447,
+        "discount": 35
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG167501",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 509,
+        "price": 305,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABD495901",
+        "brand_name": "Imperial",
+        "available_sizes": [
+            "XS",
+            "M"
+        ],
+        "old_price": 482,
+        "price": 385,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/ZA004EWHBIL6",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "42",
+            "48"
+        ],
+        "old_price": 147.2,
+        "price": 73.6,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAH160301",
+        "brand_name": "Diverius",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 308,
+        "price": 138,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO019801",
+        "brand_name": "Snow Airwolf",
+        "available_sizes": [
+            "40"
+        ],
+        "old_price": 304,
+        "price": 180,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABI833301",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "46",
+            "48"
+        ],
+        "old_price": 327,
+        "price": 163,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAH160501",
+        "brand_name": "Diverius",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 303,
+        "price": 136,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABL548801",
+        "brand_name": "Silvian Heach",
+        "available_sizes": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 624,
+        "price": 374,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/PH007EWAZIX7",
+        "brand_name": "Phard",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 249,
+        "price": 99.6,
         "discount": 60
     },
     {
         "model_name": "Комбинезон",
-        "link": "https://www.lamoda.by/p/RTLABM196101",
-        "brand_name": "UnicoModa",
+        "link": "https://www.lamoda.by/p/MP002XW06RE2",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 314,
+        "price": 125,
+        "discount": 60
+    },
+    {
+        "model_name": "Комбинезон джинсовый",
+        "link": "https://www.lamoda.by/p/RTLABG831801",
+        "brand_name": "Salsa",
+        "available_sizes": [
+            "27",
+            "28"
+        ],
+        "old_price": 377,
+        "price": 188,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABF491801",
+        "brand_name": "The Kooples",
+        "available_sizes": [
+            "0",
+            "1",
+            "2"
+        ],
+        "old_price": 1429,
+        "price": 1043,
+        "discount": 27
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAK573302",
+        "brand_name": "River Island",
+        "available_sizes": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "old_price": 231,
+        "price": 173,
+        "discount": 25
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/LO043EWBJJK8",
+        "brand_name": "Lozana Paris",
+        "available_sizes": [
+            "8",
+            "10",
+            "12"
+        ],
+        "old_price": 109,
+        "price": 49,
+        "discount": 55
+    },
+    {
+        "model_name": "W NY LUXE LAYERD 7/8 JUMPSUIT",
+        "link": "https://www.lamoda.by/p/NI464EWLYWH0",
+        "brand_name": "Nike",
         "available_sizes": [
             "M"
         ],
-        "old_price": 394,
-        "price": 274,
+        "old_price": 292,
+        "price": 201,
+        "discount": 31
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MP002XW06WFH",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 184,
+        "price": 75,
+        "discount": 59
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO019901",
+        "brand_name": "Snow Airwolf",
+        "available_sizes": [
+            "42"
+        ],
+        "old_price": 304,
+        "price": 180,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/EN012EWHOXA8",
+        "brand_name": "Envie de Fraise",
+        "available_sizes": [
+            "34/36",
+            "36/38",
+            "38/40"
+        ],
+        "old_price": 224,
+        "price": 201,
+        "discount": 10
+    },
+    {
+        "model_name": "ASMC AOK ONE",
+        "link": "https://www.lamoda.by/p/RTLABF782301",
+        "brand_name": "adidas by Stella McCartney",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 939,
+        "price": 657,
         "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/MI034EWIHE11",
+        "brand_name": "MinkPink",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 299,
+        "price": 269,
+        "discount": 10
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACB511501",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 1488,
+        "price": 818,
+        "discount": 45
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAY809301",
+        "brand_name": "Nataliy Beate",
+        "available_sizes": [
+            "44"
+        ],
+        "old_price": 492,
+        "price": 270,
+        "discount": 45
+    },
+    {
+        "model_name": "CLEOPA",
+        "link": "https://www.lamoda.by/p/RTLABK378801",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 439.99,
+        "price": 219.99,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAH028001",
+        "brand_name": "Pink Orange",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 226,
+        "price": 101,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/DI073EWLDWP3",
+        "brand_name": "Diverius",
+        "available_sizes": [
+            "46",
+            "48"
+        ],
+        "old_price": 329,
+        "price": 164,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/IV006EWEKSE8",
+        "brand_name": "Ivyrevel",
+        "available_sizes": [
+            "36",
+            "42"
+        ],
+        "old_price": 354,
+        "price": 212,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABO101801",
+        "brand_name": "Morgan",
+        "available_sizes": [
+            "36",
+            "38"
+        ],
+        "old_price": 255,
+        "price": 116,
+        "discount": 54
+    },
+    {
+        "model_name": "Комбинезон джинсовый",
+        "link": "https://www.lamoda.by/p/RTLACC360601",
+        "brand_name": "Haily's",
+        "available_sizes": [
+            "M",
+            "XL"
+        ],
+        "old_price": 415,
+        "price": 249,
+        "discount": 40
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAZ267601",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "M",
+            "XL"
+        ],
+        "old_price": 180,
+        "price": 90,
+        "discount": 50
+    },
+    {
+        "model_name": "MOON",
+        "link": "https://www.lamoda.by/p/RTLABB478101",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "M",
+            "XL"
+        ],
+        "old_price": 199.99,
+        "price": 84.99,
+        "discount": 57
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABF491501",
+        "brand_name": "The Kooples",
+        "available_sizes": [
+            "36"
+        ],
+        "old_price": 1539,
+        "price": 1229,
+        "discount": 20
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLACG167601",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 509,
+        "price": 352,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLABF203201",
+        "brand_name": "Nativos",
+        "available_sizes": [
+            "6",
+            "8"
+        ],
+        "old_price": 164,
+        "price": 114,
+        "discount": 30
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAZ359201",
+        "brand_name": "Fragarika",
+        "available_sizes": [
+            "46/48",
+            "48/50"
+        ],
+        "old_price": 337,
+        "price": 151,
+        "discount": 55
+    },
+    {
+        "model_name": "Комбинезон",
+        "link": "https://www.lamoda.by/p/RTLAAV579701",
+        "brand_name": "Aaquamarina",
+        "available_sizes": [
+            "42/44"
+        ],
+        "old_price": 255,
+        "price": 127,
+        "discount": 50
+    },
+    {
+        "model_name": "Комбинезон джинсовый",
+        "link": "https://www.lamoda.by/p/RTLABB458201",
+        "brand_name": "Polo Ralph Lauren",
+        "available_sizes": [
+            "2"
+        ],
+        "old_price": 1775,
+        "price": 1057,
+        "discount": 40
+    },
+    {
+        "model_name": "MARBLE",
+        "link": "https://www.lamoda.by/p/RTLAAJ524001",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 179.99,
+        "price": 143,
+        "discount": 20
     }
 ]

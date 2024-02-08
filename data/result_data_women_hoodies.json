@@ -1,8 +1,116 @@
 [
     {
-        "model_name": "2022-10",
-        "link": "https://www.lamoda.by/p/RTLABB255601",
-        "brand_name": "Trussardi",
+        "model_name": "Rival Fleece HB Hoodie",
+        "link": "https://www.lamoda.by/p/UN001EWLYQZ4",
+        "brand_name": "Under Armour",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 195,
+        "price": 107,
+        "discount": 45
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACG285401",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 292,
+        "price": 146,
+        "discount": 50
+    },
+    {
+        "model_name": "CREW",
+        "link": "https://www.lamoda.by/p/RTLABO043701",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 339,
+        "price": 183,
+        "discount": 46
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACE732901",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S/M",
+            "L/XL"
+        ],
+        "old_price": 214,
+        "price": 96.3,
+        "discount": 55
+    },
+    {
+        "model_name": "W BLUV Q1 HD",
+        "link": "https://www.lamoda.by/p/RTLABC103601",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 269,
+        "price": 159,
+        "discount": 40
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACE732701",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S/M",
+            "L/XL"
+        ],
+        "old_price": 214,
+        "price": 96.3,
+        "discount": 55
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACC882301",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 48,
+        "price": 38.4,
+        "discount": 20
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACG279901",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 454,
+        "price": 227,
+        "discount": 50
+    },
+    {
+        "model_name": "BASIC",
+        "link": "https://www.lamoda.by/p/RTLABY900801",
+        "brand_name": "Mango",
         "available_sizes": [
             "XS",
             "S",
@@ -10,139 +118,304 @@
             "L",
             "XL"
         ],
-        "old_price": 464,
-        "price": 234,
-        "discount": 49
+        "old_price": 119.99,
+        "price": 69.99,
+        "discount": 41
     },
     {
-        "model_name": "W NSW ESSNTL CLCTN FLC OS HOOD",
-        "link": "https://www.lamoda.by/p/RTLABB148201",
-        "brand_name": "Nike",
+        "model_name": "W SL SWEATS",
+        "link": "https://www.lamoda.by/p/RTLABE976201",
+        "brand_name": "adidas",
         "available_sizes": [
+            "XXS",
+            "XS",
             "S",
             "M",
             "L",
             "XL"
         ],
-        "old_price": 304,
-        "price": 274,
-        "discount": 9
+        "old_price": 294,
+        "price": 187,
+        "discount": 36
     },
     {
-        "model_name": "Толстовка",
-        "link": "https://www.lamoda.by/p/RTLAAZ622101",
-        "brand_name": "Gap",
+        "model_name": "ASMC SW FZ HD",
+        "link": "https://www.lamoda.by/p/RTLABJ334801",
+        "brand_name": "adidas by Stella McCartney",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 689,
+        "price": 482,
+        "discount": 30
+    },
+    {
+        "model_name": "SHORT HOODIE",
+        "link": "https://www.lamoda.by/p/AD093EWLWZG2",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 289,
+        "price": 169,
+        "discount": 41
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACG249001",
+        "brand_name": "Pink Frost",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 234,
+        "price": 163,
+        "discount": 30
+    },
+    {
+        "model_name": "CL RBK ND CROP HOODIE",
+        "link": "https://www.lamoda.by/p/RTLABC357701",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 269,
+        "price": 183,
+        "discount": 31
+    },
+    {
+        "model_name": "Evide Graphic Hoodie",
+        "link": "https://www.lamoda.by/p/RTLABN786901",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 259,
+        "price": 190,
+        "discount": 26
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACC882001",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 80,
+        "price": 56,
+        "discount": 30
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACF016801",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 414,
+        "price": 207,
+        "discount": 50
+    },
+    {
+        "model_name": "SPORTSWEAR ESSENTIAL WOMEN'S FLEECE PULLOVER HOODIE (PLUS SIZE)",
+        "link": "https://www.lamoda.by/p/NI464EWFNEB8",
+        "brand_name": "Nike",
+        "available_sizes": [
+            "1X",
+            "3X"
+        ],
+        "old_price": 269,
+        "price": 154,
+        "discount": 42
+    },
+    {
+        "model_name": "MODERN SAFARI COVERUP",
+        "link": "https://www.lamoda.by/p/RTLABC563901",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "M",
+            "L"
+        ],
+        "old_price": 234,
+        "price": 148,
+        "discount": 36
+    },
+    {
+        "model_name": "ALISHA",
+        "link": "https://www.lamoda.by/p/RTLABX058501",
+        "brand_name": "Guess",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 308,
+        "price": 169,
+        "discount": 45
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLABO972401",
+        "brand_name": "Trussardi",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 559,
+        "price": 307,
+        "discount": 45
+    },
+    {
+        "model_name": "RE:Collection Relaxed Crew",
+        "link": "https://www.lamoda.by/p/RTLABR197301",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 259,
+        "price": 190,
+        "discount": 26
+    },
+    {
+        "model_name": "SWEATER",
+        "link": "https://www.lamoda.by/p/RTLABC362401",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 289,
+        "price": 184,
+        "discount": 36
+    },
+    {
+        "model_name": "Олимпийка",
+        "link": "https://www.lamoda.by/p/RTLACF052101",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 144,
+        "price": 100,
+        "discount": 30
+    },
+    {
+        "model_name": "STUDIO HD",
+        "link": "https://www.lamoda.by/p/RTLABB924801",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 339,
+        "price": 204,
+        "discount": 39
+    },
+    {
+        "model_name": "ASMC SW CRO HD",
+        "link": "https://www.lamoda.by/p/RTLABJ334301",
+        "brand_name": "adidas by Stella McCartney",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 549,
+        "price": 396,
+        "discount": 27
+    },
+    {
+        "model_name": "Nu-tility Half-Zip Sherpa Sweatshirt",
+        "link": "https://www.lamoda.by/p/RTLABN783001",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 274,
+        "price": 198,
+        "discount": 27
+    },
+    {
+        "model_name": "ESS Oversized Hoody FL W",
+        "link": "https://www.lamoda.by/p/RTLABN344501",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 254,
+        "price": 184,
+        "discount": 27
+    },
+    {
+        "model_name": "FLORIDA",
+        "link": "https://www.lamoda.by/p/RTLABX512201",
+        "brand_name": "Mango",
         "available_sizes": [
             "XS",
             "S",
             "M",
             "L",
             "XL",
-            "XXL"
+            "2XL"
         ],
-        "old_price": 204,
-        "price": 114,
-        "discount": 44
+        "old_price": 139.99,
+        "price": 99.99,
+        "discount": 28
     },
     {
         "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLAAW447001",
-        "brand_name": "Rainrain",
+        "link": "https://www.lamoda.by/p/RTLACE968301",
+        "brand_name": "Fragarika",
         "available_sizes": [
-            "44",
-            "46",
-            "48",
-            "50",
-            "52"
-        ],
-        "old_price": 269,
-        "price": 131,
-        "discount": 51
-    },
-    {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLAAG149801",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
             "S",
             "M",
-            "L",
             "XL"
         ],
-        "old_price": 119,
-        "price": 94,
-        "discount": 21
-    },
-    {
-        "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLAAP745501",
-        "brand_name": "Saint & Sinner",
-        "available_sizes": [
-            "10",
-            "12",
-            "14",
-            "16"
-        ],
-        "old_price": 221,
-        "price": 66.3,
-        "discount": 70
-    },
-    {
-        "model_name": "STANDARD CREW",
-        "link": "https://www.lamoda.by/p/RTLABC656301",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 334,
-        "price": 234,
-        "discount": 29
-    },
-    {
-        "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLABC657601",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 369,
-        "price": 184,
-        "discount": 50
-    },
-    {
-        "model_name": "GRAPHIC STANDARD CREW",
-        "link": "https://www.lamoda.by/p/RTLABG985901",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 369,
-        "price": 184,
-        "discount": 50
-    },
-    {
-        "model_name": "Толстовка",
-        "link": "https://www.lamoda.by/p/RTLAAV264701",
-        "brand_name": "Lawwa",
-        "available_sizes": [
-            "54",
-            "58"
-        ],
-        "old_price": 219,
-        "price": 106,
-        "discount": 51
+        "old_price": 354,
+        "price": 159,
+        "discount": 55
     },
     {
         "model_name": "Худи",
@@ -151,17 +424,135 @@
         "available_sizes": [
             "XS",
             "S",
+            "M"
+        ],
+        "old_price": 236,
+        "price": 141,
+        "discount": 40
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACH376701",
+        "brand_name": "Moki",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 309,
+        "price": 214,
+        "discount": 30
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLABO066701",
+        "brand_name": "N21",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 1144,
+        "price": 572,
+        "discount": 50
+    },
+    {
+        "model_name": "Women's Sweater",
+        "link": "https://www.lamoda.by/p/RTLABY809001",
+        "brand_name": "Kelme",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 224,
+        "price": 177,
+        "discount": 20
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACE828901",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 506,
+        "price": 354,
+        "discount": 30
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACA265601",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "S",
             "M",
             "L"
         ],
-        "old_price": 236,
-        "price": 129,
-        "discount": 45
+        "old_price": 184,
+        "price": 128,
+        "discount": 30
     },
     {
-        "model_name": "GRAPHIC STANDARD HOODIE",
-        "link": "https://www.lamoda.by/p/RTLABG986101",
-        "brand_name": "Levi's®",
+        "model_name": "SST TRACKTOP PB",
+        "link": "https://www.lamoda.by/p/RTLABC362901",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 314,
+        "price": 201,
+        "discount": 35
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLAAT581901",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 62,
+        "price": 43.4,
+        "discount": 30
+    },
+    {
+        "model_name": "W FI FF HOODIE",
+        "link": "https://www.lamoda.by/p/RTLACE072801",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "M",
+            "L"
+        ],
+        "old_price": 399,
+        "price": 259,
+        "discount": 35
+    },
+    {
+        "model_name": "W BLUV Q1 HD",
+        "link": "https://www.lamoda.by/p/RTLABG339501",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 269,
+        "price": 171,
+        "discount": 36
+    },
+    {
+        "model_name": "W FI FF CREW",
+        "link": "https://www.lamoda.by/p/RTLACE073101",
+        "brand_name": "adidas",
         "available_sizes": [
             "XXS",
             "XS",
@@ -170,25 +561,14 @@
             "L",
             "XL"
         ],
-        "old_price": 389,
-        "price": 194,
-        "discount": 50
+        "old_price": 364,
+        "price": 231,
+        "discount": 36
     },
     {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLABH254001",
-        "brand_name": "John Richmond",
-        "available_sizes": [
-            "XL"
-        ],
-        "old_price": 711,
-        "price": 319,
-        "discount": 55
-    },
-    {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLABB093202",
-        "brand_name": "JDY",
+        "model_name": "UNITEFIT HOODIE",
+        "link": "https://www.lamoda.by/p/RTLABD284301",
+        "brand_name": "adidas Originals",
         "available_sizes": [
             "XS",
             "S",
@@ -196,83 +576,702 @@
             "L",
             "XL"
         ],
-        "old_price": 93,
-        "price": 41.8,
-        "discount": 55
+        "old_price": 364,
+        "price": 231,
+        "discount": 36
     },
     {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLABE392002",
-        "brand_name": "Betty & Co",
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACD642401",
+        "brand_name": "Boss",
         "available_sizes": [
-            "36",
-            "38",
-            "40",
-            "42",
-            "44"
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XXL"
         ],
-        "old_price": 267,
-        "price": 186,
+        "old_price": 649,
+        "price": 454,
         "discount": 30
     },
     {
-        "model_name": "Толстовка",
-        "link": "https://www.lamoda.by/p/RTLAAN245801",
-        "brand_name": "Missguided",
+        "model_name": "TS MID LAYER - ARS",
+        "link": "https://www.lamoda.by/p/RTLABD899901",
+        "brand_name": "Reebok",
         "available_sizes": [
-            "6",
-            "8",
-            "10",
-            "12"
+            "S",
+            "M",
+            "L",
+            "XL"
         ],
-        "old_price": 130,
-        "price": 84.5,
+        "old_price": 254,
+        "price": 161,
+        "discount": 36
+    },
+    {
+        "model_name": "Толстовка",
+        "link": "https://www.lamoda.by/p/RTLABN422801",
+        "brand_name": "J.B4",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L"
+        ],
+        "old_price": 350,
+        "price": 122,
+        "discount": 65
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACF050801",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 119,
+        "price": 77.3,
+        "discount": 35
+    },
+    {
+        "model_name": "Rival Fleece FZ Hoodie",
+        "link": "https://www.lamoda.by/p/RTLAAC997304",
+        "brand_name": "Under Armour",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 240,
+        "price": 121,
+        "discount": 49
+    },
+    {
+        "model_name": "CL RBK ND SL FT CREW",
+        "link": "https://www.lamoda.by/p/RTLABH119601",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XS",
+            "S",
+            "XL"
+        ],
+        "old_price": 269,
+        "price": 183,
+        "discount": 31
+    },
+    {
+        "model_name": "ICEPEAK AWENDAW",
+        "link": "https://www.lamoda.by/p/RTLACD316301",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 314,
+        "price": 204,
+        "discount": 35
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACE971901",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 419,
+        "price": 188,
+        "discount": 55
+    },
+    {
+        "model_name": "W FI 3S FZ REG",
+        "link": "https://www.lamoda.by/p/RTLACD752001",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "1X",
+            "2X",
+            "3X"
+        ],
+        "old_price": 399,
+        "price": 259,
         "discount": 35
     },
     {
         "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLABF015202",
-        "brand_name": "Topshop",
+        "link": "https://www.lamoda.by/p/RTLABL513601",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "XS",
+            "S",
+            "XL"
+        ],
+        "old_price": 87,
+        "price": 60.9,
+        "discount": 30
+    },
+    {
+        "model_name": "TS DREAMBLEND COTTON ML",
+        "link": "https://www.lamoda.by/p/RTLAAN022301",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 184,
+        "price": 110,
+        "discount": 40
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLAAK289101",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "M"
+        ],
+        "old_price": 68,
+        "price": 47.6,
+        "discount": 30
+    },
+    {
+        "model_name": "ESS small PUMA Hoodie TR W",
+        "link": "https://www.lamoda.by/p/RTLABN338701",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 219,
+        "price": 158,
+        "discount": 27
+    },
+    {
+        "model_name": "RESET SWEAT",
+        "link": "https://www.lamoda.by/p/RTLABP966301",
+        "brand_name": "P.E Nation",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 454,
+        "price": 207,
+        "discount": 54
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLABO975901",
+        "brand_name": "Trussardi",
         "available_sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "old_price": 182,
-        "price": 154,
-        "discount": 15
+        "old_price": 559,
+        "price": 307,
+        "discount": 45
+    },
+    {
+        "model_name": "Толстовка",
+        "link": "https://www.lamoda.by/p/RTLACB987701",
+        "brand_name": "Dali",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 169,
+        "price": 114,
+        "discount": 32
     },
     {
         "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLABD207702",
-        "brand_name": "Ulla Popken",
+        "link": "https://www.lamoda.by/p/RTLACC380201",
+        "brand_name": "Haily's",
         "available_sizes": [
-            "42/44",
-            "50/52",
-            "54/56",
-            "58/60"
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
         ],
-        "old_price": 234,
-        "price": 163,
+        "old_price": 195,
+        "price": 136,
         "discount": 30
     },
     {
+        "model_name": "W CELEBRATION HOODIE",
+        "link": "https://www.lamoda.by/p/RTLACA988001",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 219,
+        "price": 169,
+        "discount": 22
+    },
+    {
+        "model_name": "W SL SU CREW",
+        "link": "https://www.lamoda.by/p/RTLABJ347101",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 289,
+        "price": 198,
+        "discount": 31
+    },
+    {
+        "model_name": "Олимпийка",
+        "link": "https://www.lamoda.by/p/RTLACC133001",
+        "brand_name": "Rosa Thea",
+        "available_sizes": [
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 169,
+        "price": 92.9,
+        "discount": 45
+    },
+    {
+        "model_name": "SURF STOKED",
+        "link": "https://www.lamoda.by/p/RTLABD797701",
+        "brand_name": "Roxy",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 179,
+        "price": 129,
+        "discount": 27
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/MP002XW0LL2Z",
+        "brand_name": "Blacksi",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 156.59,
+        "price": 65,
+        "discount": 58
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/MP002XW0KJ5A",
+        "brand_name": "Incanto",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 169.9,
+        "price": 84.95,
+        "discount": 50
+    },
+    {
+        "model_name": "CLOUDY NIGHT GIRLFRIEND CRE",
+        "link": "https://www.lamoda.by/p/RTLABF925701",
+        "brand_name": "Hurley",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 165,
+        "price": 132,
+        "discount": 20
+    },
+    {
+        "model_name": "HOODIE",
+        "link": "https://www.lamoda.by/p/AD093EWLWZI0",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 234,
+        "price": 150,
+        "discount": 35
+    },
+    {
+        "model_name": "HOODIE",
+        "link": "https://www.lamoda.by/p/AD093EWLWZI1",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 304,
+        "price": 159,
+        "discount": 47
+    },
+    {
         "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLAAZ672401",
-        "brand_name": "Juvia",
+        "link": "https://www.lamoda.by/p/RTLABG475801",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "XS",
+            "S",
+            "XL"
+        ],
+        "old_price": 74,
+        "price": 51.8,
+        "discount": 30
+    },
+    {
+        "model_name": "ESS FZ Hoody TR W",
+        "link": "https://www.lamoda.by/p/RTLABN346101",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 234,
+        "price": 172,
+        "discount": 26
+    },
+    {
+        "model_name": "Full Zip Hoodie",
+        "link": "https://www.lamoda.by/p/RTLABQ711301",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 309,
+        "price": 224,
+        "discount": 27
+    },
+    {
+        "model_name": "Rebel Half-Zip Crew TR",
+        "link": "https://www.lamoda.by/p/PU053EWMJMM5",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 199,
+        "price": 145,
+        "discount": 27
+    },
+    {
+        "model_name": "Олимпийка",
+        "link": "https://www.lamoda.by/p/RTLACF024701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 76.3,
+        "discount": 30
+    },
+    {
+        "model_name": "MODERN SAFARI COVERUP",
+        "link": "https://www.lamoda.by/p/RTLABB657701",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "M",
+            "L"
+        ],
+        "old_price": 234,
+        "price": 148,
+        "discount": 36
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLAAT581101",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 80,
+        "price": 56,
+        "discount": 30
+    },
+    {
+        "model_name": "HER Crew TR",
+        "link": "https://www.lamoda.by/p/PU053EWMJLL2",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 199,
+        "price": 145,
+        "discount": 27
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACF053401",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 119,
+        "price": 77.3,
+        "discount": 35
+    },
+    {
+        "model_name": "ASMC SW FZ HD",
+        "link": "https://www.lamoda.by/p/RTLABB052701",
+        "brand_name": "adidas by Stella McCartney",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 869,
+        "price": 470,
+        "discount": 45
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLAAL279701",
+        "brand_name": "Sela",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 66,
+        "price": 59.4,
+        "discount": 10
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACE197201",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 153,
+        "discount": 30
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABZ432101",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 70,
+        "price": 51.2,
+        "discount": 26
+    },
+    {
+        "model_name": "Classics Crop Hoodie TR Arctic Ice",
+        "link": "https://www.lamoda.by/p/RTLABJ459202",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 254,
+        "price": 184,
+        "discount": 27
+    },
+    {
+        "model_name": "HER Summer Crew",
+        "link": "https://www.lamoda.by/p/RTLABL801001",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 189,
+        "price": 137,
+        "discount": 27
+    },
+    {
+        "model_name": "W FI 3S FZ REG",
+        "link": "https://www.lamoda.by/p/RTLACB532801",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 399,
+        "price": 254,
+        "discount": 36
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACE831301",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 561,
+        "price": 392,
+        "discount": 30
+    },
+    {
+        "model_name": "TORSTAI MONAMONA",
+        "link": "https://www.lamoda.by/p/RTLABI781101",
+        "brand_name": "Torstai",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 364,
+        "price": 181,
+        "discount": 50
+    },
+    {
+        "model_name": "W SL HD FZ",
+        "link": "https://www.lamoda.by/p/RTLACB150901",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 434,
+        "price": 279,
+        "discount": 35
+    },
+    {
+        "model_name": "W FI ST FZ",
+        "link": "https://www.lamoda.by/p/RTLAAS988701",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 319,
+        "price": 191,
+        "discount": 40
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLAAW096801",
+        "brand_name": "Kenzo",
         "available_sizes": [
             "S",
             "M",
             "L"
         ],
-        "old_price": 326,
-        "price": 228,
-        "discount": 30
+        "old_price": 1253,
+        "price": 751,
+        "discount": 40
     },
     {
-        "model_name": "BACKSWING SWEATER",
-        "link": "https://www.lamoda.by/p/RTLABD489201",
+        "model_name": "ICEPEAK AMBERG",
+        "link": "https://www.lamoda.by/p/RTLABH151901",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 324,
+        "price": 178,
+        "discount": 45
+    },
+    {
+        "model_name": "Lifestyle",
+        "link": "https://www.lamoda.by/p/RTLACA617301",
+        "brand_name": "Anta",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 224,
+        "price": 188,
+        "discount": 16
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLABA670901",
+        "brand_name": "Michael Michael Kors",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 719,
+        "price": 467,
+        "discount": 35
+    },
+    {
+        "model_name": "IMMERSIVE HOODIE",
+        "link": "https://www.lamoda.by/p/RTLABP969201",
         "brand_name": "P.E Nation",
         "available_sizes": [
             "XS",
@@ -280,55 +1279,379 @@
             "M",
             "L"
         ],
-        "old_price": 448,
-        "price": 358,
-        "discount": 20
+        "old_price": 454,
+        "price": 181,
+        "discount": 60
     },
     {
         "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLAAY543301",
-        "brand_name": "River Island",
+        "link": "https://www.lamoda.by/p/RTLABP883501",
+        "brand_name": "Imperial",
         "available_sizes": [
             "XS",
             "S",
             "M"
         ],
         "old_price": 282,
-        "price": 239,
-        "discount": 15
+        "price": 155,
+        "discount": 45
     },
     {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLAAZ386701",
-        "brand_name": "Religion",
+        "model_name": "Толстовка",
+        "link": "https://www.lamoda.by/p/RTLABH029301",
+        "brand_name": "Kontatto",
         "available_sizes": [
-            "8",
-            "10",
-            "12",
-            "14"
+            "XS",
+            "S",
+            "M"
         ],
-        "old_price": 432,
-        "price": 172,
-        "discount": 60
+        "old_price": 360,
+        "price": 234,
+        "discount": 35
     },
     {
         "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLAAT674901",
-        "brand_name": "Cotton On",
+        "link": "https://www.lamoda.by/p/RTLACB406001",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 72,
+        "price": 50.4,
+        "discount": 30
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACE828602",
+        "brand_name": "Diesel",
         "available_sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "old_price": 108,
-        "price": 64.8,
+        "old_price": 538,
+        "price": 322,
         "discount": 40
     },
     {
-        "model_name": "CL SUPERNATURAL HOODIE",
-        "link": "https://www.lamoda.by/p/RTLAAZ641001",
-        "brand_name": "Reebok Classic",
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACB988901",
+        "brand_name": "Dali",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 169,
+        "price": 114,
+        "discount": 32
+    },
+    {
+        "model_name": "HOODIE",
+        "link": "https://www.lamoda.by/p/RTLABC361201",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 399,
+        "price": 187,
+        "discount": 53
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACE797001",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "XL"
+        ],
+        "old_price": 493,
+        "price": 345,
+        "discount": 30
+    },
+    {
+        "model_name": "ESS PUMA Hoodie TR W",
+        "link": "https://www.lamoda.by/p/RTLABQ714801",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 219,
+        "price": 158,
+        "discount": 27
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABC151601",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "12",
+            "14",
+            "16",
+            "18",
+            "20",
+            "22"
+        ],
+        "old_price": 164,
+        "price": 104,
+        "discount": 36
+    },
+    {
+        "model_name": "HER Hoodie TR",
+        "link": "https://www.lamoda.by/p/PU053EWMJLL7",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 234,
+        "price": 161,
+        "discount": 31
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACE972901",
+        "brand_name": "Lakressi",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 369,
+        "price": 166,
+        "discount": 55
+    },
+    {
+        "model_name": "Rival Fleece Logo Hoodie",
+        "link": "https://www.lamoda.by/p/RTLAAS084402",
+        "brand_name": "Under Armour",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 218,
+        "price": 109,
+        "discount": 50
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABP004401",
+        "brand_name": "Fragarika",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 289,
+        "price": 145,
+        "discount": 49
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACF016901",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 414,
+        "price": 207,
+        "discount": 50
+    },
+    {
+        "model_name": "ESS small PUMA Hoodie TR W",
+        "link": "https://www.lamoda.by/p/RTLABN338801",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 219,
+        "price": 158,
+        "discount": 27
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACC355801",
+        "brand_name": "Zabaione",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 276,
+        "price": 138,
+        "discount": 50
+    },
+    {
+        "model_name": "CL RBK ND SL FT CREW",
+        "link": "https://www.lamoda.by/p/RTLABC354201",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 269,
+        "price": 183,
+        "discount": 31
+    },
+    {
+        "model_name": "CL NEW YEAR GRAPHICS SWT",
+        "link": "https://www.lamoda.by/p/RTLABJ156001",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 364,
+        "price": 247,
+        "discount": 32
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABP550501",
+        "brand_name": "Aaquamarina",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 324,
+        "price": 252,
+        "discount": 22
+    },
+    {
+        "model_name": "W F2F ORGANIC COTTON HOODIE",
+        "link": "https://www.lamoda.by/p/RTLAAU231801",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 319,
+        "price": 203,
+        "discount": 36
+    },
+    {
+        "model_name": "Adicolor Classics",
+        "link": "https://www.lamoda.by/p/RTLABL927401",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 289,
+        "price": 184,
+        "discount": 36
+    },
+    {
+        "model_name": "ICEPEAK ADRIAN",
+        "link": "https://www.lamoda.by/p/RTLABK317201",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 289,
+        "price": 158,
+        "discount": 45
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABQ031101",
+        "brand_name": "Boss",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 659,
+        "price": 461,
+        "discount": 30
+    },
+    {
+        "model_name": "HOODIE",
+        "link": "https://www.lamoda.by/p/RTLABN376001",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 354,
+        "price": 240,
+        "discount": 32
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLAAZ704501",
+        "brand_name": "River Island",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 215,
+        "price": 150,
+        "discount": 30
+    },
+    {
+        "model_name": "HOODIE",
+        "link": "https://www.lamoda.by/p/RTLABL928601",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 399,
+        "price": 272,
+        "discount": 31
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLACC355501",
+        "brand_name": "Zabaione",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 363,
+        "price": 181,
+        "discount": 50
+    },
+    {
+        "model_name": "ASMC SW CRO HD",
+        "link": "https://www.lamoda.by/p/RTLABH123401",
+        "brand_name": "adidas by Stella McCartney",
         "available_sizes": [
             "XXS",
             "XS",
@@ -336,77 +1659,111 @@
             "M",
             "L"
         ],
-        "old_price": 299,
-        "price": 194,
-        "discount": 35
+        "old_price": 549,
+        "price": 371,
+        "discount": 32
     },
     {
         "model_name": "Худи",
-        "link": "https://www.lamoda.by/p/RTLABA210802",
-        "brand_name": "Bimba Y Lola",
+        "link": "https://www.lamoda.by/p/RTLACE968401",
+        "brand_name": "Fragarika",
         "available_sizes": [
-            "XS",
             "S",
-            "M"
+            "M",
+            "L"
         ],
-        "old_price": 467,
-        "price": 303,
-        "discount": 35
+        "old_price": 394,
+        "price": 177,
+        "discount": 55
     },
     {
         "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLABG808301",
-        "brand_name": "Salsa",
+        "link": "https://www.lamoda.by/p/RTLAAX668801",
+        "brand_name": "Levi's®",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "M",
+            "L"
+        ],
+        "old_price": 359,
+        "price": 179,
+        "discount": 50
+    },
+    {
+        "model_name": "ESS PUMA Hoody TR W",
+        "link": "https://www.lamoda.by/p/RTLABN345301",
+        "brand_name": "PUMA",
         "available_sizes": [
             "XS",
             "S",
             "M",
-            "L",
-            "XL"
+            "L"
         ],
-        "old_price": 252,
-        "price": 138,
-        "discount": 45
+        "old_price": 209,
+        "price": 153,
+        "discount": 26
     },
     {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLABK568101",
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABY488801",
+        "brand_name": "Hugo",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 699,
+        "price": 489,
+        "discount": 30
+    },
+    {
+        "model_name": "Худи",
+        "link": "https://www.lamoda.by/p/RTLABE645801",
         "brand_name": "Morgan",
         "available_sizes": [
-            "XS",
+            "S",
+            "XL"
+        ],
+        "old_price": 149,
+        "price": 119,
+        "discount": 20
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACF886801",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "46"
+        ],
+        "old_price": 244,
+        "price": 146,
+        "discount": 40
+    },
+    {
+        "model_name": "Свитшот",
+        "link": "https://www.lamoda.by/p/RTLACF017601",
+        "brand_name": "Miss Gabby",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 424,
+        "price": 212,
+        "discount": 50
+    },
+    {
+        "model_name": "Rival Terry CB Crew",
+        "link": "https://www.lamoda.by/p/RTLAAS088701",
+        "brand_name": "Under Armour",
+        "available_sizes": [
             "S",
             "M",
             "L",
             "XL"
         ],
-        "old_price": 152,
-        "price": 136,
-        "discount": 10
-    },
-    {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLABB970001",
-        "brand_name": "Ichi",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 193,
-        "price": 164,
-        "discount": 15
-    },
-    {
-        "model_name": "Свитшот",
-        "link": "https://www.lamoda.by/p/RTLAAX965001",
-        "brand_name": "Denim Culture",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 370,
-        "price": 166,
-        "discount": 55
+        "old_price": 162,
+        "price": 129,
+        "discount": 20
     }
 ]

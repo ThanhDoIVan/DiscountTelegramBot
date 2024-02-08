@@ -1,7 +1,1519 @@
 [
     {
         "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABM364301",
+        "link": "https://www.lamoda.by/p/MP002XW0A0YD",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 244,
+        "price": 100,
+        "discount": 59
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15NEU",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 189,
+        "price": 60,
+        "discount": 68
+    },
+    {
+        "model_name": "W 3S LEG",
+        "link": "https://www.lamoda.by/p/RTLABH129701",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 134,
+        "price": 92.2,
+        "discount": 31
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACG148001",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACG148401",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW162G8",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 204,
+        "price": 60,
+        "discount": 70
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC884401",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 72,
+        "price": 50.4,
+        "discount": 30
+    },
+    {
+        "model_name": "TRACK PANT",
+        "link": "https://www.lamoda.by/p/RTLABQ656201",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "46"
+        ],
+        "old_price": 219,
+        "price": 158,
+        "discount": 27
+    },
+    {
+        "model_name": "DORADO",
+        "link": "https://www.lamoda.by/p/RTLABX481901",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 139.99,
+        "price": 79.99,
+        "discount": 42
+    },
+    {
+        "model_name": "EVA",
+        "link": "https://www.lamoda.by/p/RTLACB023001",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "32",
+            "34",
+            "36",
+            "40",
+            "42"
+        ],
+        "old_price": 179.99,
+        "price": 99.99,
+        "discount": 44
+    },
+    {
+        "model_name": "Бриджи",
+        "link": "https://www.lamoda.by/p/MP002XW15MKA",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 179,
+        "price": 100,
+        "discount": 44
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/BE031EWJBCS2",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 98,
+        "price": 68.6,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABZ504401",
+        "brand_name": "Naf Naf",
+        "available_sizes": [
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 264,
+        "price": 219,
+        "discount": 17
+    },
+    {
+        "model_name": "HER High Waist Pants TR cl",
+        "link": "https://www.lamoda.by/p/RTLABQ713201",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 234,
+        "price": 161,
+        "discount": 31
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACE657901",
+        "brand_name": "Bad Queen",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 364,
+        "price": 269,
+        "discount": 26
+    },
+    {
+        "model_name": "Downtown Sweatpants TR",
+        "link": "https://www.lamoda.by/p/RTLABG253901",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 259,
+        "price": 190,
+        "discount": 26
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACG148201",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "46",
+            "48",
+            "50"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15MJI",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 199,
+        "price": 110,
+        "discount": 44
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15MJG",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 199,
+        "price": 105,
+        "discount": 47
+    },
+    {
+        "model_name": "Брюки спортивные",
+        "link": "https://www.lamoda.by/p/MP002XW0KJ59",
+        "brand_name": "Incanto",
+        "available_sizes": [
+            "L",
+            "XL"
+        ],
+        "old_price": 169.9,
+        "price": 84.95,
+        "discount": 50
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABL631201",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "8R",
+            "12R",
+            "16R",
+            "18R",
+            "20R"
+        ],
+        "old_price": 297,
+        "price": 237,
+        "discount": 20
+    },
+    {
+        "model_name": "COFI",
+        "link": "https://www.lamoda.by/p/RTLABW180501",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "32",
+            "34",
+            "36"
+        ],
+        "old_price": 119.99,
+        "price": 99.99,
+        "discount": 16
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC882501",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "36",
+            "40",
+            "44",
+            "46"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC883701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Леггинсы",
+        "link": "https://www.lamoda.by/p/MP002XW15WQB",
+        "brand_name": "Top Top",
+        "available_sizes": [
+            "XS/S",
+            "M/L"
+        ],
+        "old_price": 129,
+        "price": 90,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABZ042901",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 174,
+        "price": 104,
+        "discount": 40
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACF034201",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "40",
+            "42"
+        ],
+        "old_price": 119,
+        "price": 83.3,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки спортивные",
+        "link": "https://www.lamoda.by/p/MP002XW0CGLM",
+        "brand_name": "Blacksi",
+        "available_sizes": [
+            "3XL",
+            "4XL",
+            "5XL",
+            "6XL",
+            "7XL"
+        ],
+        "old_price": 226.82,
+        "price": 66,
+        "discount": 70
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACI152001",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 234,
+        "price": 161,
+        "discount": 31
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACF061701",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 80,
+        "price": 56,
+        "discount": 30
+    },
+    {
+        "model_name": "APPLE",
+        "link": "https://www.lamoda.by/p/RTLABQ831301",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "L",
+            "XXL"
+        ],
+        "old_price": 139.99,
+        "price": 99.99,
+        "discount": 28
+    },
+    {
+        "model_name": "LILLE",
+        "link": "https://www.lamoda.by/p/RTLABQ828801",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "46"
+        ],
+        "old_price": 139.99,
+        "price": 99.99,
+        "discount": 28
+    },
+    {
+        "model_name": "W 3S TP TRIC",
+        "link": "https://www.lamoda.by/p/RTLABE350701",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 184,
+        "price": 90.7,
+        "discount": 50
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACB014901",
+        "brand_name": "Elena Miro",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 829,
+        "price": 373,
+        "discount": 55
+    },
+    {
+        "model_name": "TRACK PANT",
+        "link": "https://www.lamoda.by/p/RTLABQ655801",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 154,
+        "price": 111,
+        "discount": 27
+    },
+    {
+        "model_name": "W 3S DK T C PT",
+        "link": "https://www.lamoda.by/p/RTLABH126401",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 244,
+        "price": 155,
+        "discount": 36
+    },
+    {
+        "model_name": "Reebok Classics X MONOCHROME",
+        "link": "https://www.lamoda.by/p/RTLAAY536801",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 364,
+        "price": 247,
+        "discount": 32
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABW787201",
+        "brand_name": "Dansanti",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 244,
+        "price": 109,
+        "discount": 55
+    },
+    {
+        "model_name": "Брюки спортивные",
+        "link": "https://www.lamoda.by/p/RTLACF059401",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 80,
+        "price": 52,
+        "discount": 35
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLAAH787801",
+        "brand_name": "UNQ",
+        "available_sizes": [
+            "36"
+        ],
+        "old_price": 364,
+        "price": 236,
+        "discount": 35
+    },
+    {
+        "model_name": "Леггинсы",
+        "link": "https://www.lamoda.by/p/MP002XW05NGU",
+        "brand_name": "Teyli",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 207.99,
+        "price": 166.3,
+        "discount": 20
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC753101",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 219,
+        "price": 153,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABL513001",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50"
+        ],
+        "old_price": 101,
+        "price": 70.7,
+        "discount": 30
+    },
+    {
+        "model_name": "W 3S TP TRIC",
+        "link": "https://www.lamoda.by/p/RTLABJ332201",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 184,
+        "price": 115,
+        "discount": 37
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACE198301",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 254,
+        "price": 190,
+        "discount": 25
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACF459301",
+        "brand_name": "Fadas",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 494,
+        "price": 296,
+        "discount": 40
+    },
+    {
+        "model_name": "COLA",
+        "link": "https://www.lamoda.by/p/RTLABQ844901",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "34",
+            "44"
+        ],
+        "old_price": 99.99,
+        "price": 69.99,
+        "discount": 30
+    },
+    {
+        "model_name": "Леггинсы",
+        "link": "https://www.lamoda.by/p/RTLABC042501",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 126,
+        "price": 56.7,
+        "discount": 55
+    },
+    {
+        "model_name": "Бриджи",
+        "link": "https://www.lamoda.by/p/MP002XW15MK7",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 179,
+        "price": 80,
+        "discount": 55
+    },
+    {
+        "model_name": "W FI 3S SKIN PT",
+        "link": "https://www.lamoda.by/p/RTLABC922401",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 269,
+        "price": 159,
+        "discount": 40
+    },
+    {
+        "model_name": "W NK AIR 7_8 TGHT HR PLUS NFS",
+        "link": "https://www.lamoda.by/p/RTLABY630201",
+        "brand_name": "Nike",
+        "available_sizes": [
+            "3X"
+        ],
+        "old_price": 198,
+        "price": 99,
+        "discount": 50
+    },
+    {
+        "model_name": "COFI",
+        "link": "https://www.lamoda.by/p/RTLABQ833201",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "34"
+        ],
+        "old_price": 119.99,
+        "price": 99.99,
+        "discount": 16
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACG147901",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABP257801",
+        "brand_name": "Francesca Peretti",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL",
+            "5XL"
+        ],
+        "old_price": 204,
+        "price": 102,
+        "discount": 50
+    },
+    {
+        "model_name": "DORADO",
+        "link": "https://www.lamoda.by/p/RTLABX481601",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 139.99,
+        "price": 79.99,
+        "discount": 42
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15MJF",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 199,
+        "price": 95,
+        "discount": 52
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC381501",
+        "brand_name": "Zabaione",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L",
+            "XXL"
+        ],
+        "old_price": 370,
+        "price": 185,
+        "discount": 50
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC882601",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 84,
+        "price": 58.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLAAA718001",
+        "brand_name": "Stefanel",
+        "available_sizes": [
+            "34",
+            "36",
+            "38",
+            "40",
+            "42",
+            "44",
+            "46"
+        ],
+        "old_price": 370,
+        "price": 148,
+        "discount": 60
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABH024701",
+        "brand_name": "Kontatto",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 281,
+        "price": 182,
+        "discount": 35
+    },
+    {
+        "model_name": "W BLUV Q1 TIG",
+        "link": "https://www.lamoda.by/p/RTLABB305601",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 209,
+        "price": 104,
+        "discount": 50
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABE485601",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "6R",
+            "8R",
+            "10R",
+            "12R",
+            "14R",
+            "16R",
+            "18R",
+            "20R",
+            "12L",
+            "14L",
+            "16L"
+        ],
+        "old_price": 289,
+        "price": 198,
+        "discount": 31
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15NEP",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 199,
+        "price": 120,
+        "discount": 39
+    },
+    {
+        "model_name": "CL F FR TRACKPANT",
+        "link": "https://www.lamoda.by/p/RTLABG336901",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 364,
+        "price": 231,
+        "discount": 36
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACH189401",
+        "brand_name": "John Richmond",
+        "available_sizes": [
+            "24",
+            "26",
+            "28",
+            "30",
+            "32",
+            "34"
+        ],
+        "old_price": 584,
+        "price": 467,
+        "discount": 20
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABH283002",
+        "brand_name": "Gap",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 179,
+        "price": 143,
+        "discount": 20
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15NET",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 189,
+        "price": 90,
+        "discount": 52
+    },
+    {
+        "model_name": "COFI",
+        "link": "https://www.lamoda.by/p/RTLABY402301",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "34"
+        ],
+        "old_price": 119.99,
+        "price": 99.99,
+        "discount": 16
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABZ043801",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "50"
+        ],
+        "old_price": 174,
+        "price": 69.6,
+        "discount": 60
+    },
+    {
+        "model_name": "MARBLE",
+        "link": "https://www.lamoda.by/p/RTLAAN913601",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 179.99,
+        "price": 64.99,
+        "discount": 63
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLAAD076501",
+        "brand_name": "Nataliy Beate",
+        "available_sizes": [
+            "46",
+            "48",
+            "50"
+        ],
+        "old_price": 304,
+        "price": 152,
+        "discount": 50
+    },
+    {
+        "model_name": "Бриджи",
+        "link": "https://www.lamoda.by/p/MP002XW15POH",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 179,
+        "price": 60,
+        "discount": 66
+    },
+    {
+        "model_name": "TRACK PANTS",
+        "link": "https://www.lamoda.by/p/RTLAAZ405901",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "42"
+        ],
+        "old_price": 354,
+        "price": 224,
+        "discount": 36
+    },
+    {
+        "model_name": "MANUELA",
+        "link": "https://www.lamoda.by/p/RTLAAS921301",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "36",
+            "38",
+            "40",
+            "42"
+        ],
+        "old_price": 179.99,
+        "price": 84.99,
+        "discount": 52
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACC103201",
+        "brand_name": "Hey Look",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 279,
+        "price": 140,
+        "discount": 49
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACG148101",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACF061201",
+        "brand_name": "Koton",
+        "available_sizes": [
+            "34",
+            "38"
+        ],
+        "old_price": 119,
+        "price": 83.3,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACH281801",
+        "brand_name": "Keep Walking",
+        "available_sizes": [
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 254,
+        "price": 176,
+        "discount": 30
+    },
+    {
+        "model_name": "CL F FR TRACKPANT",
+        "link": "https://www.lamoda.by/p/RTLABG213501",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 364,
+        "price": 231,
+        "discount": 36
+    },
+    {
+        "model_name": "Леггинсы",
+        "link": "https://www.lamoda.by/p/MP002XW0KRX3",
+        "brand_name": "Incanto",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 119.9,
+        "price": 59.95,
+        "discount": 50
+    },
+    {
+        "model_name": "на флисе",
+        "link": "https://www.lamoda.by/p/RTLACG148301",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 159,
+        "price": 111,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15PNW",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 259,
+        "price": 90,
+        "discount": 65
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15NES",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 189,
+        "price": 115,
+        "discount": 39
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15MK8",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 174,
+        "price": 90,
+        "discount": 48
+    },
+    {
+        "model_name": "UA Favorite WM Leggings",
+        "link": "https://www.lamoda.by/p/RTLAAA019602",
+        "brand_name": "Under Armour",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 153,
+        "price": 84,
+        "discount": 45
+    },
+    {
+        "model_name": "Леггинсы",
+        "link": "https://www.lamoda.by/p/RTLABC040701",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "42",
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 126,
+        "price": 56.7,
+        "discount": 55
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15NEY",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 259,
+        "price": 130,
+        "discount": 49
+    },
+    {
+        "model_name": "Classics Relaxed Pants TR",
+        "link": "https://www.lamoda.by/p/RTLABI243501",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 205,
+        "price": 143,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACE198401",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "48"
+        ],
+        "old_price": 254,
+        "price": 190,
+        "discount": 25
+    },
+    {
+        "model_name": "SST PANTS PB",
+        "link": "https://www.lamoda.by/p/RTLABL924801",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "1X",
+            "2X",
+            "3X",
+            "4X"
+        ],
+        "old_price": 304,
+        "price": 194,
+        "discount": 36
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15MKB",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 204,
+        "price": 100,
+        "discount": 50
+    },
+    {
+        "model_name": "Тайтсы",
+        "link": "https://www.lamoda.by/p/RTLAAU978301",
+        "brand_name": "Snow Airwolf",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 90,
+        "price": 54,
+        "discount": 40
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABL631301",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "8R",
+            "10R",
+            "12R",
+            "14R",
+            "16R",
+            "20R"
+        ],
+        "old_price": 297,
+        "price": 237,
+        "discount": 20
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABH283102",
+        "brand_name": "Gap",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 179,
+        "price": 125,
+        "discount": 30
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABE414201",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "38",
+            "40",
+            "42",
+            "44",
+            "50"
+        ],
+        "old_price": 254,
+        "price": 165,
+        "discount": 35
+    },
+    {
+        "model_name": "TS LW PANT - ARS",
+        "link": "https://www.lamoda.by/p/RTLABJ150101",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 304,
+        "price": 208,
+        "discount": 31
+    },
+    {
+        "model_name": "ASMC SW CRO PT",
+        "link": "https://www.lamoda.by/p/RTLABJ787101",
+        "brand_name": "adidas by Stella McCartney",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 549,
+        "price": 371,
+        "discount": 32
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABJ862001",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "6R",
+            "8R",
+            "10R",
+            "12R",
+            "14R",
+            "16R",
+            "18R",
+            "20R",
+            "22R",
+            "12L",
+            "14L"
+        ],
+        "old_price": 199,
+        "price": 163,
+        "discount": 18
+    },
+    {
+        "model_name": "Брюки спортивные",
+        "link": "https://www.lamoda.by/p/RTLABH378901",
+        "brand_name": "Gap",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 120,
+        "price": 108,
+        "discount": 10
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/SO042EWIANE1",
+        "brand_name": "Sophia",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 288,
+        "price": 158,
+        "discount": 45
+    },
+    {
+        "model_name": "PANTS",
+        "link": "https://www.lamoda.by/p/RTLABC105701",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "XL",
+            "XXL"
+        ],
+        "old_price": 289,
+        "price": 171,
+        "discount": 40
+    },
+    {
+        "model_name": "Бриджи",
+        "link": "https://www.lamoda.by/p/MP002XW15MK6",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 179,
+        "price": 100,
+        "discount": 44
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABH273702",
+        "brand_name": "Gap",
+        "available_sizes": [
+            "2",
+            "4",
+            "6",
+            "8",
+            "12"
+        ],
+        "old_price": 189,
+        "price": 111,
+        "discount": 41
+    },
+    {
+        "model_name": "Infuse Sweatpants",
+        "link": "https://www.lamoda.by/p/RTLABG706601",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "M",
+            "XL"
+        ],
+        "old_price": 324,
+        "price": 237,
+        "discount": 26
+    },
+    {
+        "model_name": "Леггинсы",
+        "link": "https://www.lamoda.by/p/RTLABC042701",
         "brand_name": "Toku Tino",
         "available_sizes": [
             "42",
@@ -10,586 +1522,163 @@
             "48",
             "50"
         ],
-        "old_price": 74,
-        "price": 51,
-        "discount": 31
+        "old_price": 126,
+        "price": 56.7,
+        "discount": 55
     },
     {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/MA178EWHKGZ2",
-        "brand_name": "Marks & Spencer",
-        "available_sizes": [
-            "8R",
-            "10R",
-            "12R",
-            "14R",
-            "16R",
-            "18R",
-            "20R",
-            "10L",
-            "12L",
-            "14L",
-            "16L",
-            "18L",
-            "20L"
-        ],
-        "old_price": 68,
-        "price": 61.2,
-        "discount": 10
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABF435401",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS/32",
-            "S/32",
-            "M/32",
-            "L/32"
-        ],
-        "old_price": 208,
-        "price": 156,
-        "discount": 25
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABG052201",
-        "brand_name": "United Colors of Benetton",
-        "available_sizes": [
-            "38",
-            "40",
-            "42",
-            "44",
-            "46",
-            "48"
-        ],
-        "old_price": 224,
-        "price": 134,
-        "discount": 40
-    },
-    {
-        "model_name": "W ANML 78 TIG",
-        "link": "https://www.lamoda.by/p/RTLABE367701",
-        "brand_name": "adidas",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 214,
-        "price": 149,
-        "discount": 30
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLAAW772601",
-        "brand_name": "Imocean",
-        "available_sizes": [
-            "XS",
-            "S",
-            "L"
-        ],
-        "old_price": 204,
-        "price": 153,
-        "discount": 25
-    },
-    {
-        "model_name": "SWEATPANT W",
-        "link": "https://www.lamoda.by/p/RTLABA059801",
-        "brand_name": "adidas",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 249,
-        "price": 174,
-        "discount": 30
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLAAY607801",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 629,
-        "price": 377,
-        "discount": 40
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABK842401",
-        "brand_name": "United Colors of Benetton",
-        "available_sizes": [
-            "38",
-            "40",
-            "42",
-            "44",
-            "46",
-            "48"
-        ],
-        "old_price": 259,
-        "price": 180,
-        "discount": 30
-    },
-    {
-        "model_name": "Rebel High Waist Pants TR cl",
-        "link": "https://www.lamoda.by/p/RTLABK047901",
-        "brand_name": "PUMA",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 194,
-        "price": 164,
-        "discount": 15
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABE179001",
-        "brand_name": "Marks & Spencer",
-        "available_sizes": [
-            "6R",
-            "10R",
-            "12R",
-            "14R",
-            "16R",
-            "22R"
-        ],
-        "old_price": 244,
-        "price": 158,
-        "discount": 35
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLABF631501",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 164,
-        "price": 129,
-        "discount": 21
-    },
-    {
-        "model_name": "SPORTSWEAR ESSENTIAL WOMEN'S FLEECE PANTS",
-        "link": "https://www.lamoda.by/p/NI464EWFLDA7",
+        "model_name": "W NSW SWSH LGGNG HR NFS",
+        "link": "https://www.lamoda.by/p/RTLABY529201",
         "brand_name": "Nike",
         "available_sizes": [
+            "XL"
+        ],
+        "old_price": 156,
+        "price": 85.8,
+        "discount": 45
+    },
+    {
+        "model_name": "TRACK PANT",
+        "link": "https://www.lamoda.by/p/RTLABA574801",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "1X",
+            "2X",
+            "3X",
+            "4X"
+        ],
+        "old_price": 354,
+        "price": 208,
+        "discount": 41
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/MP002XW15MJJ",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
             "S",
             "M",
             "L",
             "XL",
             "XXL"
         ],
-        "old_price": 204,
-        "price": 163,
-        "discount": 20
+        "old_price": 199,
+        "price": 120,
+        "discount": 39
     },
     {
-        "model_name": "Classics Relaxed Pants TR",
-        "link": "https://www.lamoda.by/p/RTLABG259101",
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABY341101",
+        "brand_name": "Elena Miro",
+        "available_sizes": [
+            "46",
+            "48"
+        ],
+        "old_price": 1299,
+        "price": 584,
+        "discount": 55
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLACH572801",
+        "brand_name": "Svesta",
+        "available_sizes": [
+            "52",
+            "54",
+            "56",
+            "58"
+        ],
+        "old_price": 219,
+        "price": 151,
+        "discount": 31
+    },
+    {
+        "model_name": "5026",
+        "link": "https://www.lamoda.by/p/MP002XW0CGLL",
+        "brand_name": "Blacksi",
+        "available_sizes": [
+            "3XL",
+            "4XL",
+            "5XL",
+            "6XL"
+        ],
+        "old_price": 226.82,
+        "price": 66,
+        "discount": 70
+    },
+    {
+        "model_name": "COLA",
+        "link": "https://www.lamoda.by/p/RTLABQ845001",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "34",
+            "52"
+        ],
+        "old_price": 99.99,
+        "price": 69.99,
+        "discount": 30
+    },
+    {
+        "model_name": "ESS Sweatpants FL op",
+        "link": "https://www.lamoda.by/p/RTLACE624001",
         "brand_name": "PUMA",
         "available_sizes": [
             "XS",
             "S",
-            "M",
             "L",
             "XL"
         ],
-        "old_price": 234,
-        "price": 163,
-        "discount": 30
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABH283202",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 274,
-        "price": 219,
-        "discount": 20
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLAAQ982001",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 629,
-        "price": 377,
-        "discount": 40
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABG921601",
-        "brand_name": "Bulmer",
-        "available_sizes": [
-            "36",
-            "38",
-            "40",
-            "44",
-            "46"
-        ],
-        "old_price": 254,
-        "price": 190,
-        "discount": 25
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABH876801",
-        "brand_name": "Imperial",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 352,
-        "price": 264,
-        "discount": 25
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLABJ401201",
-        "brand_name": "Polo Ralph Lauren",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 559,
-        "price": 380.5,
-        "discount": 31
-    },
-    {
-        "model_name": "SPORT",
-        "link": "https://www.lamoda.by/p/RTLAAW564801",
-        "brand_name": "Tommy Hilfiger",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 519,
-        "price": 311,
-        "discount": 40
-    },
-    {
-        "model_name": "Tiluna",
-        "link": "https://www.lamoda.by/p/RTLABI835701",
-        "brand_name": "Boss",
-        "available_sizes": [
-            "32",
-            "34",
-            "36",
-            "38",
-            "40",
-            "42",
-            "44"
-        ],
-        "old_price": 889,
-        "price": 669,
-        "discount": 24
-    },
-    {
-        "model_name": "SHINY",
-        "link": "https://www.lamoda.by/p/RTLABA327901",
-        "brand_name": "EA7",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 407,
-        "price": 203,
-        "discount": 50
-    },
-    {
-        "model_name": "Юбка-брюки",
-        "link": "https://www.lamoda.by/p/RTLABB092801",
-        "brand_name": "JDY",
-        "available_sizes": [
-            "34/32",
-            "36/32",
-            "38/32",
-            "42/32",
-            "44/32",
-            "34/34",
-            "36/34",
-            "38/34",
-            "40/34"
-        ],
-        "old_price": 141,
-        "price": 119,
-        "discount": 15
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABI301901",
-        "brand_name": "Imocean",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 204,
-        "price": 153,
-        "discount": 25
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLABC936101",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 214,
-        "price": 128,
-        "discount": 40
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/MA178EWMBNY5",
-        "brand_name": "Marks & Spencer",
-        "available_sizes": [
-            "6R",
-            "8R",
-            "10R",
-            "12R",
-            "14R",
-            "16R",
-            "22R",
-            "8L",
-            "10L",
-            "12L",
-            "14L",
-            "16L",
-            "18L"
-        ],
-        "old_price": 174,
-        "price": 104,
-        "discount": 40
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLABC934401",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 219,
-        "price": 131,
-        "discount": 40
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABL632701",
-        "brand_name": "Marks & Spencer",
-        "available_sizes": [
-            "6R",
-            "8R",
-            "10R",
-            "12R",
-            "14R",
-            "16R",
-            "18R"
-        ],
-        "old_price": 169,
-        "price": 143,
-        "discount": 15
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABF822001",
-        "brand_name": "Trendyol",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 67,
-        "price": 50.2,
-        "discount": 25
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABI268901",
-        "brand_name": "Topshop",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 167,
-        "price": 108,
-        "discount": 35
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLABJ946201",
-        "brand_name": "Guess",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 367,
-        "price": 256,
-        "discount": 30
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABK686801",
-        "brand_name": "Francesca Peretti",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 174,
-        "price": 127,
-        "discount": 27
-    },
-    {
-        "model_name": "Брюки спортивные",
-        "link": "https://www.lamoda.by/p/RTLABH364301",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 169,
-        "price": 139,
-        "discount": 17
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLAAR258101",
-        "brand_name": "Trendyol",
-        "available_sizes": [
-            "36",
-            "38",
-            "40"
-        ],
-        "old_price": 128,
-        "price": 44.8,
-        "discount": 65
-    },
-    {
-        "model_name": "EP ARGONIA",
-        "link": "https://www.lamoda.by/p/RTLABE160001",
-        "brand_name": "Icepeak",
-        "available_sizes": [
-            "34",
-            "36",
-            "38",
-            "40",
-            "42",
-            "44",
-            "46"
-        ],
-        "old_price": 224,
-        "price": 134,
-        "discount": 40
-    },
-    {
-        "model_name": "WIP PANT Q4",
-        "link": "https://www.lamoda.by/p/RTLAAW804101",
-        "brand_name": "adidas",
-        "available_sizes": [
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 299,
-        "price": 269,
+        "old_price": 156,
+        "price": 140,
         "discount": 10
     },
     {
-        "model_name": "2022-10",
-        "link": "https://www.lamoda.by/p/RTLABB255801",
-        "brand_name": "Trussardi",
+        "model_name": "Брюки спортивные",
+        "link": "https://www.lamoda.by/p/RTLABH377101",
+        "brand_name": "Gap",
         "available_sizes": [
-            "38",
-            "42",
-            "44"
-        ],
-        "old_price": 909,
-        "price": 772,
-        "discount": 15
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABC771001",
-        "brand_name": "Cotton On",
-        "available_sizes": [
-            "38",
-            "40",
-            "42"
-        ],
-        "old_price": 137,
-        "price": 109,
-        "discount": 20
-    },
-    {
-        "model_name": "Брюки",
-        "link": "https://www.lamoda.by/p/RTLABD494801",
-        "brand_name": "Imperial",
-        "available_sizes": [
+            "XXS",
             "XS",
             "S",
-            "M"
+            "M",
+            "L",
+            "XL"
         ],
-        "old_price": 352,
-        "price": 264,
-        "discount": 25
+        "old_price": 143,
+        "price": 128,
+        "discount": 10
+    },
+    {
+        "model_name": "Брюки спортивные",
+        "link": "https://www.lamoda.by/p/MP002XW08LMC",
+        "brand_name": "Blacksi",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 108.64,
+        "price": 42,
+        "discount": 61
+    },
+    {
+        "model_name": "Брюки",
+        "link": "https://www.lamoda.by/p/RTLABH282802",
+        "brand_name": "Gap",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 179,
+        "price": 145,
+        "discount": 18
     }
 ]

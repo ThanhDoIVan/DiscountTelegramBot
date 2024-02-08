@@ -1,291 +1,319 @@
 [
     {
-        "model_name": "Куртка джинсовая",
-        "link": "https://www.lamoda.by/p/RTLABC131101",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 669,
-        "price": 334,
-        "discount": 50
-    },
-    {
-        "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABD583801",
-        "brand_name": "Jack & Jones",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 319,
-        "price": 255,
-        "discount": 20
-    },
-    {
-        "model_name": "Куртка кожаная",
-        "link": "https://www.lamoda.by/p/RTLABG941501",
-        "brand_name": "Jack & Jones",
-        "available_sizes": [
-            "L",
-            "XL"
-        ],
-        "old_price": 539,
-        "price": 377,
-        "discount": 30
-    },
-    {
-        "model_name": "Куртка кожаная",
-        "link": "https://www.lamoda.by/p/RTLAAX225402",
-        "brand_name": "RNT23",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 699,
-        "price": 487,
-        "discount": 30
-    },
-    {
         "model_name": "Куртка утепленная",
-        "link": "https://www.lamoda.by/p/RTLAAZ694301",
-        "brand_name": "Jack & Jones",
+        "link": "https://www.lamoda.by/p/RTLABM688301",
+        "brand_name": "Guess Jeans",
         "available_sizes": [
             "M",
             "L",
-            "XL",
             "XXL"
         ],
-        "old_price": 269,
-        "price": 174,
-        "discount": 35
+        "old_price": 756,
+        "price": 415,
+        "discount": 45
     },
     {
         "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABE497402",
-        "brand_name": "Jack & Jones",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 374,
-        "price": 261,
-        "discount": 30
-    },
-    {
-        "model_name": "Куртка джинсовая",
-        "link": "https://www.lamoda.by/p/RTLABJ657401",
-        "brand_name": "Lee",
-        "available_sizes": [
-            "S",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 600,
-        "price": 420,
-        "discount": 30
-    },
-    {
-        "model_name": "Куртка джинсовая",
-        "link": "https://www.lamoda.by/p/RTLABC130901",
-        "brand_name": "Levi's®",
+        "link": "https://www.lamoda.by/p/RTLACG279801",
+        "brand_name": "Diesel",
         "available_sizes": [
             "S",
             "M",
-            "L",
-            "XL",
-            "XXL"
+            "L"
         ],
         "old_price": 629,
         "price": 314,
         "discount": 50
     },
     {
-        "model_name": "ESS INS HO JKT",
-        "link": "https://www.lamoda.by/p/RTLAAK927601",
+        "model_name": "GORRY",
+        "link": "https://www.lamoda.by/p/RTLABX505701",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 239.99,
+        "price": 149.99,
+        "discount": 37
+    },
+    {
+        "model_name": "Куртка",
+        "link": "https://www.lamoda.by/p/RTLACE800502",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 606,
+        "price": 363,
+        "discount": 40
+    },
+    {
+        "model_name": "HELIONIC MEL",
+        "link": "https://www.lamoda.by/p/RTLAAX897601",
         "brand_name": "adidas",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 619,
+        "price": 364,
+        "discount": 41
+    },
+    {
+        "model_name": "MOVE HOODED RAIN JACKET",
+        "link": "https://www.lamoda.by/p/RTLABP568701",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 619,
+        "price": 476,
+        "discount": 23
+    },
+    {
+        "model_name": "BERO",
+        "link": "https://www.lamoda.by/p/RTLABQ857801",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 269.99,
+        "price": 149.99,
+        "discount": 44
+    },
+    {
+        "model_name": "FUNNEL",
+        "link": "https://www.lamoda.by/p/RTLABQ811601",
+        "brand_name": "Mango Man",
         "available_sizes": [
             "S",
             "M",
             "L",
             "XL"
         ],
-        "old_price": 359,
-        "price": 269,
-        "discount": 25
+        "old_price": 539.99,
+        "price": 349.99,
+        "discount": 35
     },
     {
-        "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABC195501",
+        "model_name": "PERFECT",
+        "link": "https://www.lamoda.by/p/RTLABY473101",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 899.99,
+        "price": 599.99,
+        "discount": 33
+    },
+    {
+        "model_name": "STEFAN",
+        "link": "https://www.lamoda.by/p/RTLABZ765201",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 329.99,
+        "price": 199.99,
+        "discount": 39
+    },
+    {
+        "model_name": "TIRO PARKA ST",
+        "link": "https://www.lamoda.by/p/RTLABQ168501",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 434,
+        "price": 297,
+        "discount": 31
+    },
+    {
+        "model_name": "ARIZONA",
+        "link": "https://www.lamoda.by/p/RTLABX611701",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 539.99,
+        "price": 349.99,
+        "discount": 35
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLABO844001",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 324,
+        "price": 178,
+        "discount": 45
+    },
+    {
+        "model_name": "EXCLUSIVE FOR LAMODA",
+        "link": "https://www.lamoda.by/p/RTLAAX034301",
         "brand_name": "Jack & Jones",
         "available_sizes": [
             "S",
             "M",
             "L",
-            "XL",
-            "XXL"
+            "XL"
         ],
-        "old_price": 304,
-        "price": 197,
-        "discount": 35
+        "old_price": 425,
+        "price": 212,
+        "discount": 50
     },
     {
-        "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABI427301",
-        "brand_name": "Tom Tailor",
+        "model_name": "Полупальто",
+        "link": "https://www.lamoda.by/p/RTLACE013401",
+        "brand_name": "Primo Emporio",
         "available_sizes": [
-            "S",
-            "M",
             "L",
-            "XL",
-            "XXL"
+            "XXL",
+            "3XL"
         ],
-        "old_price": 367,
-        "price": 256,
-        "discount": 30
-    },
-    {
-        "model_name": "Жилет утепленный",
-        "link": "https://www.lamoda.by/p/RTLABI117801",
-        "brand_name": "John Richmond",
-        "available_sizes": [
-            "46",
-            "48",
-            "50",
-            "52",
-            "54"
-        ],
-        "old_price": 1162,
-        "price": 522,
+        "old_price": 875,
+        "price": 393,
         "discount": 55
     },
     {
-        "model_name": "Пуховик",
-        "link": "https://www.lamoda.by/p/RTLAAQ198301",
-        "brand_name": "Levi's®",
+        "model_name": "KYOTO",
+        "link": "https://www.lamoda.by/p/RTLACD075201",
+        "brand_name": "Mango Man",
         "available_sizes": [
-            "S",
             "M",
             "L",
             "XL",
             "XXL"
         ],
-        "old_price": 874,
-        "price": 611,
-        "discount": 30
+        "old_price": 459.99,
+        "price": 299.99,
+        "discount": 34
     },
     {
-        "model_name": "Куртка утепленная",
-        "link": "https://www.lamoda.by/p/RTLAAE347601",
-        "brand_name": "Brave Soul",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 208,
-        "price": 166,
-        "discount": 20
-    },
-    {
-        "model_name": "Куртка утепленная",
-        "link": "https://www.lamoda.by/p/PA068EMLBSG9",
-        "brand_name": "Paragoose",
+        "model_name": "GORRY",
+        "link": "https://www.lamoda.by/p/RTLABX509501",
+        "brand_name": "Mango Man",
         "available_sizes": [
             "XS",
-            "M",
-            "L",
-            "XXL"
-        ],
-        "old_price": 1273,
-        "price": 636,
-        "discount": 50
-    },
-    {
-        "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABC131301",
-        "brand_name": "Levi's®",
-        "available_sizes": [
             "S",
             "M",
-            "L",
-            "XL",
-            "XXL"
+            "L"
         ],
-        "old_price": 669,
-        "price": 334,
-        "discount": 50
+        "old_price": 239.99,
+        "price": 149.99,
+        "discount": 37
     },
     {
-        "model_name": "Куртка джинсовая",
-        "link": "https://www.lamoda.by/p/RTLABH293103",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XXL"
-        ],
-        "old_price": 359,
-        "price": 251,
-        "discount": 30
-    },
-    {
-        "model_name": "JUELL LIGHT JACKET",
-        "link": "https://www.lamoda.by/p/RTLABI337301",
+        "model_name": "UTILITY RAIN JACKET",
+        "link": "https://www.lamoda.by/p/RTLAAG793802",
         "brand_name": "Helly Hansen",
         "available_sizes": [
             "S",
             "M",
             "L",
-            "XL"
+            "XL",
+            "XXL"
         ],
-        "old_price": 369,
-        "price": 313,
-        "discount": 15
-    },
-    {
-        "model_name": "Куртка кожаная",
-        "link": "https://www.lamoda.by/p/RTLABB220801",
-        "brand_name": "Trussardi",
-        "available_sizes": [
-            "48",
-            "50",
-            "52",
-            "54"
-        ],
-        "old_price": 1999,
-        "price": 1409,
-        "discount": 29
+        "old_price": 639,
+        "price": 491,
+        "discount": 23
     },
     {
         "model_name": "Куртка утепленная",
-        "link": "https://www.lamoda.by/p/RTLABF156701",
-        "brand_name": "United Colors of Benetton",
+        "link": "https://www.lamoda.by/p/RTLAAW703901",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 506,
+        "price": 253,
+        "discount": 50
+    },
+    {
+        "model_name": "KYOTO",
+        "link": "https://www.lamoda.by/p/RTLACB421801",
+        "brand_name": "Mango Man",
         "available_sizes": [
             "S",
             "M",
             "L",
-            "XL"
+            "XXL"
         ],
-        "old_price": 334,
-        "price": 233,
-        "discount": 30
+        "old_price": 459.99,
+        "price": 299.99,
+        "discount": 34
     },
     {
         "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABJ303901",
-        "brand_name": "Tom Tailor",
+        "link": "https://www.lamoda.by/p/RTLACE799801",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 606,
+        "price": 363,
+        "discount": 40
+    },
+    {
+        "model_name": "FUNNEL",
+        "link": "https://www.lamoda.by/p/RTLABQ907301",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 539.99,
+        "price": 349.99,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACE224901",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "M",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 535,
+        "price": 267,
+        "discount": 50
+    },
+    {
+        "model_name": "OSLO",
+        "link": "https://www.lamoda.by/p/RTLACB673401",
+        "brand_name": "Mango Man",
         "available_sizes": [
             "S",
             "M",
@@ -293,110 +321,449 @@
             "XL",
             "XXL"
         ],
-        "old_price": 481,
-        "price": 336,
-        "discount": 30
+        "old_price": 659.99,
+        "price": 399.99,
+        "discount": 39
     },
     {
-        "model_name": "UA STORM Run Hooded Jacket",
-        "link": "https://www.lamoda.by/p/RTLABB982401",
-        "brand_name": "Under Armour",
+        "model_name": "GORRYST",
+        "link": "https://www.lamoda.by/p/RTLABX508401",
+        "brand_name": "Mango Man",
         "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 179.99,
+        "price": 99.99,
+        "discount": 44
+    },
+    {
+        "model_name": "ADV BLCK WB",
+        "link": "https://www.lamoda.by/p/RTLABB660701",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "XS",
             "S",
             "M",
             "L",
+            "XL",
             "XXL"
         ],
-        "old_price": 294,
-        "price": 220,
-        "discount": 25
+        "old_price": 434,
+        "price": 277,
+        "discount": 36
     },
     {
-        "model_name": "Парка",
-        "link": "https://www.lamoda.by/p/RTLABB033402",
-        "brand_name": "Superdry",
+        "model_name": "Плащ",
+        "link": "https://www.lamoda.by/p/RTLACH125701",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 953,
+        "price": 476,
+        "discount": 50
+    },
+    {
+        "model_name": "MYT Woven Jacket    BLACK",
+        "link": "https://www.lamoda.by/p/RTLABN526401",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 244,
+        "price": 158,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD359301",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 156,
+        "price": 70.2,
+        "discount": 55
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLAAK183902",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 606,
+        "price": 363,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACF160301",
+        "brand_name": "Paragoose",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 853,
+        "price": 341,
+        "discount": 60
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLACE225201",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "M",
+            "L",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 302,
+        "price": 151,
+        "discount": 50
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB784501",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 292,
+        "price": 134,
+        "discount": 54
+    },
+    {
+        "model_name": "MT SYN INS J",
+        "link": "https://www.lamoda.by/p/RTLACB148801",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 829,
+        "price": 531,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE791002",
+        "brand_name": "Diesel",
         "available_sizes": [
             "S",
             "M",
             "L",
             "XL"
         ],
-        "old_price": 589,
-        "price": 412,
-        "discount": 30
+        "old_price": 606,
+        "price": 363,
+        "discount": 40
     },
     {
-        "model_name": "RAINFOREST",
-        "link": "https://www.lamoda.by/p/RTLABF735601",
-        "brand_name": "Napapijri",
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB934601",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 438,
+        "price": 200,
+        "discount": 54
+    },
+    {
+        "model_name": "CLAUDE",
+        "link": "https://www.lamoda.by/p/RTLACB420901",
+        "brand_name": "Mango Man",
         "available_sizes": [
             "S",
             "M",
             "L"
         ],
-        "old_price": 629,
-        "price": 471,
-        "discount": 25
+        "old_price": 459.99,
+        "price": 299.99,
+        "discount": 34
     },
     {
         "model_name": "Куртка утепленная",
-        "link": "https://www.lamoda.by/p/RTLABA728502",
+        "link": "https://www.lamoda.by/p/RTLABM619102",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1449,
+        "price": 1013,
+        "discount": 30
+    },
+    {
+        "model_name": "TXMS PRIMA HDJ",
+        "link": "https://www.lamoda.by/p/RTLAAZ402501",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 1229,
+        "price": 790,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE796401",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 606,
+        "price": 424,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACG284801",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 953,
+        "price": 476,
+        "discount": 50
+    },
+    {
+        "model_name": "PackLITE Hooded Down Jacket",
+        "link": "https://www.lamoda.by/p/RTLACE356801",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 567,
+        "price": 510,
+        "discount": 10
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABY219601",
         "brand_name": "Brave Soul",
         "available_sizes": [
             "S",
             "M",
             "L"
         ],
-        "old_price": 230,
-        "price": 195,
-        "discount": 15
+        "old_price": 182,
+        "price": 91,
+        "discount": 50
+    },
+    {
+        "model_name": "Плащ",
+        "link": "https://www.lamoda.by/p/RTLACH126301",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 953,
+        "price": 476,
+        "discount": 50
+    },
+    {
+        "model_name": "Полупальто",
+        "link": "https://www.lamoda.by/p/RTLACE247401",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 791,
+        "price": 395,
+        "discount": 50
     },
     {
         "model_name": "Куртка утепленная",
-        "link": "https://www.lamoda.by/p/RTLABE529801",
-        "brand_name": "Marc O'Polo",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 789,
-        "price": 559,
-        "discount": 29
-    },
-    {
-        "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABG732602",
-        "brand_name": "Q/S designed by",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 341,
-        "price": 238,
-        "discount": 30
-    },
-    {
-        "model_name": "Куртка кожаная",
-        "link": "https://www.lamoda.by/p/RTLABB087901",
-        "brand_name": "Selected Homme",
+        "link": "https://www.lamoda.by/p/RTLABP589401",
+        "brand_name": "Brave Soul",
         "available_sizes": [
             "M",
             "L",
             "XL"
         ],
-        "old_price": 1314,
-        "price": 788,
+        "old_price": 580,
+        "price": 116,
+        "discount": 80
+    },
+    {
+        "model_name": "PackLITE Hooded Down Jacket",
+        "link": "https://www.lamoda.by/p/RTLACE356601",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 567,
+        "price": 510,
+        "discount": 10
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABP588201",
+        "brand_name": "Brave Soul",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 162,
+        "price": 89.1,
+        "discount": 45
+    },
+    {
+        "model_name": "Парка",
+        "link": "https://www.lamoda.by/p/RTLACC928401",
+        "brand_name": "Paragoose",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 853,
+        "price": 213,
+        "discount": 75
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE790902",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 606,
+        "price": 363,
         "discount": 40
     },
     {
-        "model_name": "QUILTED SST TT",
-        "link": "https://www.lamoda.by/p/RTLABB779401",
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACA661301",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 992,
+        "price": 727,
+        "discount": 26
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACC230701",
+        "brand_name": "Snow Airwolf",
+        "available_sizes": [
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 279,
+        "price": 165,
+        "discount": 40
+    },
+    {
+        "model_name": "Surf Memory",
+        "link": "https://www.lamoda.by/p/RTLABX131201",
+        "brand_name": "Quiksilver",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 324,
+        "price": 252,
+        "discount": 22
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB127401",
+        "brand_name": "Liu Jo Uomo",
+        "available_sizes": [
+            "XL",
+            "XXL"
+        ],
+        "old_price": 593,
+        "price": 533,
+        "discount": 10
+    },
+    {
+        "model_name": "Men's Down Jacket",
+        "link": "https://www.lamoda.by/p/RTLABY812101",
+        "brand_name": "Kelme",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 789,
+        "price": 591,
+        "discount": 25
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABQ719701",
+        "brand_name": "Madzerini",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 679,
+        "price": 432,
+        "discount": 36
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLACB150101",
         "brand_name": "adidas Originals",
         "available_sizes": [
             "XS",
@@ -405,21 +772,1276 @@
             "L",
             "XL"
         ],
-        "old_price": 559,
-        "price": 419,
-        "discount": 25
+        "old_price": 509,
+        "price": 324,
+        "discount": 36
+    },
+    {
+        "model_name": "GORRY",
+        "link": "https://www.lamoda.by/p/RTLABX505801",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 239.99,
+        "price": 149.99,
+        "discount": 37
+    },
+    {
+        "model_name": "DOLIPA",
+        "link": "https://www.lamoda.by/p/RTLACB421301",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "L"
+        ],
+        "old_price": 459.99,
+        "price": 299.99,
+        "discount": 34
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACE791001",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 606,
+        "price": 363,
+        "discount": 40
+    },
+    {
+        "model_name": "UTAH",
+        "link": "https://www.lamoda.by/p/RTLABZ366201",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 579.99,
+        "price": 399.99,
+        "discount": 31
+    },
+    {
+        "model_name": "NORTH YORK JACKET",
+        "link": "https://www.lamoda.by/p/RTLABA091901",
+        "brand_name": "Jack Wolfskin",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 579,
+        "price": 376,
+        "discount": 35
+    },
+    {
+        "model_name": "FUNNEL",
+        "link": "https://www.lamoda.by/p/RTLABQ907201",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 539.99,
+        "price": 349.99,
+        "discount": 35
+    },
+    {
+        "model_name": "SIDI",
+        "link": "https://www.lamoda.by/p/RTLABZ767801",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 279.99,
+        "price": 199.99,
+        "discount": 28
+    },
+    {
+        "model_name": "STREET",
+        "link": "https://www.lamoda.by/p/RTLABZ364201",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 459.99,
+        "price": 299.99,
+        "discount": 34
     },
     {
         "model_name": "Куртка",
-        "link": "https://www.lamoda.by/p/RTLABH444602",
-        "brand_name": "OVS",
+        "link": "https://www.lamoda.by/p/RTLACE249101",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 331,
+        "price": 165,
+        "discount": 50
+    },
+    {
+        "model_name": "Classics Long Down Jacket",
+        "link": "https://www.lamoda.by/p/RTLABC184201",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 1189,
+        "price": 772,
+        "discount": 35
+    },
+    {
+        "model_name": "MOVE HOODED RAIN JACKET",
+        "link": "https://www.lamoda.by/p/RTLABP568601",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 619,
+        "price": 476,
+        "discount": 23
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF003401",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 1225,
+        "price": 612,
+        "discount": 50
+    },
+    {
+        "model_name": "Better Sportswear Hooded Puffer",
+        "link": "https://www.lamoda.by/p/RTLACD506501",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 681,
+        "price": 408,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACE225001",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 535,
+        "price": 267,
+        "discount": 50
+    },
+    {
+        "model_name": "ICEPEAK ALORTON",
+        "link": "https://www.lamoda.by/p/RTLACD321401",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "50",
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 559,
+        "price": 363,
+        "discount": 35
+    },
+    {
+        "model_name": "GORRYST",
+        "link": "https://www.lamoda.by/p/RTLABX508101",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 179.99,
+        "price": 99.99,
+        "discount": 44
+    },
+    {
+        "model_name": "Куртка кожаная",
+        "link": "https://www.lamoda.by/p/RTLAAE224602",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1619,
+        "price": 1129,
+        "discount": 30
+    },
+    {
+        "model_name": "UA CGI Down Blocked Jkt",
+        "link": "https://www.lamoda.by/p/RTLAAY849302",
+        "brand_name": "Under Armour",
         "available_sizes": [
             "L",
             "XL",
             "XXL"
         ],
-        "old_price": 226,
-        "price": 158,
+        "old_price": 731,
+        "price": 584,
+        "discount": 20
+    },
+    {
+        "model_name": "FUNNEL",
+        "link": "https://www.lamoda.by/p/RTLABQ791101",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 539.99,
+        "price": 349.99,
+        "discount": 35
+    },
+    {
+        "model_name": "PARKO",
+        "link": "https://www.lamoda.by/p/RTLABX565501",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 579.99,
+        "price": 399.99,
+        "discount": 31
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABD636001",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 167,
+        "price": 116,
         "discount": 30
+    },
+    {
+        "model_name": "ICEPEAK ALMONT",
+        "link": "https://www.lamoda.by/p/RTLACD322401",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "46",
+            "48",
+            "52",
+            "54"
+        ],
+        "old_price": 659,
+        "price": 461,
+        "discount": 30
+    },
+    {
+        "model_name": "BMW MMS Street Jacket",
+        "link": "https://www.lamoda.by/p/RTLABN646301",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 469,
+        "price": 343,
+        "discount": 26
+    },
+    {
+        "model_name": "Парка",
+        "link": "https://www.lamoda.by/p/RTLACB784401",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 367,
+        "price": 168,
+        "discount": 54
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB934501",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 571,
+        "price": 287,
+        "discount": 49
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD405001",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "M",
+            "XL",
+            "3XL"
+        ],
+        "old_price": 619,
+        "price": 433,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACG282201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 953,
+        "price": 476,
+        "discount": 50
+    },
+    {
+        "model_name": "RWB RIGGING RAIN JACKET",
+        "link": "https://www.lamoda.by/p/RTLABP567601",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 509,
+        "price": 392,
+        "discount": 22
+    },
+    {
+        "model_name": "Пуховик",
+        "link": "https://www.lamoda.by/p/RTLABP915101",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 509,
+        "price": 415,
+        "discount": 18
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD610001",
+        "brand_name": "Trailhead",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 549,
+        "price": 494,
+        "discount": 10
+    },
+    {
+        "model_name": "Jacket",
+        "link": "https://www.lamoda.by/p/RTLABI338501",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 509,
+        "price": 356,
+        "discount": 30
+    },
+    {
+        "model_name": "PackLITE Hooded Down Jacket",
+        "link": "https://www.lamoda.by/p/RTLACE357001",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 567,
+        "price": 396,
+        "discount": 30
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLACB511901",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "48",
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 898,
+        "price": 538,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD404901",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 909,
+        "price": 636,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACG285301",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 953,
+        "price": 476,
+        "discount": 50
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLACF160601",
+        "brand_name": "Paragoose",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 645,
+        "price": 290,
+        "discount": 55
+    },
+    {
+        "model_name": "VENTUS 7",
+        "link": "https://www.lamoda.by/p/RTLACC419301",
+        "brand_name": "EA7",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "3XL"
+        ],
+        "old_price": 655,
+        "price": 330,
+        "discount": 49
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACF958301",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 794,
+        "price": 476,
+        "discount": 40
+    },
+    {
+        "model_name": "Пуховик",
+        "link": "https://www.lamoda.by/p/RTLACC190401",
+        "brand_name": "Outhere",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "3XL"
+        ],
+        "old_price": 1475,
+        "price": 958,
+        "discount": 35
+    },
+    {
+        "model_name": "RANGE RUNS JK Y OTLR KVJ0",
+        "link": "https://www.lamoda.by/p/RTLAAV948701",
+        "brand_name": "Quiksilver",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1069,
+        "price": 748,
+        "discount": 30
+    },
+    {
+        "model_name": "Ветровка",
+        "link": "https://www.lamoda.by/p/RTLABD587501",
+        "brand_name": "Jack & Jones",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 278,
+        "price": 191,
+        "discount": 31
+    },
+    {
+        "model_name": "KOISKALA",
+        "link": "https://www.lamoda.by/p/RTLABH981001",
+        "brand_name": "Luhta",
+        "available_sizes": [
+            "48",
+            "50",
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 579,
+        "price": 316,
+        "discount": 45
+    },
+    {
+        "model_name": "Куртка кожаная",
+        "link": "https://www.lamoda.by/p/RTLACE631501",
+        "brand_name": "Jimmy Sanders",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1608,
+        "price": 1125,
+        "discount": 30
+    },
+    {
+        "model_name": "N-3B SLIM FIT",
+        "link": "https://www.lamoda.by/p/RTLAAT611901",
+        "brand_name": "Alpha Industries",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 739,
+        "price": 517,
+        "discount": 30
+    },
+    {
+        "model_name": "DOPANA",
+        "link": "https://www.lamoda.by/p/RTLACA176501",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 329.99,
+        "price": 199.99,
+        "discount": 39
+    },
+    {
+        "model_name": "ICEPEAK ARNSTEIN",
+        "link": "https://www.lamoda.by/p/RTLACD298801",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "54"
+        ],
+        "old_price": 414,
+        "price": 289,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB932901",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 253,
+        "price": 113,
+        "discount": 55
+    },
+    {
+        "model_name": "TXMS PRIMA HDJ",
+        "link": "https://www.lamoda.by/p/RTLAAW801901",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 1089,
+        "price": 707,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABQ719601",
+        "brand_name": "Madzerini",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 739,
+        "price": 443,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD609801",
+        "brand_name": "Trailhead",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 549,
+        "price": 494,
+        "discount": 10
+    },
+    {
+        "model_name": "LUCAS",
+        "link": "https://www.lamoda.by/p/RTLABQ387401",
+        "brand_name": "Save the Duck",
+        "available_sizes": [
+            "S"
+        ],
+        "old_price": 600,
+        "price": 302,
+        "discount": 49
+    },
+    {
+        "model_name": "ICEPEAK ARNSTEIN",
+        "link": "https://www.lamoda.by/p/RTLACD321601",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "46",
+            "48",
+            "50"
+        ],
+        "old_price": 414,
+        "price": 269,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB141301",
+        "brand_name": "Trailhead",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 494,
+        "price": 444,
+        "discount": 10
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABZ325301",
+        "brand_name": "Trussardi",
+        "available_sizes": [
+            "48",
+            "50",
+            "54",
+            "56"
+        ],
+        "old_price": 839,
+        "price": 503,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD379501",
+        "brand_name": "F.G.Z.",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 759,
+        "price": 381,
+        "discount": 49
+    },
+    {
+        "model_name": "Куртка",
+        "link": "https://www.lamoda.by/p/RTLACD469901",
+        "brand_name": "Malagrida",
+        "available_sizes": [
+            "M",
+            "L"
+        ],
+        "old_price": 451,
+        "price": 248,
+        "discount": 45
+    },
+    {
+        "model_name": "Rain Jacket",
+        "link": "https://www.lamoda.by/p/RTLABR198101",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 529,
+        "price": 383,
+        "discount": 27
+    },
+    {
+        "model_name": "Пуховик",
+        "link": "https://www.lamoda.by/p/RTLACB087301",
+        "brand_name": "Madzerini",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 939,
+        "price": 601,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка",
+        "link": "https://www.lamoda.by/p/RTLACF919401",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 924,
+        "price": 554,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACC509401",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 208,
+        "price": 93.6,
+        "discount": 55
+    },
+    {
+        "model_name": "Куртка джинсовая",
+        "link": "https://www.lamoda.by/p/RTLACF920601",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1510,
+        "price": 906,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка",
+        "link": "https://www.lamoda.by/p/RTLACF134601",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 561,
+        "price": 392,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABQ719301",
+        "brand_name": "Madzerini",
+        "available_sizes": [
+            "48",
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 699,
+        "price": 454,
+        "discount": 35
+    },
+    {
+        "model_name": "ZOLI",
+        "link": "https://www.lamoda.by/p/RTLACD268101",
+        "brand_name": "Mango Man",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 379.99,
+        "price": 229.99,
+        "discount": 39
+    },
+    {
+        "model_name": "Ветровка",
+        "link": "https://www.lamoda.by/p/RTLACE824201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 875,
+        "price": 612,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACE225101",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 535,
+        "price": 267,
+        "discount": 50
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLABH412002",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "XL",
+            "XXL"
+        ],
+        "old_price": 434,
+        "price": 217,
+        "discount": 50
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACF632901",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 579,
+        "price": 405,
+        "discount": 30
+    },
+    {
+        "model_name": "Парка",
+        "link": "https://www.lamoda.by/p/RTLACE247601",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "48",
+            "50"
+        ],
+        "old_price": 1167,
+        "price": 583,
+        "discount": 50
+    },
+    {
+        "model_name": "Пуховик",
+        "link": "https://www.lamoda.by/p/RTLACC995401",
+        "brand_name": "Colmar",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 1695,
+        "price": 1101,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка",
+        "link": "https://www.lamoda.by/p/RTLABP976401",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 953,
+        "price": 571,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACB845701",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XXL"
+        ],
+        "old_price": 324,
+        "price": 226,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACE247501",
+        "brand_name": "Antony Morato",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 1002,
+        "price": 501,
+        "discount": 50
+    },
+    {
+        "model_name": "Жилет утепленный",
+        "link": "https://www.lamoda.by/p/RTLACE225401",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 302,
+        "price": 151,
+        "discount": 50
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACC230501",
+        "brand_name": "Snow Airwolf",
+        "available_sizes": [
+            "46",
+            "50",
+            "52"
+        ],
+        "old_price": 304,
+        "price": 180,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACF628401",
+        "brand_name": "RNT23",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 648,
+        "price": 453,
+        "discount": 30
+    },
+    {
+        "model_name": "DEEP LAKE JACKET M",
+        "link": "https://www.lamoda.by/p/RTLABA974301",
+        "brand_name": "Jack Wolfskin",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 579,
+        "price": 318,
+        "discount": 45
+    },
+    {
+        "model_name": "DOWN JACKET LONG M",
+        "link": "https://www.lamoda.by/p/RTLAAL662101",
+        "brand_name": "ASICS",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 687,
+        "price": 549,
+        "discount": 20
+    },
+    {
+        "model_name": "Куртка кожаная",
+        "link": "https://www.lamoda.by/p/RTLABE506101",
+        "brand_name": "Selected Homme",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 1234,
+        "price": 962,
+        "discount": 22
+    },
+    {
+        "model_name": "Пуховик",
+        "link": "https://www.lamoda.by/p/RTLACE123101",
+        "brand_name": "Emporio Armani",
+        "available_sizes": [
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 1637,
+        "price": 1064,
+        "discount": 35
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABY078401",
+        "brand_name": "Blend",
+        "available_sizes": [
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 367,
+        "price": 311,
+        "discount": 15
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACC230301",
+        "brand_name": "Snow Airwolf",
+        "available_sizes": [
+            "44",
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 304,
+        "price": 180,
+        "discount": 40
+    },
+    {
+        "model_name": "ICEPEAK ASHEBORO",
+        "link": "https://www.lamoda.by/p/RTLACD327501",
+        "brand_name": "Icepeak",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52",
+            "54"
+        ],
+        "old_price": 484,
+        "price": 338,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLABP587501",
+        "brand_name": "Brave Soul",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 162,
+        "price": 90.5,
+        "discount": 44
+    },
+    {
+        "model_name": "Жилет меховой",
+        "link": "https://www.lamoda.by/p/RTLABP975001",
+        "brand_name": "Aeronautica Militare",
+        "available_sizes": [
+            "48",
+            "50",
+            "52",
+            "54",
+            "56"
+        ],
+        "old_price": 810,
+        "price": 486,
+        "discount": 40
+    },
+    {
+        "model_name": "WARMYRUSH M JCKT CKK0",
+        "link": "https://www.lamoda.by/p/RTLAAT873001",
+        "brand_name": "Quiksilver",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 579,
+        "price": 405,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACG119901",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+        ],
+        "old_price": 729,
+        "price": 510,
+        "discount": 30
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLACD609501",
+        "brand_name": "Trailhead",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 659,
+        "price": 593,
+        "discount": 10
+    },
+    {
+        "model_name": "Парка",
+        "link": "https://www.lamoda.by/p/RTLACC924601",
+        "brand_name": "Paragoose",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 775,
+        "price": 348,
+        "discount": 55
+    },
+    {
+        "model_name": "Пуховик",
+        "link": "https://www.lamoda.by/p/RTLACC995501",
+        "brand_name": "Colmar",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 1426,
+        "price": 855,
+        "discount": 40
+    },
+    {
+        "model_name": "Куртка утепленная",
+        "link": "https://www.lamoda.by/p/RTLAAW703801",
+        "brand_name": "MZ72",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 506,
+        "price": 253,
+        "discount": 50
+    },
+    {
+        "model_name": "RWB SPRING JACKET",
+        "link": "https://www.lamoda.by/p/RTLABP567301",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 649,
+        "price": 504,
+        "discount": 22
     }
 ]

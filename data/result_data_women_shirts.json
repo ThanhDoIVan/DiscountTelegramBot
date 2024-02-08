@@ -1,56 +1,893 @@
 [
     {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAQ735202",
-        "brand_name": "Marks & Spencer",
+        "model_name": "TEE",
+        "link": "https://www.lamoda.by/p/RTLABO043001",
+        "brand_name": "adidas Originals",
         "available_sizes": [
-            "6R",
-            "8R",
-            "10R",
-            "12R",
-            "14R",
-            "16R",
-            "18R",
-            "20R",
-            "22R",
-            "24R"
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
         ],
-        "old_price": 68,
-        "price": 47.6,
-        "discount": 30
+        "old_price": 159,
+        "price": 109,
+        "discount": 31
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLACH638901",
+        "brand_name": "Fridaymonday",
+        "available_sizes": [
+            "44",
+            "46",
+            "48"
+        ],
+        "old_price": 154,
+        "price": 105,
+        "discount": 31
     },
     {
         "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAZ958701",
-        "brand_name": "Tommy Hilfiger",
+        "link": "https://www.lamoda.by/p/MP002XW0FHDS",
+        "brand_name": "Finn Flare",
         "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 64,
+        "price": 45,
+        "discount": 29
+    },
+    {
+        "model_name": "TEE Premium",
+        "link": "https://www.lamoda.by/p/RTLABJ345601",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 199,
+        "price": 119,
+        "discount": 40
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABZ566001",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "XL",
+            "XXL",
+            "4XL"
+        ],
+        "old_price": 85,
+        "price": 39,
+        "discount": 54
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACE816601",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XXS",
+            "XS"
+        ],
+        "old_price": 334,
+        "price": 233,
+        "discount": 30
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABG476101",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 74,
+        "price": 51.8,
+        "discount": 30
+    },
+    {
+        "model_name": "LOOSE TEE",
+        "link": "https://www.lamoda.by/p/RTLABJ349401",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 184,
+        "price": 105,
+        "discount": 42
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABP344701",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 162,
+        "price": 97.2,
+        "discount": 40
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABP356201",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 162,
+        "price": 97.2,
+        "discount": 40
+    },
+    {
+        "model_name": "x LIBERTY Badge Tee",
+        "link": "https://www.lamoda.by/p/RTLABG255301",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XXS",
             "XS",
             "S",
             "M",
             "L"
         ],
-        "old_price": 259,
-        "price": 155,
+        "old_price": 289,
+        "price": 211,
+        "discount": 26
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABP348801",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 162,
+        "price": 97.2,
+        "discount": 40
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABP350301",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 162,
+        "price": 97.2,
         "discount": 40
     },
     {
         "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAZ785002",
-        "brand_name": "Polo Ralph Lauren",
+        "link": "https://www.lamoda.by/p/MP002XW0H590",
+        "brand_name": "Blacksi",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 67.73,
+        "price": 26,
+        "discount": 61
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABP629201",
+        "brand_name": "Calvin Klein",
+        "available_sizes": [
+            "XS",
+            "M"
+        ],
+        "old_price": 195,
+        "price": 117,
+        "discount": 40
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/MP002XW15RCG",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 69,
+        "price": 30,
+        "discount": 56
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/LO022EWKECF2",
+        "brand_name": "Love Republic",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 66,
+        "price": 59.4,
+        "discount": 10
+    },
+    {
+        "model_name": "Downtown Relaxed Graphic Tee",
+        "link": "https://www.lamoda.by/p/RTLABL115601",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 144,
+        "price": 105,
+        "discount": 27
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACD594601",
+        "brand_name": "Kappa",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 59,
+        "price": 26.5,
+        "discount": 55
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/MP002XW15RCF",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L",
+            "XL"
+        ],
+        "old_price": 69,
+        "price": 20,
+        "discount": 71
+    },
+    {
+        "model_name": "CL RBK ND CROPPED T-SHIRT",
+        "link": "https://www.lamoda.by/p/RTLABB656201",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 174,
+        "price": 117,
+        "discount": 32
+    },
+    {
+        "model_name": "W CREWLINE POLO",
+        "link": "https://www.lamoda.by/p/RTLABG461001",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 184,
+        "price": 140,
+        "discount": 23
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLACD594701",
+        "brand_name": "Kappa",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 65,
+        "price": 35.7,
+        "discount": 45
+    },
+    {
+        "model_name": "LUHTA ASUNTILA",
+        "link": "https://www.lamoda.by/p/RTLACD279401",
+        "brand_name": "Luhta",
         "available_sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "old_price": 284,
-        "price": 174,
-        "discount": 38
+        "old_price": 144,
+        "price": 100,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACD594801",
+        "brand_name": "Kappa",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 59,
+        "price": 26.5,
+        "discount": 55
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABQ445201",
+        "brand_name": "Liu Jo",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 318,
+        "price": 190,
+        "discount": 40
+    },
+    {
+        "model_name": "W FI 3B TEE",
+        "link": "https://www.lamoda.by/p/RTLABD271801",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 134,
+        "price": 86.1,
+        "discount": 35
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABH516101",
+        "brand_name": "Silvian Heach",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 185,
+        "price": 138,
+        "discount": 25
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABF823101",
+        "brand_name": "Trendyol",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 43,
+        "price": 27.9,
+        "discount": 35
     },
     {
         "model_name": "Лонгслив",
-        "link": "https://www.lamoda.by/p/RTLAAR544901",
-        "brand_name": "Levi's®",
+        "link": "https://www.lamoda.by/p/RTLABP272701",
+        "brand_name": "Pinko",
+        "available_sizes": [
+            "XS",
+            "M"
+        ],
+        "old_price": 444,
+        "price": 199,
+        "discount": 55
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABC000601",
+        "brand_name": "Converse",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 116,
+        "price": 75.4,
+        "discount": 35
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABA232301",
+        "brand_name": "Boutique Moschino",
+        "available_sizes": [
+            "40",
+            "42",
+            "44"
+        ],
+        "old_price": 610,
+        "price": 503,
+        "discount": 17
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLACB850401",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 274,
+        "price": 191,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACE793701",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XXS",
+            "XS"
+        ],
+        "old_price": 334,
+        "price": 233,
+        "discount": 30
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLACF937901",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 137,
+        "price": 82.2,
+        "discount": 40
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABO795102",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 44,
+        "price": 30.8,
+        "discount": 30
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABP358701",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 162,
+        "price": 97.2,
+        "discount": 40
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/BE031EWKGXP3",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 46,
+        "price": 32.2,
+        "discount": 30
+    },
+    {
+        "model_name": "x LIBERTY Badge Tee",
+        "link": "https://www.lamoda.by/p/RTLABG255401",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 289,
+        "price": 211,
+        "discount": 26
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLABO795501",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 52,
+        "price": 36.4,
+        "discount": 30
+    },
+    {
+        "model_name": "W CREWLINE POLO",
+        "link": "https://www.lamoda.by/p/RTLAAG792101",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 184,
+        "price": 140,
+        "discount": 23
+    },
+    {
+        "model_name": "W LOGO T-SHIRT",
+        "link": "https://www.lamoda.by/p/RTLABP559601",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 84.1,
+        "discount": 22
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLACD595001",
+        "brand_name": "Kappa",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 65,
+        "price": 35.7,
+        "discount": 45
+    },
+    {
+        "model_name": "ROCHESTER Champion Logo Maxi T-Shirt",
+        "link": "https://www.lamoda.by/p/RTLAAL992901",
+        "brand_name": "Champion",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 159,
+        "price": 120,
+        "discount": 24
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLAAA074801",
+        "brand_name": "Kenzo",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 428,
+        "price": 310,
+        "discount": 27
+    },
+    {
+        "model_name": "PATTI",
+        "link": "https://www.lamoda.by/p/RTLABM458101",
+        "brand_name": "Pepe Jeans",
+        "available_sizes": [
+            "XS",
+            "L",
+            "XL"
+        ],
+        "old_price": 123,
+        "price": 67.1,
+        "discount": 45
+    },
+    {
+        "model_name": "ESS PUMA BF Tee W",
+        "link": "https://www.lamoda.by/p/RTLABN339201",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 109,
+        "price": 79.2,
+        "discount": 27
+    },
+    {
+        "model_name": "XVIKYPIC",
+        "link": "https://www.lamoda.by/p/RTLACE179201",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 99.99,
+        "price": 69.99,
+        "discount": 30
+    },
+    {
+        "model_name": "Cotton SS Tee",
+        "link": "https://www.lamoda.by/p/RTLAAV001501",
+        "brand_name": "Marks & Spencer",
+        "available_sizes": [
+            "6",
+            "8",
+            "10",
+            "12",
+            "14",
+            "16",
+            "20"
+        ],
+        "old_price": 104,
+        "price": 51.1,
+        "discount": 50
+    },
+    {
+        "model_name": "CARLOTA",
+        "link": "https://www.lamoda.by/p/RTLABQ379801",
+        "brand_name": "Pepe Jeans",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 107,
+        "price": 58.7,
+        "discount": 45
+    },
+    {
+        "model_name": "CL ND TEE",
+        "link": "https://www.lamoda.by/p/RTLABB053101",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 184,
+        "price": 123,
+        "discount": 33
+    },
+    {
+        "model_name": "Rebel Fashion Tee",
+        "link": "https://www.lamoda.by/p/RTLABK047501",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 104,
+        "price": 74.4,
+        "discount": 28
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLACD680801",
+        "brand_name": "Imocean",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 98,
+        "price": 66.7,
+        "discount": 31
+    },
+    {
+        "model_name": "ROCHESTER Champion Logo Crewneck T-Shirt",
+        "link": "https://www.lamoda.by/p/RTLAAL993601",
+        "brand_name": "Champion",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 159,
+        "price": 120,
+        "discount": 24
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABG903102",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XXS",
+            "S",
+            "M"
+        ],
+        "old_price": 237,
+        "price": 165,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/DI303EWLQXZ4",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 205,
+        "price": 143,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLAAH309301",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 269,
+        "price": 188,
+        "discount": 30
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLAAY262301",
+        "brand_name": "Giorgio Di Mare",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 137,
+        "price": 82.2,
+        "discount": 40
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABO800501",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 26,
+        "price": 16.8,
+        "discount": 35
+    },
+    {
+        "model_name": "OWN THE RUN TEE",
+        "link": "https://www.lamoda.by/p/RTLABD256301",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 134,
+        "price": 86.1,
+        "discount": 35
+    },
+    {
+        "model_name": "VALKOJA",
+        "link": "https://www.lamoda.by/p/RTLABK323501",
+        "brand_name": "Rukka",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 144,
+        "price": 72.6,
+        "discount": 49
+    },
+    {
+        "model_name": "TEE",
+        "link": "https://www.lamoda.by/p/RTLABJ349301",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 159,
+        "price": 102,
+        "discount": 35
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLAAS142701",
+        "brand_name": "Guess Jeans",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 133,
+        "price": 73.1,
+        "discount": 45
+    },
+    {
+        "model_name": "x AMI W Graphic Tee",
+        "link": "https://www.lamoda.by/p/RTLABJ457401",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 309,
+        "price": 224,
+        "discount": 27
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLACF977201",
+        "brand_name": "Hey Look",
+        "available_sizes": [
+            "42",
+            "44"
+        ],
+        "old_price": 229,
+        "price": 137,
+        "discount": 40
+    },
+    {
+        "model_name": "CL RBK ND WAFFLE TEE",
+        "link": "https://www.lamoda.by/p/RTLABD261601",
+        "brand_name": "Reebok",
         "available_sizes": [
             "XXS",
             "XS",
@@ -59,143 +896,40 @@
             "L"
         ],
         "old_price": 184,
-        "price": 92,
-        "discount": 50
+        "price": 123,
+        "discount": 33
     },
     {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABB090201",
-        "brand_name": "Only",
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLABD207801",
+        "brand_name": "Ulla Popken",
         "available_sizes": [
-            "XS",
-            "S",
-            "M"
+            "42/44",
+            "46/48",
+            "58/60"
         ],
-        "old_price": 71,
-        "price": 53.2,
-        "discount": 25
-    },
-    {
-        "model_name": "2022-10",
-        "link": "https://www.lamoda.by/p/RTLABB256801",
-        "brand_name": "Trussardi",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 259,
-        "price": 155,
-        "discount": 40
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABB256701",
-        "brand_name": "Trussardi",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 259,
-        "price": 134,
-        "discount": 48
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABF089201",
-        "brand_name": "Guess Jeans",
-        "available_sizes": [
-            "XS",
-            "M",
-            "XL"
-        ],
-        "old_price": 204,
-        "price": 183,
-        "discount": 10
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAZ240601",
-        "brand_name": "Only",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 60,
-        "price": 33,
+        "old_price": 140,
+        "price": 77,
         "discount": 44
     },
     {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAZ240401",
-        "brand_name": "Only",
-        "available_sizes": [
-            "S",
-            "M"
-        ],
-        "old_price": 60,
-        "price": 33,
-        "discount": 44
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAQ691801",
-        "brand_name": "Marks & Spencer",
-        "available_sizes": [
-            "6R",
-            "8R",
-            "10R",
-            "12R",
-            "14R",
-            "16R",
-            "18R",
-            "20R",
-            "22R",
-            "24R"
-        ],
-        "old_price": 68,
-        "price": 44.2,
-        "discount": 35
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABI161601",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XXL"
-        ],
-        "old_price": 109,
-        "price": 87.2,
-        "discount": 20
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAZ897701",
-        "brand_name": "Trendyol",
+        "model_name": "CL ND TEE",
+        "link": "https://www.lamoda.by/p/RTLABN527201",
+        "brand_name": "Reebok",
         "available_sizes": [
             "XS",
             "S",
             "M",
             "L"
         ],
-        "old_price": 52,
-        "price": 23.4,
-        "discount": 55
+        "old_price": 184,
+        "price": 123,
+        "discount": 33
     },
     {
         "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAS840601",
-        "brand_name": "Tom Tailor Denim",
+        "link": "https://www.lamoda.by/p/MP002XW15VQS",
+        "brand_name": "Finn Flare",
         "available_sizes": [
             "XS",
             "S",
@@ -203,16 +937,30 @@
             "L",
             "XL"
         ],
-        "old_price": 86,
-        "price": 77.4,
-        "discount": 10
+        "old_price": 84,
+        "price": 45,
+        "discount": 46
     },
     {
-        "model_name": "W 3S T",
-        "link": "https://www.lamoda.by/p/RTLABE368101",
-        "brand_name": "adidas",
+        "model_name": "REGULAR TSHIRT",
+        "link": "https://www.lamoda.by/p/RTLABD271401",
+        "brand_name": "adidas Originals",
         "available_sizes": [
-            "XXS",
+            "30",
+            "32",
+            "34",
+            "36",
+            "38"
+        ],
+        "old_price": 184,
+        "price": 101,
+        "discount": 45
+    },
+    {
+        "model_name": "ESS Tee W",
+        "link": "https://www.lamoda.by/p/RTLABN344701",
+        "brand_name": "PUMA",
+        "available_sizes": [
             "XS",
             "S",
             "M",
@@ -220,315 +968,600 @@
             "XL"
         ],
         "old_price": 90,
-        "price": 76.5,
-        "discount": 15
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAL172401",
-        "brand_name": "River Island",
-        "available_sizes": [
-            "10",
-            "12"
-        ],
-        "old_price": 115,
-        "price": 63.2,
-        "discount": 45
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAH280201",
-        "brand_name": "Karl Lagerfeld Beachwear",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 404,
-        "price": 181,
-        "discount": 55
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAV369201",
-        "brand_name": "Alpha Industries",
-        "available_sizes": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 134,
-        "price": 87.1,
-        "discount": 35
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABJ846501",
-        "brand_name": "United Colors of Benetton",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 124,
-        "price": 80.6,
-        "discount": 35
-    },
-    {
-        "model_name": "GRAPHIC LS",
-        "link": "https://www.lamoda.by/p/RTLABA574601",
-        "brand_name": "adidas Originals",
-        "available_sizes": [
-            "32",
-            "34",
-            "36",
-            "38"
-        ],
-        "old_price": 224,
-        "price": 156,
-        "discount": 30
-    },
-    {
-        "model_name": "Лонгслив",
-        "link": "https://www.lamoda.by/p/RTLABF119201",
-        "brand_name": "Ulla Popken",
-        "available_sizes": [
-            "42/44",
-            "46/48",
-            "54/56",
-            "58/60"
-        ],
-        "old_price": 141,
-        "price": 105,
-        "discount": 25
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAH280101",
-        "brand_name": "Karl Lagerfeld Beachwear",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 404,
-        "price": 222,
-        "discount": 45
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABH829701",
-        "brand_name": "Guess Jeans",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 211,
-        "price": 158,
-        "discount": 25
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAZ857001",
-        "brand_name": "Liu Jo",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 334,
-        "price": 169,
-        "discount": 49
-    },
-    {
-        "model_name": "Лонгслив",
-        "link": "https://www.lamoda.by/p/RTLABB979901",
-        "brand_name": "b.young",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 193,
-        "price": 135,
-        "discount": 30
-    },
-    {
-        "model_name": "MA02121E2",
-        "link": "https://www.lamoda.by/p/RTLABD297801",
-        "brand_name": "Elisabetta Franchi",
-        "available_sizes": [
-            "38",
-            "40",
-            "42",
-            "44"
-        ],
-        "old_price": 703,
-        "price": 492,
-        "discount": 30
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/KA025EWLSEP4",
-        "brand_name": "Karl Lagerfeld",
-        "available_sizes": [
-            "XS",
-            "S"
-        ],
-        "old_price": 354,
-        "price": 212,
-        "discount": 40
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABG919801",
-        "brand_name": "Bulmer",
-        "available_sizes": [
-            "38",
-            "40",
-            "42",
-            "44"
-        ],
-        "old_price": 149,
-        "price": 126,
-        "discount": 15
-    },
-    {
-        "model_name": "DALMAZIA",
-        "link": "https://www.lamoda.by/p/RTLABA141001",
-        "brand_name": "Max&Co",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 193,
-        "price": 144,
-        "discount": 25
-    },
-    {
-        "model_name": "Поло",
-        "link": "https://www.lamoda.by/p/RTLAAI613601",
-        "brand_name": "Felix Hardy",
-        "available_sizes": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-        ],
-        "old_price": 208,
-        "price": 72.8,
-        "discount": 65
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABG559201",
-        "brand_name": "Chiara Ferragni",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 430,
-        "price": 258,
-        "discount": 40
-    },
-    {
-        "model_name": "SS RIB BABY TEE",
-        "link": "https://www.lamoda.by/p/RTLABD088601",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 149,
-        "price": 81.9,
-        "discount": 45
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/LE306EWHHPW1",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XS",
-            "S",
-            "M"
-        ],
-        "old_price": 119,
-        "price": 78,
-        "discount": 34
-    },
-    {
-        "model_name": "SS RIB BABY TEE",
-        "link": "https://www.lamoda.by/p/RTLABD088901",
-        "brand_name": "Levi's®",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L"
-        ],
-        "old_price": 149,
-        "price": 74.5,
-        "discount": 50
-    },
-    {
-        "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABJ544001",
-        "brand_name": "Gap",
-        "available_sizes": [
-            "XXS",
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL"
-        ],
-        "old_price": 78,
-        "price": 57.3,
+        "price": 66.4,
         "discount": 26
     },
     {
         "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLABC282701",
-        "brand_name": "Only",
+        "link": "https://www.lamoda.by/p/RTLABN367001",
+        "brand_name": "Vero Moda",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 76,
+        "price": 57,
+        "discount": 25
+    },
+    {
+        "model_name": "HER Tee",
+        "link": "https://www.lamoda.by/p/RTLABN339001",
+        "brand_name": "PUMA",
         "available_sizes": [
             "XS",
             "S",
             "M",
-            "L"
+            "L",
+            "XL"
         ],
-        "old_price": 67,
-        "price": 50.2,
-        "discount": 25
+        "old_price": 109,
+        "price": 79.2,
+        "discount": 27
     },
     {
         "model_name": "Футболка",
-        "link": "https://www.lamoda.by/p/RTLAAY899301",
+        "link": "https://www.lamoda.by/p/RTLABE404501",
         "brand_name": "Calvin Klein",
         "available_sizes": [
             "XS",
             "S",
+            "M"
+        ],
+        "old_price": 195,
+        "price": 126,
+        "discount": 35
+    },
+    {
+        "model_name": "ESS PUMA BF Tee W",
+        "link": "https://www.lamoda.by/p/RTLABN339401",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 79.2,
+        "discount": 27
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABL098701",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 30,
+        "price": 21,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABF441001",
+        "brand_name": "Pieces",
+        "available_sizes": [
+            "XS",
+            "S",
             "M",
             "L"
         ],
-        "old_price": 204,
-        "price": 153,
+        "old_price": 59,
+        "price": 53.1,
+        "discount": 10
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLACB964301",
+        "brand_name": "Elsi",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 399,
+        "price": 199,
+        "discount": 50
+    },
+    {
+        "model_name": "BETSY",
+        "link": "https://www.lamoda.by/p/RTLABG327801",
+        "brand_name": "Save the Duck",
+        "available_sizes": [
+            "0",
+            "1",
+            "2"
+        ],
+        "old_price": 149,
+        "price": 104,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLAAE947801",
+        "brand_name": "Banana Republic",
+        "available_sizes": [
+            "XS",
+            "S",
+            "L"
+        ],
+        "old_price": 82,
+        "price": 57.4,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACC376601",
+        "brand_name": "Zabaione",
+        "available_sizes": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 150,
+        "price": 75,
+        "discount": 50
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACE818201",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S"
+        ],
+        "old_price": 334,
+        "price": 233,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/LO022EWLUVX1",
+        "brand_name": "Love Republic",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S"
+        ],
+        "old_price": 62,
+        "price": 43.4,
+        "discount": 30
+    },
+    {
+        "model_name": "CLUB TEE",
+        "link": "https://www.lamoda.by/p/RTLABH131001",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 234,
+        "price": 140,
+        "discount": 40
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABM807201",
+        "brand_name": "Zarina",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 54,
+        "price": 37.8,
+        "discount": 30
+    },
+    {
+        "model_name": "CHALAPI",
+        "link": "https://www.lamoda.by/p/RTLABQ812201",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XXS"
+        ],
+        "old_price": 45.99,
+        "price": 29.99,
+        "discount": 34
+    },
+    {
+        "model_name": "WOMEN'S SHORT-SLEEVE RUNNING TOP ",
+        "link": "https://www.lamoda.by/p/NI464EWAAEV8",
+        "brand_name": "Nike",
+        "available_sizes": [
+            "XS"
+        ],
+        "old_price": 75,
+        "price": 48.7,
+        "discount": 35
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLACF976101",
+        "brand_name": "Hey Look",
+        "available_sizes": [
+            "42/46"
+        ],
+        "old_price": 144,
+        "price": 86.4,
+        "discount": 39
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABO794802",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 32,
+        "price": 22.4,
+        "discount": 30
+    },
+    {
+        "model_name": "VISCA",
+        "link": "https://www.lamoda.by/p/RTLABQ814401",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 69.99,
+        "price": 39.99,
+        "discount": 42
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABM102401",
+        "brand_name": "Baon",
+        "available_sizes": [
+            "L"
+        ],
+        "old_price": 90,
+        "price": 37.3,
+        "discount": 58
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/MP002XW15RCJ",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 69,
+        "price": 20,
+        "discount": 71
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/MP002XW0CGX9",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL",
+            "XXL"
+        ],
+        "old_price": 44,
+        "price": 20,
+        "discount": 54
+    },
+    {
+        "model_name": "W 3S T",
+        "link": "https://www.lamoda.by/p/AD002EWLUIJ2",
+        "brand_name": "adidas",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 109,
+        "price": 68,
+        "discount": 37
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLABY839201",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 274,
+        "price": 191,
+        "discount": 30
+    },
+    {
+        "model_name": "GRAPHIC TEE",
+        "link": "https://www.lamoda.by/p/RTLABJ793301",
+        "brand_name": "adidas Originals",
+        "available_sizes": [
+            "30",
+            "32",
+            "34",
+            "36",
+            "38",
+            "40"
+        ],
+        "old_price": 234,
+        "price": 142,
+        "discount": 39
+    },
+    {
+        "model_name": "Active ESS Tee Poly W",
+        "link": "https://www.lamoda.by/p/RTLABN343701",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 79.2,
+        "discount": 27
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABD399301",
+        "brand_name": "Liu Jo",
+        "available_sizes": [
+            "XS",
+            "S"
+        ],
+        "old_price": 456,
+        "price": 205,
+        "discount": 55
+    },
+    {
+        "model_name": "MARINA",
+        "link": "https://www.lamoda.by/p/RTLACA170501",
+        "brand_name": "Mango",
+        "available_sizes": [
+            "S"
+        ],
+        "old_price": 99.99,
+        "price": 69.99,
+        "discount": 30
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABO795001",
+        "brand_name": "Befree",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 32,
+        "price": 22.4,
+        "discount": 30
+    },
+    {
+        "model_name": "CL RBK ND WAFFLE TEE",
+        "link": "https://www.lamoda.by/p/RTLABJ150301",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 184,
+        "price": 123,
+        "discount": 33
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLACD683201",
+        "brand_name": "TrendyAngel",
+        "available_sizes": [
+            "S"
+        ],
+        "old_price": 324,
+        "price": 178,
+        "discount": 45
+    },
+    {
+        "model_name": "CL RBK ND CROPPED T-SHIRT",
+        "link": "https://www.lamoda.by/p/RTLABJ150201",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 174,
+        "price": 117,
+        "discount": 32
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABR068801",
+        "brand_name": "United Colors of Benetton",
+        "available_sizes": [
+            "M"
+        ],
+        "old_price": 72,
+        "price": 52.8,
+        "discount": 26
+    },
+    {
+        "model_name": "Поло",
+        "link": "https://www.lamoda.by/p/RTLACB967101",
+        "brand_name": "Nerouge",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 174,
+        "price": 85.8,
+        "discount": 50
+    },
+    {
+        "model_name": "COMM W TEE1",
+        "link": "https://www.lamoda.by/p/RTLABF414001",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 99,
+        "price": 74.2,
         "discount": 25
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/MP002XW0CQED",
+        "brand_name": "Top Top",
+        "available_sizes": [
+            "OneSize"
+        ],
+        "old_price": 129,
+        "price": 116,
+        "discount": 10
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLACE817001",
+        "brand_name": "Diesel",
+        "available_sizes": [
+            "XXS",
+            "XS",
+            "S",
+            "M"
+        ],
+        "old_price": 205,
+        "price": 143,
+        "discount": 30
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLABM934601",
+        "brand_name": "Toku Tino",
+        "available_sizes": [
+            "46",
+            "48",
+            "50",
+            "52"
+        ],
+        "old_price": 109,
+        "price": 43.2,
+        "discount": 60
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABL164601",
+        "brand_name": "Fielsi",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 84,
+        "price": 41.8,
+        "discount": 50
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/RTLABL165301",
+        "brand_name": "Fielsi",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 84,
+        "price": 41.8,
+        "discount": 50
+    },
+    {
+        "model_name": "CELEBRATION Style Tee Wmns",
+        "link": "https://www.lamoda.by/p/RTLABQ711501",
+        "brand_name": "PUMA",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "old_price": 109,
+        "price": 79.2,
+        "discount": 27
+    },
+    {
+        "model_name": "Футболка",
+        "link": "https://www.lamoda.by/p/MP002XW0CGX4",
+        "brand_name": "Finn Flare",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "XL"
+        ],
+        "old_price": 44,
+        "price": 20,
+        "discount": 54
+    },
+    {
+        "model_name": "W HH LOGO T-SHIRT",
+        "link": "https://www.lamoda.by/p/RTLAAP420101",
+        "brand_name": "Helly Hansen",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 119,
+        "price": 87.2,
+        "discount": 26
+    },
+    {
+        "model_name": "Лонгслив",
+        "link": "https://www.lamoda.by/p/RTLABQ598501",
+        "brand_name": "Fragarika",
+        "available_sizes": [
+            "S",
+            "M"
+        ],
+        "old_price": 209,
+        "price": 94,
+        "discount": 55
+    },
+    {
+        "model_name": "LM Cropped Graphic  WHITE",
+        "link": "https://www.lamoda.by/p/RTLABN578601",
+        "brand_name": "Reebok",
+        "available_sizes": [
+            "XS",
+            "S",
+            "M",
+            "L"
+        ],
+        "old_price": 134,
+        "price": 92.2,
+        "discount": 31
     }
 ]
