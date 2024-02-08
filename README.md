@@ -1,6 +1,7 @@
 Discount Bot after initialize (/start command)
 
 ![pic-1](https://github.com/ThanhDoIVan/DiscountTelegramBot/blob/master/pic-1.jpg?raw=true|width=100px)
+<img src="https://github.com/ThanhDoIVan/DiscountTelegramBot/blob/master/pic-1.jpg" width='100'>
 
 Discount Bot in action
 
